@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-8DJaTUDgEvvBW8CoHY7zhg" name=",_cNXgsP7sEeWZBN8BGKJ1FQ" guid="-8DJaTUDgEvvBW8CoHY7zhg" changeDate="2016-04-10T09:19:54.245+0200">
+  <mainDescription>Se deben identificar roles, no personas concretas.</mainDescription>
+  <sections xmi:id="_mTHMMP7tEeWZBN8BGKJ1FQ" name="Describir el tipo de cliente" guid="_mTHMMP7tEeWZBN8BGKJ1FQ">
+    <sectionDescription>En este paso se describe el tipo de cliente en cuestión.</sectionDescription>
+  </sections>
+  <sections xmi:id="_667aMP7sEeWZBN8BGKJ1FQ" name="Describir el tipo de usuario" guid="_667aMP7sEeWZBN8BGKJ1FQ">
+    <sectionDescription>En este paso se describe el tipo de usuario en cuestión.</sectionDescription>
+  </sections>
+  <purpose>Identificar los clientes y los usuarios del sistema.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

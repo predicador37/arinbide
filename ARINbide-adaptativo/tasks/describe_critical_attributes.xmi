@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-5F-A0YpfQU3C5W1C7-IYDg" name=",_3XlH4P7vEeWZBN8BGKJ1FQ" guid="-5F-A0YpfQU3C5W1C7-IYDg">
+  <sections xmi:id="_S1Yg0P7wEeWZBN8BGKJ1FQ" name="Descripción de atributos funcionales" guid="_S1Yg0P7wEeWZBN8BGKJ1FQ">
+    <sectionDescription>Descripción de alto nivel de los atributos funcionales y sus prioridades.</sectionDescription>
+  </sections>
+  <sections xmi:id="_XCKDQP7wEeWZBN8BGKJ1FQ" name="Descripción de atributos no funcionales" guid="_XCKDQP7wEeWZBN8BGKJ1FQ">
+    <sectionDescription>Descripción de alto nivel de los atributos no&amp;nbsp;funcionales y sus prioridades.</sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

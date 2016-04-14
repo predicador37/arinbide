@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_KC9sIf70EeWZBN8BGKJ1FQ" guid="_KC9sIf70EeWZBN8BGKJ1FQ">
+    <resourceDescriptors xmi:id="_KC9sIv70EeWZBN8BGKJ1FQ" id="-qbmDFS9jVaFPve-0IaA7Cw" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_KCNeMP70EeWZBN8BGKJ1FQ" name="sprint0" guid="_KCNeMP70EeWZBN8BGKJ1FQ">
+    <methodElementProperty xmi:id="_KCXPMP70EeWZBN8BGKJ1FQ" name="pkg_loadCheck" value="true"/>
+    <methodElementProperty xmi:id="_PuwKQP70EeWZBN8BGKJ1FQ" name="me_edited" value="true"/>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_hN_ZkP76EeWZBN8BGKJ1FQ" name="Definir la visión del producto" guid="_hN_ZkP76EeWZBN8BGKJ1FQ">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_hN_Zkf76EeWZBN8BGKJ1FQ" name="Definir la visión del producto" guid="_hN_Zkf76EeWZBN8BGKJ1FQ" presentationName="Definir la visión del producto" superActivities="_KCNeMf70EeWZBN8BGKJ1FQ" variabilityType="extends">
+        <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_5IuDcP7xEeWZBN8BGKJ1FQ#_5IuDcf7xEeWZBN8BGKJ1FQ"/>
+      </processElements>
+    </childPackages>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_KCNeMf70EeWZBN8BGKJ1FQ" name="sprint0" guid="_KCNeMf70EeWZBN8BGKJ1FQ" presentationName="sprint0" breakdownElements="_hN_Zkf76EeWZBN8BGKJ1FQ">
+      <presentation xmi:id="-qbmDFS9jVaFPve-0IaA7Cw" href="uma://-qbmDFS9jVaFPve-0IaA7Cw#-qbmDFS9jVaFPve-0IaA7Cw"/>
+      <defaultContext href="uma://_rnsX4OF4Edyp34pwdTOSVQ#_9ZyFcP7wEeWZBN8BGKJ1FQ"/>
+      <validContext href="uma://_rnsX4OF4Edyp34pwdTOSVQ#_9ZyFcP7wEeWZBN8BGKJ1FQ"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

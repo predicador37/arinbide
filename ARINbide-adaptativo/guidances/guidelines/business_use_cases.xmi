@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Y5X4MODFde6GkuIOHO4AlA" name="new_guideline,_oEOYAP4-EeWZBN8BGKJ1FQ" guid="-Y5X4MODFde6GkuIOHO4AlA" changeDate="2016-04-09T12:39:09.905+0200" version="1.0">
+  <mainDescription>&lt;p>&#xD;
+    Un caso de uso recoge, en un primer momento, una descripción general. Esta descripción reflejará posiblemente uno o&#xD;
+    varios requisitos funcionales del sistema o formará parte de algún requisito.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Se puede completar la descripción definiendo cuáles son las precondiciones y postcondiciones del sistema, es decir, qué&#xD;
+    condiciones deben cumplirse para que se realice un caso de uso y cuáles son aquellas condiciones que se cumplen&amp;nbsp;&#xD;
+    posteriormente al caso de uso.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    También se pueden enumerar los diferentes escenarios del caso de uso si los tuviese y dar una breve descripción de&#xD;
+    ellos. Los escenarios son los distintos caminos por los que puede evolucionar un caso de uso, dependiendo de las&#xD;
+    condiciones que se van dando en su realización.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Las descripciones de casos de uso se pueden completar con diagramas UML de casos de uso.&#xD;
+&lt;/p>&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

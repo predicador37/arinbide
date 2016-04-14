@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ProcessDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-wlkjhjaCVI-VDLMNyLutmQ" name="define_product_vision_2,_5IuDcf7xEeWZBN8BGKJ1FQ" guid="-wlkjhjaCVI-VDLMNyLutmQ">
+  <purpose>Obtener un documento plasmando la visión del producto,</purpose>
+</org.eclipse.epf.uma:ProcessDescription>

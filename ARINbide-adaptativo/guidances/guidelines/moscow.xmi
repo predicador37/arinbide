@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-8n4224C7UM6KKAaEcM5FfA" name="new_guideline,_xn5AoP6AEeWZBN8BGKJ1FQ" guid="-8n4224C7UM6KKAaEcM5FfA" changeDate="2016-04-09T20:30:32.927+0200">
+  <mainDescription>&lt;ul class=&quot;noindent&quot;>&#xD;
+    &lt;li>&#xD;
+        Debe tener (Must Have). Se trata de un elemento clave y esencial, que si no se entrega, los interesados no estarán&#xD;
+        satisfechos y se considerará un fracaso.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Debería tener (Should have). Es importante, pero no estrictamente necesario. Son tan significativos como los&#xD;
+        “must”, pero podrían resolverse un poco más tarde, o de otra manera alternativa aunque menos satisfactoria.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Podría tener (Could have). Son menos críticos, pero estaría bien tenerlos. Podrían incrementar la atisfacción de&#xD;
+        los interesados con un coste de desarrollo bajo.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        No tendrá por ahora (Won’t have this time). Son los menos críticos, los que menos valor aportan y los que no son&#xD;
+        necesarios por ahora. Suelen ayudar a aclarar el alcance y se añaden porque posteriormente podría ser descartados&#xD;
+        definitivamente o bien reconsiderarse para su inclusión.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    En otras técnicas de priorización, el uso de valores como alto, medio o bajo, no indica de manera natural su&#xD;
+    significado. En MoSCoW, las prioridades reflejan el resultado de entregar o no el elemento que se está evaluando, lo&#xD;
+    que podrá indicar, si se trata por ejemplo de los requisitos del sistema, el éxito o no del producto para los&#xD;
+    interesados.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Una vez realizada la priorización siguiendo la técnica MoSCoW, se pueden aplicar otras técnicas que, por cada&#xD;
+    categoría, ordene sus respectivos elementos.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

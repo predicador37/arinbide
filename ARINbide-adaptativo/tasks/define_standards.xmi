@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="---w_IC1G4FCQgVxz165ogQ" name=",_4azykP8HEeWZBN8BGKJ1FQ" guid="---w_IC1G4FCQgVxz165ogQ" changeDate="2016-04-10T12:35:34.977+0200">
+  <purpose>Especificar el conjunto de normas y estándares a aplicar durante el desarrollo del sistema.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

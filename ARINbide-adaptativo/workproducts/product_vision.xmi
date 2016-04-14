@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-R_jcyJqlP4VuW_Rc-11hvQ" name="new_artifact,_PmUbgP46EeWZBN8BGKJ1FQ" guid="-R_jcyJqlP4VuW_Rc-11hvQ" changeDate="2016-04-09T12:03:57.930+0200">
+  <mainDescription>&lt;p>&#xD;
+    Es una información de alto nivel y de propósito general. No tiene que ser detallada, pero sí tiene que ser sencilla y&#xD;
+    clara, y no tener ambigüedades.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Para conseguir esta visión es necesario:&#xD;
+&lt;/p>&#xD;
+&lt;ul class=&quot;noindent&quot;>&#xD;
+    &lt;li>&#xD;
+        Identificar los clientes y los usuarios del sistema. Se deben identificar roles, y no personas&lt;br />&#xD;
+        concretas.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Definir a grandes rasgos las necesidades y expectativas más relevantes para los clientes y&lt;br />&#xD;
+        usuarios.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Describir, a alto nivel, los atributos críticos, tanto funcionales como no funcionales que el producto&lt;br />&#xD;
+        debe cumplir para satisfacer las necesidades detectadas.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    La Visión del producto se puede modificar retroalimentándose al final de cada Sprint, aunque no es algo&lt;br />&#xD;
+    deseable pues podría generar confusión entre los participantes en el proyecto.&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    La forma clásica de validar si la Visión del producto es suficiente es responder al test del ascensor:&lt;br />&#xD;
+    ¿Puedes explicar el producto en el tiempo que usas para subir varios pisos en un ascensor?&#xD;
+&lt;/p></keyConsiderations>
+  <purpose>Obtener una descripción de alto nivel de los objetivos y alcance del proyecto.</purpose>
+  <impactOfNotHaving>Confusión en el proyecto, falta de gobernanza; podría conllevar el fracaso del proyecto.</impactOfNotHaving>
+  <reasonsForNotNeeding>Proyecto extremadamente simple.</reasonsForNotNeeding>
+</org.eclipse.epf.uma:ArtifactDescription>

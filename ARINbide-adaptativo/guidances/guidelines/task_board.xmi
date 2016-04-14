@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-iCxo2OoRAWlU60WQV-N8Ww" name="new_guideline,_v-RiAP6BEeWZBN8BGKJ1FQ" guid="-iCxo2OoRAWlU60WQV-N8Ww" changeDate="2016-04-09T20:36:00.254+0200">
+  <mainDescription>&lt;p>&#xD;
+    Un tablero de tareas puede representarse en una pared en blanco, en una pizarra, en una hoja de cálculo o en alguna&#xD;
+    herramienta informática específica.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    El tablero se organiza en varias columnas, que indican el estado de una tarea. Cada tarea se describe en tarjetas&#xD;
+    autoadhesivas, las cuales van moviéndose a lo largo del tablero según se vaya completando el trabajo necesario para su&#xD;
+    resolución. Los temas, épicas, Historias de usuario, requisitos no funcionales y los defectos y errores también pueden&#xD;
+    representarse en tarjetas que se colocarán sobre el tablero. Suele ser de gran utilidad utilizar tarjetas de colores&#xD;
+    que ayuden a identificar fácilmente la tipología de cada una de ellas.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Se pueden establecer también filas que agrupen los temas, épicas, Historias de usuario y sus respectivas tareas. Se&#xD;
+    recomienda además que una de las filas se reserve para recoger los defectos o errores que vayan surgiendo a lo largo&#xD;
+    del proyecto.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Estos tableros se pueden complementar con información de monitorización o seguimiento: gráfico de trabajo pendiente del&#xD;
+    equipo, velocidad media, gráfico de trabajo pendiente del Sprint, etc.; o con información sobre los impedimentos.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

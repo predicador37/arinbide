@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-1WpzkBKXiMHrnc3PUHAsZg" name="new_guideline,_fNNwgP49EeWZBN8BGKJ1FQ" guid="-1WpzkBKXiMHrnc3PUHAsZg" changeDate="2016-04-09T12:28:24.493+0200" version="1.0">
+  <mainDescription>&lt;p>&#xD;
+    Las Personas representan patrones de conducta, objetivos y necesidades de grupos de personas, que si bien son&#xD;
+    ficticios, tienen características comunes basadas en el análisis sobre la audiencia real. Todos los atributos y&#xD;
+    características de la Persona deben estar basados en información real extraída de los usuarios. Definiendo Personas se&#xD;
+    consigue entender de manera clara quiénes utilizarán el sistema.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Los Escenarios describen situaciones de uso de la aplicación sobre los que poder contextualizar la interacción&#xD;
+    persona-sistema, de modo que podamos saber para quién se desarrolla y qué espera encontrar el usuario. El uso de&#xD;
+    escenarios contextuales va a permitir tener una idea de cómo afectan las motivaciones de los usuarios, la manera en la&#xD;
+    que estos priorizan las tareas y en consecuencia van a ayudar a responder las siguientes preguntas: ¿Qué debería hacer&#xD;
+    el sistema? y ¿Cómo debería presentarse y comportarse?&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    La aplicación de esta técnica para generar la Visión del producto nos permite identificar los usuarios del sistema, y&#xD;
+    los atributos que debe tener según el orden de criticidad establecido por el usuario.&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

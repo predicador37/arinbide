@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-rvthdFCbMAehiHMGZxgs5w" name="new_guideline,_JpmEwP5CEeWZBN8BGKJ1FQ" guid="-rvthdFCbMAehiHMGZxgs5w" changeDate="2016-04-09T20:25:52.274+0200">
+  <mainDescription>&lt;p>&#xD;
+    Para aplicarlo es necesario además de, evidentemente, una lista de elementos para priorizar, decidir el número de&#xD;
+    niveles que se va utilizar. Estos niveles se trasladarán a las cartas de una baraja, que serán las que utilizará cada&#xD;
+    uno de los jugadores para realizar sus valoraciones. A esta baraja se deben añadir dos adicionales: “necesito más&#xD;
+    información” y “necesito un descanso”. En el juego, el valor que se asigne no es significativo, lo que importa es que&#xD;
+    este sea relativo con respecto a los demás. No hay que olvidar que el resultado final será una lista ordenada de&#xD;
+    elementos.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    El juego consta de varios pasos:&#xD;
+&lt;/p>&#xD;
+&lt;ul class=&quot;noindent&quot;>&#xD;
+    &lt;li>&#xD;
+        Se explica el elemento que se va a estimar (máximo, 2 minutos)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Cada participante reflexiona sobre el valor que va a asignar (máximo, 1⁄2 minuto)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Simultáneamente todos descubren la carta seleccionada&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Si hay consenso, se asigna el valor propuesto al elemento y se pasa al siguiente&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Si no hay consenso, los participantes que hayan propuesto el valor más alto y el valor más bajo explicarán los&#xD;
+        motivos de su valoración (máximo, 1 minuto para cada uno)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Se vuelve a dar un plazo para recapacitar y se descubren nuevamente las cartas&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        El proceso se repite hasta que se alcance un acuerdo entre todo los participantes&lt;br />&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    En caso de empate entre varios elementos se estimarán sólo estos, pero teniendo en cuenta que el valor asignado es&#xD;
+    relativo sólo con respecto a dichos elementos.&lt;br />&#xD;
+    El juego no debe durar más de 2 horas, respetando además los tiempos marcados para cada paso. No se deben permitir&#xD;
+    discusiones de si un elemento debe estar o no en la lista, o si el enfoque de un elemento es o no el correcto, sólo se&#xD;
+    deben permitir explicaciones que ayuden a su comprensión.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Ak1_Z6lIDECN18TPlboK8g" name="new_guideline,_y0oVAP6KEeWZBN8BGKJ1FQ" guid="-Ak1_Z6lIDECN18TPlboK8g" changeDate="2016-04-09T21:40:27.648+0200">
+  <mainDescription>Se puede utilizar por diversos motivos:&lt;br />&#xD;
+&lt;br />&#xD;
+&lt;ul class=&quot;noindent&quot;>&#xD;
+    &lt;li>&#xD;
+        Para investigar sobre un nuevo dominio de conocimiento que el equipo no posee, facilitando así el uso de esa nueva&#xD;
+        tecnología o dominio.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Analizar las implicaciones de una Historia de usuario demasiado grande que de otro modo es difícil de estimar, o de&#xD;
+        dividir en otras más pequeñas.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        El equipo quiere investigar o hacer algún prototipo para adquirir el conocimiento básico necesario para resolver&#xD;
+        una Historia de usuario con un riesgo técnico significativo.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Para una Historia de usuario con un riesgo funcional importante, un “Spike” permitirá definir claramente cómo debe&#xD;
+        interactuar el usuario con el sistema para conseguir el beneficio esperado.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Pueden tomar dos formas:&#xD;
+&lt;/p>&#xD;
+&lt;ul class=&quot;noindent&quot;>&#xD;
+    &lt;li>&#xD;
+        &quot;Spike&quot; técnico. Se utilizan para investigar varias aproximaciones técnicas dentro del dominio de la solución. Por&#xD;
+        ejemplo, evaluar el impacto en el rendimiento o carga de una nueva Historia de usuario; evaluar posibles&#xD;
+        implementaciones tecnológicas aplicables a una solución técnica, etc.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &quot;Spike&quot; funcional. Se utilizan cuando hay cierta incertidumbre sobre cómo el usuario puede interactuar con el&#xD;
+        sistema. Normalmente se utilizará algún nivel de prototipado para realizar la evaluación: “mock-ups”, “wireframes”,&#xD;
+        “page flows”, etc.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

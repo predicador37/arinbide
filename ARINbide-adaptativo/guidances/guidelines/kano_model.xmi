@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-E8eMORhUo5HLfZnFq8ZzQw" name="new_guideline,_jTdFwP5AEeWZBN8BGKJ1FQ" guid="-E8eMORhUo5HLfZnFq8ZzQw" changeDate="2016-04-09T12:50:44.163+0200">
+  <mainDescription>&lt;p>&#xD;
+    De las 5 características definidas en el modelo, la satisfacción del cliente se puede alcanzar con 3 de ellas:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    1. Las básicas u obligatorias. Son aquellas que si no están presentes, producen un alto nivel de insatisfacción, pero&#xD;
+    si están, producen un sentimiento neutro. Es lo que se esperaba del producto. Por ejemplo, en un hotel, tener sábanas&#xD;
+    limpias.&lt;br />&#xD;
+    2. Las lineales. Se caracterizan porque la satisfacción que producen es aproximadamente proporcional al número de ellas&#xD;
+    incluidas en el producto. Por ejemplo, el número de canales de TV que se ofrecen en una habitación de hotel.&lt;br />&#xD;
+    3. Las de entusiasmo. Si están, aumentan la satisfacción del cliente, le sorprenden y le agrada, pero si no están, no&#xD;
+    generan descontento. Por ejemplo, un descuento especial inesperado por su estancia en el hotel.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    A la hora de construir la Visión del producto, el reto es detectar el tipo de características del sistema que se&#xD;
+    quieren incluir (atributos críticos), para maximizar los beneficios que el cliente obtendrá con esta combinación de&#xD;
+    características básicas, lineales y de entusiasmo.&lt;br />&#xD;
+    Este modelo también se puede aplicar para priorizar los ítems de la Pila Producto si lo que se desea es orientarlo a&#xD;
+    mejorar la satisfacción del cliente con el desarrollo que se va a realizar. En este caso se utilizarán las otras dos&#xD;
+    características del modelo que no mencionadas hasta ahora:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    4. Indiferente. La presencia de esa funcionalidad en esa cuantía no afecta en ningún modo al usuario.&lt;br />&#xD;
+    5. Reversible. Relativos a la insatisfacción que pueden generan por hecho de que no todos los clientes son iguales. Por&#xD;
+    ejemplo, algunos clientes prefieren los productos de alta tecnología, mientras que otros prefieren el modelo básico de&#xD;
+    un producto y no estarán satisfechos si un producto tiene muchas características adicionales.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

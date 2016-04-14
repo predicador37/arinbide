@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-7Az1rwJJPuyIjDf9trsgZQ" name="new_artifact,_BwI2MP43EeWZBN8BGKJ1FQ" guid="-7Az1rwJJPuyIjDf9trsgZQ" changeDate="2016-04-09T11:45:18.782+0200" version="1.0">
+  <mainDescription>&lt;p>&#xD;
+    Según el artículo 68 del Real Decreto 1098/2001, de 12 de octubre, por el que se aprueba el Reglamento General de la&#xD;
+    Ley de Contratos de las Administraciones Públicas el pliego de prescripciones técnicas particulares contendrá, al&#xD;
+    menos, los siguientes extremos:&#xD;
+&lt;/p>&#xD;
+&lt;ul class=&quot;noindent&quot;>&#xD;
+    &lt;li>&#xD;
+        Características técnicas que hayan de reunir los bienes o prestaciones del contrato.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Precio de cada una de las unidades en que se descompone el presupuesto y número estimado de las unidades a&#xD;
+        suministrar.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        En su caso, requisitos, modalidades y características técnicas de las variantes.&lt;br />&#xD;
+        &lt;br />&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+  <purpose>&amp;nbsp;Sirve para definir el objeto del contrato y sus características técnicas.</purpose>
+  <impactOfNotHaving>Imposibilidad de licitar el contrato. Es un requisito legal, al menos para todos los procedimientos de contratación&#xD;
+distintos del contrato menor. El el resto, es deseable.</impactOfNotHaving>
+  <reasonsForNotNeeding>Que sea un gasto realmente pequeño (inferior a tres mil euros, por ejemplo) y sencillo, de tal manera que pueda&#xD;
+justificarse tan sólo con una memoria de gasto.</reasonsForNotNeeding>
+</org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-jT_YrgMg2WFrHcV2ei2yZA" name=",_gXGD0Pz3EeWZBN8BGKJ1FQ" guid="-jT_YrgMg2WFrHcV2ei2yZA" changeDate="2016-04-07T21:33:34.782+0200">
+  <mainDescription>&lt;p>&#xD;
+    Este rol incluye, a su vez,&amp;nbsp;los siguientes:&#xD;
+&lt;/p>&#xD;
+&lt;ul class=&quot;noindent&quot;>&#xD;
+    &lt;li>&#xD;
+        Patrocinador&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Clientes&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Usuarios&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Qu9sy9v7fCSTWHO4wRnaoQ" name="new_guideline,_j3cZEP4_EeWZBN8BGKJ1FQ" guid="-Qu9sy9v7fCSTWHO4wRnaoQ" changeDate="2016-04-09T12:44:31.326+0200" version="1.0">
+  <mainDescription>&lt;p>&#xD;
+    Una historia de usuario es una promesa de conversación entre el equipo de desarrollo y el product owner. Su estructura&#xD;
+    más básica comprende un identificador y la sintaxis:&amp;nbsp;COMO (ROL)&amp;nbsp;- QUIERO (CARACTERÍSTICA)- PARA (VALOR&#xD;
+    APORTADO).&#xD;
+&lt;/p>&#xD;
+&lt;ul class=&quot;noindent&quot;>&#xD;
+    &lt;li>&#xD;
+        No es un requisito: tiene menos detalle y su objetivo es lograr la interacción entre el equipo y el product owner.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        No es un caso de uso: no proporciona contexto para el diseño, no proporciona sentido de completitud y no permite la&#xD;
+        anticipación.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;div class=&quot;noindent&quot; style=&quot;MARGIN-LEFT: 2em&quot;>&#xD;
+    &lt;br />&#xD;
+    &lt;br />&#xD;
+    &lt;br />&#xD;
+&lt;/div></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

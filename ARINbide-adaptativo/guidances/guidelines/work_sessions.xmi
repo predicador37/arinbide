@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-1r-CyUsQPuJAJV2mPWjp-Q" name="new_guideline,_bS7hsP48EeWZBN8BGKJ1FQ" guid="-1r-CyUsQPuJAJV2mPWjp-Q" changeDate="2016-04-09T12:22:07.595+0200">
+  <mainDescription>&lt;p>&#xD;
+    Las sesiones de trabajo pueden ser de varios tipos en función de las personas que participen en ellas, el objetivo que&#xD;
+    se persiga y el modo de llevarlas a cabo.&lt;br />&#xD;
+    Dentro de estas sesiones de trabajo se encuentran algunas técnicas como son el JAD (Joint Application Design) y el JRP&#xD;
+    (Joint Requirements Planning), y otras prácticas como las entrevistas y las reuniones, en las que se pueden dar algunas&#xD;
+    orientaciones y recomendaciones para su realización.&#xD;
+&lt;/p>&#xD;
+&lt;ul class=&quot;noindent&quot;>&#xD;
+    &lt;li>&#xD;
+        Las entrevistas son un tipo de sesiones de trabajo dirigidas a obtener la información de una forma individual dónde&#xD;
+        aparecen los perfiles de entrevistado y entrevistador.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Las reuniones pueden tener el mismo objetivo, pero la información está dispersa entre varias personas y únicamente&#xD;
+        trabajando en grupo, se conseguirá extraer y depurar toda la información de forma global.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Las sesiones JAD y JRP son reuniones en las que se potencia el trabajo en equipo entre el cliente o usuario y el&#xD;
+        proveedor, con una participación más activa del cliente en los diferentes procesos del ciclo de vida que va a&#xD;
+        permitir identificar las necesidades planteadas, proponer soluciones, negociar enfoques diferentes y especificar el&#xD;
+        conjunto preliminar de requisitos que debe cumplir la solución para llegar al objetivo que se propone.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    &lt;br />&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

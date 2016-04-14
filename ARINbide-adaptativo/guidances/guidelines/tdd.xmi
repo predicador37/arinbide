@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-R2rWt5RG-gr3HjWSCgh--A" name="new_guideline,_caEGEP6CEeWZBN8BGKJ1FQ" guid="-R2rWt5RG-gr3HjWSCgh--A" changeDate="2016-04-09T20:40:20.830+0200">
+  <mainDescription>Se debe seguir el siguiente proceso:&lt;br />&#xD;
+&lt;br />&#xD;
+&lt;ul class=&quot;noindent&quot;>&#xD;
+    &lt;li>&#xD;
+        En primer lugar, se escribe una prueba y se verifica que estas fallan. Realmente se puede considerar que lo que se&#xD;
+        va a codificar es un ejemplo o especificación del requisito que se quiere resolver, es decir, los requisitos se&#xD;
+        traducen a pruebas.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        A continuación, se implementa el código que hace que la prueba pase satisfactoriamente&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Y por último, se refactoriza el código para eliminar duplicidad y hacer mejoras. Se trata de modificar el diseño&#xD;
+        sin alterar su comportamiento (a ser posible, sin alterar su API pública) y rastrear el código en busca de líneas&#xD;
+        duplicadas que serán eliminadas. También se asegurará que el código cumpla con ciertos principios de diseño.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

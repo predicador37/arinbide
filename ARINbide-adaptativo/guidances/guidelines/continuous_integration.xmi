@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-PBluRcg9xkLN2nYBd7NZ7A" name="new_guideline,_QGrIMP6KEeWZBN8BGKJ1FQ" guid="-PBluRcg9xkLN2nYBd7NZ7A" changeDate="2016-04-09T21:37:49.309+0200">
+  <mainDescription>Este proceso se suele ejecutar cada cierto tiempo (normalmente horas), y consta de los siguientes pasos:&lt;br />&#xD;
+&lt;br />&#xD;
+&lt;ul class=&quot;noindent&quot;>&#xD;
+    &lt;li>&#xD;
+        Descargar el código fuente desde el sistema de control de versiones&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Compilarlo&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Ejecutar pruebas&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Generar informes de resultado&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

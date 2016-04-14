@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ykGhfu9czM-SPoxrtfnl3A" name="new_guideline,_9X4AYP6BEeWZBN8BGKJ1FQ" guid="-ykGhfu9czM-SPoxrtfnl3A" changeDate="2016-04-09T20:38:26.978+0200">
+  <mainDescription>&lt;p>&#xD;
+    Hay varias formas de estimar la velocidad del equipo:&#xD;
+&lt;/p>&#xD;
+&lt;ul class=&quot;noindent&quot;>&#xD;
+    &lt;li>&#xD;
+        Aplazar la estimación hasta que se hayan desarrollado unas cuantas iteraciones. Normalmente esta es la mejor&#xD;
+        opción, pero es evidente que no se podrá aplicar si se quiere elaborar el plan inicial de entregas de la etapa de&#xD;
+        Preparación o Sprint 0.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Utilizar valores históricos medios obtenidos en proyectos anteriores (velocidad media y duración media de las&#xD;
+        iteraciones). En este caso, además, se deberían considerar otro tipo de factores que puedan afectar al cálculo: si&#xD;
+        se han producido&amp;nbsp; cambios significativos en el equipo, la naturaleza del proyecto, la tecnología, etc.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Desglosar unas cuantas Historias de usuario en tareas y estimar el número de días ideales que podría llevar su&#xD;
+        desarrollo. De esta forma podemos obtener el número total de días ideales (suma) que se necesitan para resolver los&#xD;
+        puntos de historia relativos a las Historias de usuario seleccionadas. Y con estos valores, calcular la velocidad&#xD;
+        del equipo. Pero también en este caso intervienen otros parámetros más: el número de personas asignadas al equipo&#xD;
+        de desarrollo, y el Factor de dedicación (Focus factor), que indica el porcentaje de tiempo que se dedica de manera&#xD;
+        efectiva al trabajo. Este varía en función de la persona, su rol, y la organización, pero en condiciones normales&#xD;
+        se puede considerar que puede estar entre un 50% y un 80%.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Así, la fórmula de cálculo a aplicar podría ser: V = (T x Ph x F x P) / (Di x 100)&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    T = Tiempo fijado para el sprint (en días)&lt;br />&#xD;
+    Ph = Suma de puntos de historia asignados a las Historias de usuario seleccionadas&lt;br />&#xD;
+    F = Factor de dedicación (en valor de porcentaje)&lt;br />&#xD;
+    P = Número de personas asignadas al equipo de desarrollo&lt;br />&#xD;
+    Di = Suma de días ideales estimados para resolver las Historias de usuario seleccionadas&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>
