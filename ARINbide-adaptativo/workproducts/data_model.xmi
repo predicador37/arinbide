@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-J2h5r_doZRwHuIz-5UolAg" name=",_yE7DAAjVEeaZBN8BGKJ1FQ" guid="-J2h5r_doZRwHuIz-5UolAg" changeDate="2016-04-23T00:02:26.898+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
+  <mainDescription>&lt;p>&#xD;
+    Contendrá los siguientes elementos:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Diagrama de tablas: Se deberá incluir un gráfico con la estructura de tablas del sistema. Se podrán incluir sólo las&#xD;
+    tablas más significativas, es decir, las que contengan significado para el negocio&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Descripción de tablas: Para cada una de las tablas detalladas en el diagrama anterior, se incluirá una breve&#xD;
+    descripción que refleje el fin para el cual ha sido creada. También se podrá añadir información sobre las columnas más&#xD;
+    representativas (desde&#xD;
+&lt;/p></mainDescription>
+  <purpose>Obtener documentación que permita comprender el dominio de información del sistema.</purpose>
+  <impactOfNotHaving>Es obligatorio.</impactOfNotHaving>
+</org.eclipse.epf.uma:ArtifactDescription>

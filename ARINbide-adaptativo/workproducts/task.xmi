@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-mB4B1xtolTL7XePhtt3ZDA" name="new_artifact,_5dY_AAjNEeaZBN8BGKJ1FQ" guid="-mB4B1xtolTL7XePhtt3ZDA" changeDate="2016-04-22T23:11:40.563+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
+  <mainDescription>&lt;p>&#xD;
+    Una tarea consta de los siguientes atributos:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Título: Descripción muy breve que represente el objetivo de la tarea&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Identificadores de tema, épica, historia y tarea.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Prioridad: Normalmente será la misma que se ha definido para la Historia de usuario o Requisito no funcional al que&#xD;
+    desglosa, aunque también puede ser un desglose de esta,&amp;nbsp; ordenando así la ejecución de las tareas.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Esfuerzo: Estimación del esfuerzo, medido en Horas Ideales, realizada por el equipo del desarrollo.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Tipo: Área de desarrollo a la que pertenece (análisis, diseño, codificación, pruebas, QA, documentación)&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Descripción: Descripción, en lenguaje técnico, del objetivo de la tarea.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Definición de hecho (DoD): Lista numerada de criterios, descritos en lenguaje técnico, que recogen las&#xD;
+    características que debe cumplir tarea para poder considerarse como terminada.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Responsable: Miembro del equipo de desarrollo que tiene asignada la tarea.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Estado: Pendiente de iniciar (to-do), en curso (in progress), aseguramiento de calidad (QA), terminada (done),&#xD;
+    impedida (stopped), descartada (rejected).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Observaciones: En este apartado se podrá indicar todo aquello que se considere relevante para facilitar la&#xD;
+    comprensión del ítem.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Observaciones:&#xD;
+&lt;/p></mainDescription>
+  <purpose>Obtener un listado de tareas para el sprint.</purpose>
+  <impactOfNotHaving>Es obligatorio.</impactOfNotHaving>
+</org.eclipse.epf.uma:ArtifactDescription>

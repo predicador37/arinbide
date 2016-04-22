@@ -35,6 +35,37 @@
     <resourceDescriptors xmi:id="_l1EmgP8HEeWZBN8BGKJ1FQ" id="-Yp25jsaE8cxAqqzXEQO9yA" uri="tasks/define_environment.xmi"/>
     <resourceDescriptors xmi:id="_F8rcIP8IEeWZBN8BGKJ1FQ" id="---w_IC1G4FCQgVxz165ogQ" uri="tasks/define_standards.xmi"/>
     <resourceDescriptors xmi:id="_btbKMQH-EeaZBN8BGKJ1FQ" id="-kVyoZxMlEv5uh6OZIZf7MA" uri="workproducts/standards_participants_procedures.xmi"/>
+    <resourceDescriptors xmi:id="_qKOo0AceEeaZBN8BGKJ1FQ" id="-stRZ-KjhUMGfveZxEYwRYw" uri="workproducts/environment.xmi"/>
+    <resourceDescriptors xmi:id="_zbCF0QceEeaZBN8BGKJ1FQ" id="-JKnWzzrt3gCoBbziegfODQ" uri="workproducts/participants.xmi"/>
+    <resourceDescriptors xmi:id="_LomdEAcfEeaZBN8BGKJ1FQ" id="-sCSeeNw3Xiekh05l8tnkDg" uri="workproducts/work_procedures.xmi"/>
+    <resourceDescriptors xmi:id="_YZ4-QgcfEeaZBN8BGKJ1FQ" id="-j8147gJR7w_-1X4jIv28xg" uri="workproducts/standards_procedures_participants.xmi"/>
+    <resourceDescriptors xmi:id="_xJepEgjCEeaZBN8BGKJ1FQ" id="-dQvPqbI4oi7pXTORNYbFxg" uri="workproducts/customers.xmi"/>
+    <resourceDescriptors xmi:id="_MrM4sQjDEeaZBN8BGKJ1FQ" id="-6RQOnvAX3fIFe4MWj1CuDg" uri="workproducts/users.xmi"/>
+    <resourceDescriptors xmi:id="_lWnpkgjDEeaZBN8BGKJ1FQ" id="-E-bYZ7DbDBpIT_6jsao5gw" uri="workproducts/system_attributes.xmi"/>
+    <resourceDescriptors xmi:id="_H4wA4gjEEeaZBN8BGKJ1FQ" id="-t1uI6ZIXvvIeqSeMP99z-A" uri="workproducts/product_vision%202.xmi"/>
+    <resourceDescriptors xmi:id="_MPW0wAjEEeaZBN8BGKJ1FQ" id="-cWUNbE4mBz8L7nCcgWYZMQ" uri="workproducts/value.xmi"/>
+    <resourceDescriptors xmi:id="_UM1osgjEEeaZBN8BGKJ1FQ" id="-AQfyOnPmpshjHHDR48ccuA" uri="workproducts/vision.xmi"/>
+    <resourceDescriptors xmi:id="_9knpMgjEEeaZBN8BGKJ1FQ" id="-wraiIxCirUYuoGSVfhpSjw" uri="guidances/templates/standards_template.xmi"/>
+    <resourceDescriptors xmi:id="_Z3ksAgjGEeaZBN8BGKJ1FQ" id="-1Vz1rqJyedtkd2fyiCfNrw" uri="workproducts/topics.xmi"/>
+    <resourceDescriptors xmi:id="_OG8hIgjHEeaZBN8BGKJ1FQ" id="-P8UvyMxXhIL_8gmzar-BFQ" uri="workproducts/epics.xmi"/>
+    <resourceDescriptors xmi:id="_Voi04gjIEeaZBN8BGKJ1FQ" id="-Gy2KpPqP-FXOfyOXWc3jGg" uri="workproducts/historias_de_usuario.xmi"/>
+    <resourceDescriptors xmi:id="_s5i2MQjIEeaZBN8BGKJ1FQ" id="-s9yStyxWAFqL8mLDuuoIfA" uri="workproducts/product_backlog.xmi"/>
+    <resourceDescriptors xmi:id="_MPALQgjLEeaZBN8BGKJ1FQ" id="-A5Z3MUEvDTKoNLYJjQevrw" uri="workproducts/delivery.xmi"/>
+    <resourceDescriptors xmi:id="_JQCDQgjMEeaZBN8BGKJ1FQ" id="-b7580xJrEfVzJvDMNMWQtg" uri="workproducts/sprint.xmi"/>
+    <resourceDescriptors xmi:id="_cQ0zogjMEeaZBN8BGKJ1FQ" id="-DWg5_Ak_zG9ktNb0PCWMvw" uri="workproducts/total.xmi"/>
+    <resourceDescriptors xmi:id="_q4zUMgjNEeaZBN8BGKJ1FQ" id="-RFFSjMaDUI-O94Yv6bckdw" uri="workproducts/delivery_plan.xmi"/>
+    <resourceDescriptors xmi:id="_3Y668QjPEeaZBN8BGKJ1FQ" id="-mB4B1xtolTL7XePhtt3ZDA" uri="workproducts/task.xmi"/>
+    <resourceDescriptors xmi:id="_Mb4XYgjQEeaZBN8BGKJ1FQ" id="-Qc_5KRQIz4rPNIll6CQDXQ" uri="workproducts/sprint_backlog.xmi"/>
+    <resourceDescriptors xmi:id="_r6ihMgjREeaZBN8BGKJ1FQ" id="-a3p94bn92_B0uZH5hgvU-w" uri="workproducts/impediments_backlog.xmi"/>
+    <resourceDescriptors xmi:id="_fWLMQAjSEeaZBN8BGKJ1FQ" id="-M7znacyiCbMa2q3IcNtAkA" uri="workproducts/monitoring.xmi"/>
+    <resourceDescriptors xmi:id="_WI5u8AjTEeaZBN8BGKJ1FQ" id="-KLjvnzD058X3Md_Bkg0Brg" uri="workproducts/retrospective.xmi"/>
+    <resourceDescriptors xmi:id="_I1W_0QjUEeaZBN8BGKJ1FQ" id="-ow8CQqakHCxBrovl13xltw" uri="workproducts/user_guide.xmi"/>
+    <resourceDescriptors xmi:id="_TIv7MAjUEeaZBN8BGKJ1FQ" id="-67u-cdiJR9Fan2f_h7iWSA" uri="guidances/guidelines/user_guide.xmi"/>
+    <resourceDescriptors xmi:id="_EZSnsgjVEeaZBN8BGKJ1FQ" id="-NYjYIoMqYgFqICPzWdGFtQ" uri="workproducts/minutes.xmi"/>
+    <resourceDescriptors xmi:id="_lv5AAgjVEeaZBN8BGKJ1FQ" id="-217RhAWnwbMipTIqEIpQjw" uri="workproducts/architecture.xmi"/>
+    <resourceDescriptors xmi:id="_B8SkUgjWEeaZBN8BGKJ1FQ" id="-J2h5r_doZRwHuIz-5UolAg" uri="workproducts/data_model.xmi"/>
+    <resourceDescriptors xmi:id="_LlNmYAjWEeaZBN8BGKJ1FQ" id="-pWcSmO5X42SHYlpQOINdgg" uri="workproducts/diseo_tcnico.xmi"/>
+    <resourceDescriptors xmi:id="_ZKyOwgjXEeaZBN8BGKJ1FQ" id="-jYccsYu2WePANrfLkxuu7Q" uri="workproducts/bugs_defects.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_m6mJ4PzzEeWZBN8BGKJ1FQ" name="ARINbide-adaptativo" guid="_m6mJ4PzzEeWZBN8BGKJ1FQ" briefDescription="ARINbide-Adaptativo se concibe como una propuesta de uso de la fusión de dos de las metodologías o&#xD;&#xA;marcos de trabajo ágiles más utilizados actualmente en el proceso de desarrollo del software, Scrum y&#xD;&#xA;Extreme Programming (XP), sin por ello marcar su obligatoriedad de aplicación, ni total ni parcialmente en&#xD;&#xA;el ámbito de GV-EJIE." authors="Miguel Expósito Martín">
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_m6mJ4fzzEeWZBN8BGKJ1FQ" name="Content" guid="_m6mJ4fzzEeWZBN8BGKJ1FQ">
@@ -125,11 +156,11 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_H0W7EP46EeWZBN8BGKJ1FQ" name="reference_doc" guid="_H0W7EP46EeWZBN8BGKJ1FQ" presentationName="Otra documentación de referencia">
             <methodElementProperty xmi:id="_NvFNEP46EeWZBN8BGKJ1FQ" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_PmUbgP46EeWZBN8BGKJ1FQ" name="product_vision" guid="_PmUbgP46EeWZBN8BGKJ1FQ" presentationName="Visión del producto" briefDescription="La Visión del Producto contiene la primera aproximación de Qué se quiere obtener, de las metas a medio&#xD;&#xA;y largo plazo a las que se quiere llegar. Contiene una imagen, muchas veces difusa, de dónde se quiere&#xD;&#xA;estar o qué se quiere tener en un determinado plazo de tiempo." templates="_6WtNsP46EeWZBN8BGKJ1FQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_PmUbgP46EeWZBN8BGKJ1FQ" name="product_vision" guid="_PmUbgP46EeWZBN8BGKJ1FQ" presentationName="Visión del producto" briefDescription="La Visión del Producto contiene la primera aproximación de Qué se quiere obtener, de las metas a medio y largo plazo a las que se quiere  llegar. Contiene una imagen, muchas veces difusa, de dónde se quiere estar o qué se quiere tener en un determinado plazo de tiempo." templates="_6WtNsP46EeWZBN8BGKJ1FQ">
             <methodElementProperty xmi:id="_2XOgYP46EeWZBN8BGKJ1FQ" name="me_edited" value="true"/>
             <presentation xmi:id="-R_jcyJqlP4VuW_Rc-11hvQ" href="uma://-R_jcyJqlP4VuW_Rc-11hvQ#-R_jcyJqlP4VuW_Rc-11hvQ"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_6WtNsP46EeWZBN8BGKJ1FQ" name="vision_template" guid="_6WtNsP46EeWZBN8BGKJ1FQ" presentationName="Plantilla Visión del producto" briefDescription="Plantillas LibreOffice y Microsoft Word para la redacción del documento &quot;Visión del proucto&quot;.">
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_6WtNsP46EeWZBN8BGKJ1FQ" name="vision_template" guid="_6WtNsP46EeWZBN8BGKJ1FQ" presentationName="Plantilla Visión del producto" briefDescription="Plantillas LibreOffice y Microsoft Word para la redacción del documento &quot;Visión del producto&quot;.">
             <methodElementProperty xmi:id="_RM47QP47EeWZBN8BGKJ1FQ" name="me_edited" value="true"/>
             <presentation xmi:id="-OFjH-UVF_KieNdUQryQV8w" href="uma://-OFjH-UVF_KieNdUQryQV8w#-OFjH-UVF_KieNdUQryQV8w"/>
           </contentElements>
@@ -199,9 +230,133 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_P-RmQP7vEeWZBN8BGKJ1FQ" name="team" guid="_P-RmQP7vEeWZBN8BGKJ1FQ" presentationName="Equipo de desarrollo" briefDescription="El equipo tiene la responsabilidad de entregar el producto. Un pequeño equipo de 3 a 9 personas, auto-organizado y con las habilidades transversales necesarias para realizar el trabajo (análisis, diseño, desarrollo, pruebas, documentación, etc.)">
             <methodElementProperty xmi:id="_SIuroP7vEeWZBN8BGKJ1FQ" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_VqpJIAAhEeaZBN8BGKJ1FQ" name="standards_participants_procedures" guid="_VqpJIAAhEeaZBN8BGKJ1FQ" presentationName="Normas, participantes y procedimientos" briefDescription="Recoge el cómo del proyecto y del producto.">
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_VqpJIAAhEeaZBN8BGKJ1FQ" name="standards" guid="_VqpJIAAhEeaZBN8BGKJ1FQ" presentationName="Normas y estándares" briefDescription="Normas y estándares de facto o de iure en los distintos ámbitos tecnológicos.">
             <methodElementProperty xmi:id="_btSAQAH-EeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
             <presentation xmi:id="-kVyoZxMlEv5uh6OZIZf7MA" href="uma://-kVyoZxMlEv5uh6OZIZf7MA#-kVyoZxMlEv5uh6OZIZf7MA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_icIxMAcdEeaZBN8BGKJ1FQ" name="standards_procedures_participants" guid="_icIxMAcdEeaZBN8BGKJ1FQ" presentationName="Normas, participantes y procedimientos" briefDescription="Recoge el cómo del proyecto y del producto." templates="_oWVGgAjEEeaZBN8BGKJ1FQ" deliveredWorkProducts="_fE1owAceEeaZBN8BGKJ1FQ _qKE30AceEeaZBN8BGKJ1FQ _VqpJIAAhEeaZBN8BGKJ1FQ _2PSWIAceEeaZBN8BGKJ1FQ">
+            <methodElementProperty xmi:id="_YZ4-QAcfEeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-j8147gJR7w_-1X4jIv28xg" href="uma://-j8147gJR7w_-1X4jIv28xg#-j8147gJR7w_-1X4jIv28xg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_fE1owAceEeaZBN8BGKJ1FQ" name="environment" guid="_fE1owAceEeaZBN8BGKJ1FQ" presentationName="Entorno tecnológico" briefDescription="Entorno tecnológico requerido para dar respuesta a las necesidades de información del sistema.">
+            <methodElementProperty xmi:id="_0tUNEAceEeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-stRZ-KjhUMGfveZxEYwRYw" href="uma://-stRZ-KjhUMGfveZxEYwRYw#-stRZ-KjhUMGfveZxEYwRYw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_qKE30AceEeaZBN8BGKJ1FQ" name="participants" guid="_qKE30AceEeaZBN8BGKJ1FQ" presentationName="Participantes" briefDescription="Lista de participantes en el proyecto, indicando su nombre, apellidos y cargo con respecto al proyecto.">
+            <methodElementProperty xmi:id="_0td-EAceEeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-JKnWzzrt3gCoBbziegfODQ" href="uma://-JKnWzzrt3gCoBbziegfODQ#-JKnWzzrt3gCoBbziegfODQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_2PSWIAceEeaZBN8BGKJ1FQ" name="work_procedures" guid="_2PSWIAceEeaZBN8BGKJ1FQ" presentationName="Procedimientos de trabajo" briefDescription="Recoge cómo se va a construir el sistema.">
+            <methodElementProperty xmi:id="_LocsEAcfEeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-sCSeeNw3Xiekh05l8tnkDg" href="uma://-sCSeeNw3Xiekh05l8tnkDg#-sCSeeNw3Xiekh05l8tnkDg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Wi2FgAi-EeaZBN8BGKJ1FQ" name="customers" guid="_Wi2FgAi-EeaZBN8BGKJ1FQ" presentationName="Clientes" briefDescription="Los distintos roles con los que pueden actuar los clientes del sistema.">
+            <methodElementProperty xmi:id="_xJepEAjCEeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-dQvPqbI4oi7pXTORNYbFxg" href="uma://-dQvPqbI4oi7pXTORNYbFxg#-dQvPqbI4oi7pXTORNYbFxg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_yGS2oAjCEeaZBN8BGKJ1FQ" name="users" guid="_yGS2oAjCEeaZBN8BGKJ1FQ" presentationName="Usuarios" briefDescription="Los distintos roles con los que pueden actuar los usuarios del sistema.">
+            <methodElementProperty xmi:id="_MrDuwAjDEeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-6RQOnvAX3fIFe4MWj1CuDg" href="uma://-6RQOnvAX3fIFe4MWj1CuDg#-6RQOnvAX3fIFe4MWj1CuDg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Qm1AwAjDEeaZBN8BGKJ1FQ" name="system_attributes" guid="_Qm1AwAjDEeaZBN8BGKJ1FQ" presentationName="Atributos del sistema" briefDescription="Atributos críticos o más significativos del sistema.">
+            <methodElementProperty xmi:id="_lWnpkAjDEeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-E-bYZ7DbDBpIT_6jsao5gw" href="uma://-E-bYZ7DbDBpIT_6jsao5gw#-E-bYZ7DbDBpIT_6jsao5gw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_nUKUUAjDEeaZBN8BGKJ1FQ" name="product_vision" guid="_nUKUUAjDEeaZBN8BGKJ1FQ" presentationName="Visión del producto" briefDescription="La Visión del Producto contiene la primera aproximación de Qué se quiere obtener, de las metas a medio y largo plazo a las que se quiere  llegar. Contiene una imagen, muchas veces difusa, de dónde se quiere estar o qué se quiere tener en un determinado plazo de tiempo." templates="_6WtNsP46EeWZBN8BGKJ1FQ" deliveredWorkProducts="_Wi2FgAi-EeaZBN8BGKJ1FQ _yGS2oAjCEeaZBN8BGKJ1FQ _2PSWIAceEeaZBN8BGKJ1FQ _H4wA4AjEEeaZBN8BGKJ1FQ _NXMmkAjEEeaZBN8BGKJ1FQ">
+            <methodElementProperty xmi:id="_MPzgsAjEEeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-t1uI6ZIXvvIeqSeMP99z-A" href="uma://-t1uI6ZIXvvIeqSeMP99z-A#-t1uI6ZIXvvIeqSeMP99z-A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_H4wA4AjEEeaZBN8BGKJ1FQ" name="value" guid="_H4wA4AjEEeaZBN8BGKJ1FQ" presentationName="Valor" briefDescription="Valor aportado por el sistema.">
+            <methodElementProperty xmi:id="_MQGboAjEEeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-cWUNbE4mBz8L7nCcgWYZMQ" href="uma://-cWUNbE4mBz8L7nCcgWYZMQ#-cWUNbE4mBz8L7nCcgWYZMQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_NXMmkAjEEeaZBN8BGKJ1FQ" name="vision" guid="_NXMmkAjEEeaZBN8BGKJ1FQ" presentationName="Visión" briefDescription="Frase o sentencia que resume la visión del sistema, qué producto se quiere obtener.">
+            <methodElementProperty xmi:id="_UM1osAjEEeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-AQfyOnPmpshjHHDR48ccuA" href="uma://-AQfyOnPmpshjHHDR48ccuA#-AQfyOnPmpshjHHDR48ccuA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_oWVGgAjEEeaZBN8BGKJ1FQ" name="standards_template" guid="_oWVGgAjEEeaZBN8BGKJ1FQ" presentationName="Plantilla Normas, participantes y procedimientos" briefDescription="Plantillas LibreOffice y Microsoft Word para la redacción del documento &quot;Normas, participantes y procedimientos&quot;.">
+            <methodElementProperty xmi:id="_9knpMAjEEeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-wraiIxCirUYuoGSVfhpSjw" href="uma://-wraiIxCirUYuoGSVfhpSjw#-wraiIxCirUYuoGSVfhpSjw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_iTN4EAjFEeaZBN8BGKJ1FQ" name="topics" guid="_iTN4EAjFEeaZBN8BGKJ1FQ" presentationName="Temas" briefDescription="El más alto nivel de la jerarquía de historias, describe un punto de vista de un producto tangible o un objetivo abstracto.">
+            <methodElementProperty xmi:id="_Z3ksAAjGEeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-1Vz1rqJyedtkd2fyiCfNrw" href="uma://-1Vz1rqJyedtkd2fyiCfNrw#-1Vz1rqJyedtkd2fyiCfNrw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_ayBiEAjGEeaZBN8BGKJ1FQ" name="epics" guid="_ayBiEAjGEeaZBN8BGKJ1FQ" presentationName="Épicas" briefDescription="Una épica es un conjunto de historias de usuario relacionadas o un bloque de requisitos que aún no se ha racionalizado en historias.">
+            <methodElementProperty xmi:id="_OG8hIAjHEeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-P8UvyMxXhIL_8gmzar-BFQ" href="uma://-P8UvyMxXhIL_8gmzar-BFQ#-P8UvyMxXhIL_8gmzar-BFQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_PdrqkAjHEeaZBN8BGKJ1FQ" name="stories" guid="_PdrqkAjHEeaZBN8BGKJ1FQ" presentationName="Historias de usuario" briefDescription="Una historia de usuario es una promesa de conversación sobre una funcionalidad del producto. Es una frase breve expresada en lenguaje natural que ayude al equipo de desarrollo a saber qué debe conseguir el software.">
+            <methodElementProperty xmi:id="_Voi04AjIEeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-Gy2KpPqP-FXOfyOXWc3jGg" href="uma://-Gy2KpPqP-FXOfyOXWc3jGg#-Gy2KpPqP-FXOfyOXWc3jGg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_Z8pHUAjIEeaZBN8BGKJ1FQ" name="product_backlog" guid="_Z8pHUAjIEeaZBN8BGKJ1FQ" presentationName="Pila de producto" briefDescription="Lista ordenada de todo lo que podría ser necesario en el producto." deliveredWorkProducts="_iTN4EAjFEeaZBN8BGKJ1FQ _ayBiEAjGEeaZBN8BGKJ1FQ _PdrqkAjHEeaZBN8BGKJ1FQ">
+            <methodElementProperty xmi:id="_yH5xcAjIEeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-s9yStyxWAFqL8mLDuuoIfA" href="uma://-s9yStyxWAFqL8mLDuuoIfA#-s9yStyxWAFqL8mLDuuoIfA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_DffIUAjJEeaZBN8BGKJ1FQ" name="delivery" guid="_DffIUAjJEeaZBN8BGKJ1FQ" presentationName="Entrega" briefDescription="Una entrega es un incremento de producto funcional y operativo verificable por el cliente y/o el usuario.">
+            <methodElementProperty xmi:id="_MPALQAjLEeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-A5Z3MUEvDTKoNLYJjQevrw" href="uma://-A5Z3MUEvDTKoNLYJjQevrw#-A5Z3MUEvDTKoNLYJjQevrw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_NHy0cAjLEeaZBN8BGKJ1FQ" name="sprint" guid="_NHy0cAjLEeaZBN8BGKJ1FQ" presentationName="Sprint" briefDescription="Un sprint es una iteración de desarrollo en la que se consigue un incremento de producto en base a una serie de características seleccionadas para implementar en dicha iteración.">
+            <methodElementProperty xmi:id="_JQCDQAjMEeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-b7580xJrEfVzJvDMNMWQtg" href="uma://-b7580xJrEfVzJvDMNMWQtg#-b7580xJrEfVzJvDMNMWQtg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_J9e_IAjMEeaZBN8BGKJ1FQ" name="total" guid="_J9e_IAjMEeaZBN8BGKJ1FQ" presentationName="Total" briefDescription="Estimación total del producto.">
+            <methodElementProperty xmi:id="_cQ0zoAjMEeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-DWg5_Ak_zG9ktNb0PCWMvw" href="uma://-DWg5_Ak_zG9ktNb0PCWMvw#-DWg5_Ak_zG9ktNb0PCWMvw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_dQp48AjMEeaZBN8BGKJ1FQ" name="delivery_plan" guid="_dQp48AjMEeaZBN8BGKJ1FQ" presentationName="Plan de entregas" briefDescription="El Plan de entregas es un plan de alto nivel que cubre períodos más largos que una sola iteración. Suelen planificarse entregas cada tres o seis meses, aunque pueden ser de menor o mayor frecuencia en función del la tipología del sistema que se esté construyendo." deliveredWorkProducts="_DffIUAjJEeaZBN8BGKJ1FQ _NHy0cAjLEeaZBN8BGKJ1FQ _J9e_IAjMEeaZBN8BGKJ1FQ">
+            <methodElementProperty xmi:id="_q4zUMAjNEeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-RFFSjMaDUI-O94Yv6bckdw" href="uma://-RFFSjMaDUI-O94Yv6bckdw#-RFFSjMaDUI-O94Yv6bckdw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_5dY_AAjNEeaZBN8BGKJ1FQ" name="task" guid="_5dY_AAjNEeaZBN8BGKJ1FQ" presentationName="Tarea" briefDescription="Una tarea es cada una de las unidades de trabajo en las que se puede descomponer una historia de usuario.">
+            <methodElementProperty xmi:id="_bd0XcAjOEeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-mB4B1xtolTL7XePhtt3ZDA" href="uma://-mB4B1xtolTL7XePhtt3ZDA#-mB4B1xtolTL7XePhtt3ZDA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_5qEeMAjPEeaZBN8BGKJ1FQ" name="sprint_backlog" guid="_5qEeMAjPEeaZBN8BGKJ1FQ" presentationName="Pila de Sprint" briefDescription="Repositorio que recoge los trabajos que van a realizarse en una iteración o Sprint determinado. Contiene las Historias de usuario y requisitos no funcionales, y sobre todo, las tareas que el equipo ha identificado en la planificación de detalle." deliveredWorkProducts="_5dY_AAjNEeaZBN8BGKJ1FQ">
+            <methodElementProperty xmi:id="_Mb4XYAjQEeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-Qc_5KRQIz4rPNIll6CQDXQ" href="uma://-Qc_5KRQIz4rPNIll6CQDXQ#-Qc_5KRQIz4rPNIll6CQDXQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_AZH6sAjREeaZBN8BGKJ1FQ" name="impediments_backlog" guid="_AZH6sAjREeaZBN8BGKJ1FQ" presentationName="Pila de impedimentos" briefDescription="Repositorio que recoge todo aquello que impide alcanzar los objetivos del proyecto. Podría ser la carencia de cierta información o herramienta, la imposibilidad de reunirse con una persona clave, de contar con cierto material, de la indisponibilidad de otros sistemas de los que se depende, etc. Pero también todo aquello que amenace con degradar la calidad del producto final.">
+            <methodElementProperty xmi:id="_r6ihMAjREeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-a3p94bn92_B0uZH5hgvU-w" href="uma://-a3p94bn92_B0uZH5hgvU-w#-a3p94bn92_B0uZH5hgvU-w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_zexusAjREeaZBN8BGKJ1FQ" name="monitoring" guid="_zexusAjREeaZBN8BGKJ1FQ" presentationName="Monitorización" briefDescription="El documento de monitorización permitirá realizar diariamente el seguimiento del estado del proyecto, y conocer además su estado, tanto al final de cada Sprint, como al finalizar el proyecto.">
+            <methodElementProperty xmi:id="_fWBbQAjSEeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-M7znacyiCbMa2q3IcNtAkA" href="uma://-M7znacyiCbMa2q3IcNtAkA#-M7znacyiCbMa2q3IcNtAkA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_jcloAAjSEeaZBN8BGKJ1FQ" name="retrospective" guid="_jcloAAjSEeaZBN8BGKJ1FQ" presentationName="Retrospectiva" briefDescription="Reunión en la que el equipo analiza cómo ha sido su manera de trabajar durante la iteración, por qué está consiguiendo o no los objetivos a que se compremetió al inicio de la iteración y por qué el incremento de producto que acaba de demostrar al cliente era lo que él esperaba o no">
+            <methodElementProperty xmi:id="_WIv98AjTEeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-KLjvnzD058X3Md_Bkg0Brg" href="uma://-KLjvnzD058X3Md_Bkg0Brg#-KLjvnzD058X3Md_Bkg0Brg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_-0TxoAjTEeaZBN8BGKJ1FQ" name="user_guide" guid="_-0TxoAjTEeaZBN8BGKJ1FQ" presentationName="Manual de usuario" briefDescription="Un manual de usuario es un documento de comunicación técnica destinado a dar asistencia a las personas que utilizan un sistema en particular. Por lo general, este documento está redactado por un escritor técnico." guidelines="_KSfsMAjUEeaZBN8BGKJ1FQ">
+            <methodElementProperty xmi:id="_qqixkAjUEeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-ow8CQqakHCxBrovl13xltw" href="uma://-ow8CQqakHCxBrovl13xltw#-ow8CQqakHCxBrovl13xltw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_KSfsMAjUEeaZBN8BGKJ1FQ" name="user_guide" guid="_KSfsMAjUEeaZBN8BGKJ1FQ" presentationName="Manual de usuario" briefDescription="Recomendaciones para la elaboración de un manual de usuario.">
+            <methodElementProperty xmi:id="_TImxQAjUEeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-67u-cdiJR9Fan2f_h7iWSA" href="uma://-67u-cdiJR9Fan2f_h7iWSA#-67u-cdiJR9Fan2f_h7iWSA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_srTIYAjUEeaZBN8BGKJ1FQ" name="minutes" guid="_srTIYAjUEeaZBN8BGKJ1FQ" presentationName="Acta de reunión" briefDescription="Es posible que en algún caso o circunstancia especial los participantes en el proyecto decidan levantar acta de alguna (o todas) de las reuniones que se celebren.">
+            <methodElementProperty xmi:id="_EZSnsAjVEeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-NYjYIoMqYgFqICPzWdGFtQ" href="uma://-NYjYIoMqYgFqICPzWdGFtQ#-NYjYIoMqYgFqICPzWdGFtQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_HQbz8AjVEeaZBN8BGKJ1FQ" name="architecture" guid="_HQbz8AjVEeaZBN8BGKJ1FQ" presentationName="Arquitectura" briefDescription="Descripción de la solución tecnológica elegida.">
+            <methodElementProperty xmi:id="_lv5AAAjVEeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-217RhAWnwbMipTIqEIpQjw" href="uma://-217RhAWnwbMipTIqEIpQjw#-217RhAWnwbMipTIqEIpQjw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_yE7DAAjVEeaZBN8BGKJ1FQ" name="data_model" guid="_yE7DAAjVEeaZBN8BGKJ1FQ" presentationName="Modelo de datos" briefDescription="Un modelo de datos es una conceptualización del dominio de información del sistema.">
+            <methodElementProperty xmi:id="_B8SkUAjWEeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-J2h5r_doZRwHuIz-5UolAg" href="uma://-J2h5r_doZRwHuIz-5UolAg#-J2h5r_doZRwHuIz-5UolAg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_DGyokAjWEeaZBN8BGKJ1FQ" name="technical_design" guid="_DGyokAjWEeaZBN8BGKJ1FQ" presentationName="Diseño Técnico" briefDescription="Documento de diseño técnico con la arquitectura del sistema y el modelo de datos." deliveredWorkProducts="_HQbz8AjVEeaZBN8BGKJ1FQ _yE7DAAjVEeaZBN8BGKJ1FQ">
+            <methodElementProperty xmi:id="_LlEccAjWEeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-pWcSmO5X42SHYlpQOINdgg" href="uma://-pWcSmO5X42SHYlpQOINdgg#-pWcSmO5X42SHYlpQOINdgg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Q5s-0AjWEeaZBN8BGKJ1FQ" name="bugs_defects" guid="_Q5s-0AjWEeaZBN8BGKJ1FQ" presentationName="Defectos y errores" briefDescription="Lista de defectos y errores.">
+            <methodElementProperty xmi:id="_ZKyOwAjXEeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-jYccsYu2WePANrfLkxuu7Q" href="uma://-jYccsYu2WePANrfLkxuu7Q#-jYccsYu2WePANrfLkxuu7Q"/>
           </contentElements>
         </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="__OKLkP6MEeWZBN8BGKJ1FQ" name="sprint_0" guid="__OKLkP6MEeWZBN8BGKJ1FQ" presentationName="Preparación o Sprint 0" briefDescription="Su principal objetivo es definir las condiciones y el contenido del trabajo a realizar:&#xD;&#xA;Las condiciones determinan el alcance del proyecto, e incluyen los recursos necesarios para desarrollarlo, así como la distribución temporal de entrega de resultados.&#xD;&#xA;El contenido del trabajo se recoge en la primera versión de la Pila de Producto, que contiene la visión de los requisitos principales del proyecto, es decir, las funcionalidades o resultados deseados (detallados en términos de negocio) que resolverá el sistema a construir, y los&#xD;&#xA;productos a generar.">

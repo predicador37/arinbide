@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-1Vz1rqJyedtkd2fyiCfNrw" name="new_artifact,_iTN4EAjFEeaZBN8BGKJ1FQ" guid="-1Vz1rqJyedtkd2fyiCfNrw" changeDate="2016-04-22T22:09:21.102+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
+  <mainDescription>&lt;p>&#xD;
+    Deberá contener los siguientes atributos:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Título: descripción muy breve que representa la funcionalidad u objetivo del tema.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Identificador del tema: identificador compuesto por un código de tema (ej: 999)&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Prioridad: prioridad del ítem.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Peticionario: Rol del usuario o del cliente que ha requerido su incorporación en el sistema.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Descripción: Descripción en el lenguaje de negocio de la funcionalidad u objetivo del ítem.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Observaciones: En este apartado se podrá indicar todo aquello que se considere relevante para facilitar la&#xD;
+    compresnsión del item.&#xD;
+&lt;/p>&#xD;
+&lt;br /></mainDescription>
+  <purpose>&lt;p>&#xD;
+    Obtención de un listado de temas o requisitos de muy alto nivel.&#xD;
+&lt;/p></purpose>
+  <impactOfNotHaving>Es obligatorio.</impactOfNotHaving>
+</org.eclipse.epf.uma:ArtifactDescription>

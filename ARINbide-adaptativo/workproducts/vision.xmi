@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-AQfyOnPmpshjHHDR48ccuA" name=",_NXMmkAjEEeaZBN8BGKJ1FQ" guid="-AQfyOnPmpshjHHDR48ccuA" changeDate="2016-04-22T21:56:34.221+0200">
+  <impactOfNotHaving>Obligatorio.</impactOfNotHaving>
+</org.eclipse.epf.uma:ArtifactDescription>

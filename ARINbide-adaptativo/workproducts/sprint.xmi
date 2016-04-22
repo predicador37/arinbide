@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-b7580xJrEfVzJvDMNMWQtg" name="new_artifact,_NHy0cAjLEeaZBN8BGKJ1FQ" guid="-b7580xJrEfVzJvDMNMWQtg" changeDate="2016-04-22T22:48:55.563+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
+  <mainDescription>&lt;p>&#xD;
+    Un sprint debe contener los siguientes elementos:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Nombre: Nombre del sprint.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Versión: código de versión, que será el que se utilice para la gestión de la configuración. Podrá coincidir o no con&#xD;
+    el asignado a la entrega.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Tamaño: suma de puntos de historia de todas las historias de usuario contenidas en el sprint.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Fecha: fecha prevista de finalización del sprint.&#xD;
+&lt;/p></mainDescription>
+  <purpose>Ofrecer información sobre la funcionalidad a implementar para una entrega dada en una iteración.</purpose>
+  <impactOfNotHaving>&lt;p>&#xD;
+    Es obligatorio (excepto la versión)&#xD;
+&lt;/p></impactOfNotHaving>
+</org.eclipse.epf.uma:ArtifactDescription>

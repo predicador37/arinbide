@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-R_jcyJqlP4VuW_Rc-11hvQ" name="new_artifact,_PmUbgP46EeWZBN8BGKJ1FQ" guid="-R_jcyJqlP4VuW_Rc-11hvQ" changeDate="2016-04-09T12:03:57.930+0200">
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-t1uI6ZIXvvIeqSeMP99z-A" name=",_nUKUUAjDEeaZBN8BGKJ1FQ" guid="-t1uI6ZIXvvIeqSeMP99z-A" changeDate="2016-04-22T21:52:20.820+0200">
   <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
   <mainDescription>&lt;p>&#xD;
     Es una información de alto nivel y de propósito general. No tiene que ser detallada, pero sí tiene que ser sencilla y&#xD;
@@ -31,6 +31,6 @@
     ¿Puedes explicar el producto en el tiempo que usas para subir varios pisos en un ascensor?&#xD;
 &lt;/p></keyConsiderations>
   <purpose>Obtener una descripción de alto nivel de los objetivos y alcance del proyecto.</purpose>
-  <impactOfNotHaving>Confusión en el proyecto, falta de gobernanza; podría conllevar el fracaso del proyecto.</impactOfNotHaving>
+  <impactOfNotHaving>Confusión en el proyecto, falta de gobernanza; podría conllevar el fracaso del proyecto. Es obligatorio.</impactOfNotHaving>
   <reasonsForNotNeeding>Proyecto extremadamente simple.</reasonsForNotNeeding>
-</org.eclipse.epf.uma:ArtifactDescription>
+</org.eclipse.epf.uma:DeliverableDescription>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-j8147gJR7w_-1X4jIv28xg" name="new_deliverable,_icIxMAcdEeaZBN8BGKJ1FQ" guid="-j8147gJR7w_-1X4jIv28xg" changeDate="2016-04-22T22:02:04.415+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
+  <mainDescription>Se compone de la definición del entorno tecnológico, normas y estándares, participantes y procedimientos de trabajo.</mainDescription>
+  <impactOfNotHaving>Es obligatorio.</impactOfNotHaving>
+</org.eclipse.epf.uma:DeliverableDescription>

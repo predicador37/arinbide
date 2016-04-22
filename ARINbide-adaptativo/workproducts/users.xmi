@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-6RQOnvAX3fIFe4MWj1CuDg" name="new_artifact,_yGS2oAjCEeaZBN8BGKJ1FQ" guid="-6RQOnvAX3fIFe4MWj1CuDg" changeDate="2016-04-22T21:46:54.183+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
+  <mainDescription>&lt;p>&#xD;
+    Denominación del Usuario: Asignar un nombre lo más significativo posible al rol que representa.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Descripción: Incluir una descripción muy breve sobre su día a día relacionado con las potenciales funcionalidadesl del&#xD;
+    sistema, así como las dificultades que podría encontrar para utilizarlo.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Necesidades y expectativas: Definir a grandes rasgos las necesidades y expectativas más relevantes respecto del&#xD;
+    sistema.&#xD;
+&lt;/p></mainDescription>
+  <purpose>Obtener una lista de usuarios y sus roles.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

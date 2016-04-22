@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-sCSeeNw3Xiekh05l8tnkDg" name=",_2PSWIAceEeaZBN8BGKJ1FQ" guid="-sCSeeNw3Xiekh05l8tnkDg" changeDate="2016-04-20T19:40:06.367+0200">
+  <mainDescription>&lt;ul class=&quot;noindent&quot;>&#xD;
+    &lt;li>&#xD;
+        Duración, en días, de los Sprints&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Procedimiento de entrega de “Releases” y de demos de producto. Que entorno se utilizará para cada uno de&lt;br />&#xD;
+        ellos.&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;list-style: none&quot;>&#xD;
+        Procedimiento de gestión de defectos y errores&lt;br />&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Estados de las Historias de usuario, de los Requisitos no funcionales y de las Tareas, así como sus posibles&lt;br />&#xD;
+        transiciones&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Procesos de pruebas. Referido principalmente a los distintos posibles enfoques en base a la existencia o no&lt;br />&#xD;
+        de un equipo de pruebas distinto al de desarrollo&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Procesos de aseguramiento de la calidad. Referido principalmente a los distintos posibles enfoques en&lt;br />&#xD;
+        base a la existencia o no de un equipo de calidad distinto al de desarrollo&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &amp;nbsp;Estándares de codificación&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Métodos a aplicar para asegurar la sincronización, la transparencia, y la comunicación fluida entre todos los&lt;br />&#xD;
+        participantes en el proyecto.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Herramientas a usar: de comunicación, de desarrollo,de entrega, de gestión de la configuración, de integración&#xD;
+        continua, de gestión de defectos y errores, de prototipado, de pruebas, de aseguramiento de la calidad, etc.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Etc.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

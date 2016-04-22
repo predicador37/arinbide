@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Qc_5KRQIz4rPNIll6CQDXQ" name=",_5qEeMAjPEeaZBN8BGKJ1FQ" guid="-Qc_5KRQIz4rPNIll6CQDXQ" changeDate="2016-04-22T23:20:15.540+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
+  <mainDescription>&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>La responsabilidad de gestionar la Pila de Producto recae en el Equipo de desarrollo.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>La Pila de Sprint deberá recoger al menos las siguientes dimensiones:&lt;/font>&#xD;
+&lt;/p>&#xD;
+ &lt;font lang=&quot;ZH-TW&quot; size=&quot;1&quot; face=&quot;Wingdings,Wingdings&quot;>&lt;/font>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>&lt;font face=&quot;Times New Roman&quot;>- Detalle. Cada Historia de usuario y requisito no funcional tendrá su&#xD;
+    desglose en tareas. De hecho el trabajo del equipo se refiere a las tareas.&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;br align=&quot;left&quot; />&#xD;
+&lt;br />&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>&lt;font size=&quot;2&quot;>- Prioridad. Puesto que las Historias de usuario y los requisitos no funcionales se han&#xD;
+    seleccionado de la Pila de Producto de acuerdo a su orden de prioridad, dicho orden se debe mantener en el momento de&#xD;
+    la resolución de las tareas en que se descomponen.&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;font size=&quot;2&quot;>&lt;font lang=&quot;ZH-TW&quot; size=&quot;1&quot; face=&quot;Wingdings,Wingdings&quot;>&lt;/font>&lt;/font>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>&lt;font lang=&quot;ZH-TW&quot; size=&quot;1&quot; face=&quot;Wingdings,Wingdings&quot;>&lt;font lang=&quot;ZH-TW&quot; size=&quot;1&quot;&#xD;
+    face=&quot;Wingdings,Wingdings&quot;>-&lt;/font>&lt;/font> &lt;font size=&quot;2&quot;>&lt;font face=&quot;Times New Roman&quot;>Estado. Cada uno de sus&#xD;
+    elementos estará marcado con un estado, reflejando su posición relativa en el proceso de desarrollo desde que se&#xD;
+    identifica y se añade a la Pila de Producto, hasta que se da por terminado. Una Historia de usuario o un requisito no&#xD;
+    funcional no se puede dar por terminado hasta que se completen todas sus tareas&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;font size=&quot;2&quot;>&lt;font lang=&quot;ZH-TW&quot; size=&quot;1&quot; face=&quot;Wingdings,Wingdings&quot;>&lt;/font>&lt;/font>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>&lt;font size=&quot;2&quot;>&lt;font face=&quot;Times New Roman&quot;>- Tipología de desarrollo. Se pueden catalogar las distintas&#xD;
+    tareas en función de la tipología de desarrollo en la que se enmarca (análisis, diseño, codificación, pruebas,&#xD;
+    etc.)&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>&lt;font size=&quot;2&quot;>&lt;font face=&quot;Times New Roman&quot;>Contendrá, además, los siguientes&#xD;
+    atributos:&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>&lt;font size=&quot;2&quot;>&lt;font face=&quot;Times New Roman&quot;>- Nombre del sprint: nombre descriptivo que represente el&#xD;
+    valor del sprint.&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>&lt;font size=&quot;2&quot;>&lt;font face=&quot;Times New Roman&quot;>- Objetivo: breve descripción del objetivo del sprint.&#xD;
+    Deberá reflejar, en lenguaje de negocio, el incremento de valor que se va a obtener para el sistema, y por tanto, para&#xD;
+    el usuario.&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>&lt;font size=&quot;2&quot;>&lt;font face=&quot;Times New Roman&quot;>- Fecha de inicio: fecha de inicio del&#xD;
+    sprint.&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>&lt;font size=&quot;2&quot;>&lt;font face=&quot;Times New Roman&quot;>- Fecha de fin: fecha de fin del&#xD;
+    sprint.&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>&lt;font size=&quot;2&quot;>&lt;font face=&quot;Times New Roman&quot;>- Tamaño: suma total de puntos de usuario que se van a&#xD;
+    desarrollar.&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>&lt;font size=&quot;2&quot;>&lt;font face=&quot;Times New Roman&quot;>- Observaciones: en este apartado se podrá indicar todo&#xD;
+    aquelo que se considere relevante para facilitar la comprensión del objetivo del sprint.&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p></mainDescription>
+  <purpose>Obtener una lista de trabajos a realizar en una iteración de desarrollo.</purpose>
+  <impactOfNotHaving>&lt;p>&#xD;
+    Ausencia de descomposición de tareas, falta de objetivos a largo plazo podrían provocar desvíos.&#xD;
+&lt;/p></impactOfNotHaving>
+</org.eclipse.epf.uma:DeliverableDescription>

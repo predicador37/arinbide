@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-kVyoZxMlEv5uh6OZIZf7MA" name=",_VqpJIAAhEeaZBN8BGKJ1FQ" guid="-kVyoZxMlEv5uh6OZIZf7MA" changeDate="2016-04-11T22:13:28.801+0200">
-  <impactOfNotHaving>Es obligatorio.</impactOfNotHaving>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-kVyoZxMlEv5uh6OZIZf7MA" name="standards,_VqpJIAAhEeaZBN8BGKJ1FQ" guid="-kVyoZxMlEv5uh6OZIZf7MA" changeDate="2016-04-20T19:31:17.984+0200">
+  <mainDescription>Normativas y estándares de desarrollo, de albergue, de implantación, de uso de productos, etc. que son de aplicación.&#xD;
+También se incluirán las normas y estándares legales y funcionales que debe cumplir tanto el proyecto como el producto a&#xD;
+generar.</mainDescription>
+  <impactOfNotHaving>Es opcional.</impactOfNotHaving>
 </org.eclipse.epf.uma:ArtifactDescription>

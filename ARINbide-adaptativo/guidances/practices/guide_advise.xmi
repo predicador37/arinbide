@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-KtoaEJOdKLySQ_YCAIoMyg" name="new_practice,_nj9QkAjTEeaZBN8BGKJ1FQ" guid="-KtoaEJOdKLySQ_YCAIoMyg" changeDate="2016-04-22T23:46:57.309+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
+  <mainDescription>&lt;p>&#xD;
+    - Conocer la audiencia. Saber a quiénes está dirigido el manual, de modo que su redacción se ajuste a su lenguaje y&#xD;
+    nivel de comprensión.&lt;br />&#xD;
+    - Guía de contenidos e índice. Si el manual tiene varias páginas, incluir una guía de contenidos al principio. Y si es&#xD;
+    muy extenso, incluir también un índice al final.&lt;br />&#xD;
+    - Introducción. Redactar una introducción breve que describa los objetivos del sistema y las funcionalidades que ofrece&#xD;
+    en términos cualitativos. Se trata de adelantar al usuario de qué va a tratar el manual y cuál va a ser el resultado&#xD;
+    final. Se debe incluir también cómo puede iniciar la aplicación.&lt;br />&#xD;
+    - &amp;nbsp;Interfaz. Detallar un listado con las partes y elementos incluidos en la interfaz, y que son necesarios para&#xD;
+    llevar a cabo las tareas que facilita el sistema.&lt;br />&#xD;
+    - Glosario. A veces conviene incluir un glosario de términos de negocio o incluso técnicos que faciliten la comprensión&#xD;
+    del sistema y su terminología.&lt;br />&#xD;
+    - Funciones. Describir en detalle cada función del sistema (en lenguaje de negocio) y la secuencia de acciones o&#xD;
+    interacciones con la interfaz que son necesarias para llevarlas a cabo. Se deben incluir y detallar también todos los&#xD;
+    datos específicos que necesitará el usuario para completarlas. La descripción de los pasos debe ser inequívoca, exacta&#xD;
+    y puntual.&lt;br />&#xD;
+    - Sugerencias. Incluir, a discreción, y como complemento a la descripción de las funciones, las sugerencias que guíen&#xD;
+    al usuario a través de los procesos necesarios para completar las tareas de forma efectiva y correcta.&lt;br />&#xD;
+    -&amp;nbsp;Ilustraciones. Siempre que sea posible y que con ello se ayude a clarificar alguno de los pasos, ilustrar el&#xD;
+    manual con imágenes, diagramas y figuras.&lt;br />&#xD;
+    - Solución de problemas. Se trata de detallar los posibles errores o problemas que pueden surgir, junto con la forma de&#xD;
+    solucionarlos.&lt;br />&#xD;
+    -&amp;nbsp;Peguntas frecuentes. Las preguntas frecuentes pueden considerarse como guías rápidas ante necesidades concretas&#xD;
+    del usuario.&lt;br />&#xD;
+    - Otras ayudas. Si es posible, añadir referencias a otros sitios dónde encontrar más ayudas relacionadas, o incluso&#xD;
+    personas de contacto y soporte.&#xD;
+&lt;/p></mainDescription>
+  <problem>Mejorar la compresnsión de los manuales por parte del usuario.</problem>
+</org.eclipse.epf.uma:PracticeDescription>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-M7znacyiCbMa2q3IcNtAkA" name=",_zexusAjREeaZBN8BGKJ1FQ" guid="-M7znacyiCbMa2q3IcNtAkA" changeDate="2016-04-22T23:34:52.537+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
+  <mainDescription>&lt;p>&#xD;
+    Contendrá los siguientes atributos:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Trabajo pendiente del equipo: Gráfica de trabajo pendiente del proyecto (Release Burndown Chart)&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Velocidad media del equipo: Velocidad media del equipo en el proyecto&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Nombre del sprint: Nombre descriptivo que represente el valor del Sprint.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Trabajo pendiente: Gráfica de trabajo pendiente del Sprint (Sprint Burndown Chart)&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Velocidad del equipo: Velocidad real del equipo en el Sprint&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Bitácora:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp; - Los motivos de posibles desviaciones o problemas&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp; - Los resultados de las negociaciones con el Dueño del Producto sobre desviaciones o problemas graves&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp; - Referencias a impedimentos relevantes&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp; - Defectos o errores descubiertos en el producto que puedan tener un impacto negativo importante&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp; - Decisiones sobre historias de usuario&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;- Cambios en el equipo (bajas, sustituciones, etc.)&#xD;
+&lt;/p></mainDescription>
+  <purpose>Obtener información sobre el estado del proyecto.</purpose>
+  <impactOfNotHaving>Es obligatorio</impactOfNotHaving>
+</org.eclipse.epf.uma:ArtifactDescription>

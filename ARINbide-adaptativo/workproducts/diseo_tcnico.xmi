@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-pWcSmO5X42SHYlpQOINdgg" name="new_deliverable,_DGyokAjWEeaZBN8BGKJ1FQ" guid="-pWcSmO5X42SHYlpQOINdgg" changeDate="2016-04-23T00:04:02.728+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
+  <purpose>Obtener un documento de diseño técnico con la arquitectura del sistema y el modelo de datos.</purpose>
+  <impactOfNotHaving>Es obligatorio</impactOfNotHaving>
+</org.eclipse.epf.uma:DeliverableDescription>

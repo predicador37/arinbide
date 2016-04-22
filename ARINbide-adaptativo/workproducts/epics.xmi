@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-P8UvyMxXhIL_8gmzar-BFQ" name="new_artifact,_ayBiEAjGEeaZBN8BGKJ1FQ" guid="-P8UvyMxXhIL_8gmzar-BFQ" changeDate="2016-04-22T22:12:44.508+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
+  <mainDescription>&lt;p>&#xD;
+    Cada épica deberá contener los siguientes atributos:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Título: Descripción muy breve que represente la funcionalidad u objetivo de la épica.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Identificadores de tema y épica: Código del tema al que pertenece y código de la épica&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Prioridad: prioridad de ítem (1-500).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Tamaño: Estimación de tamaño, medido en Puntos Historia, realizada por el equipo de desarrollo.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Peticionario: Rol de usuario o cliente que ha requerido su incorporación en el sistema.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Descripción: Descripción en lenguaje de negocio de la funcionalidad u objetivo del ítem. Su formato de redacción&#xD;
+    deberá seguir el siguiente modelo:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    COMO (as) usuario desempeñando un papel&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    QUIERO (I want) deseo o funcionalidad requerida&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    DE MODO QUE (so that) beneficio o valor que aporta al negocio o al usuario&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Criterios de aceptación: lista numerada de criterios de aceptación, descritos en lenguaje de negocio, que recogen las&#xD;
+    características que debe cumplir el ítem para poder considerarse como terminado.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Observaciones: En este apartado se podrá indicar todo aquello que se considere relevante para facilitar la&#xD;
+    comprensión del ítem.&#xD;
+&lt;/p>&#xD;
+&lt;br /></mainDescription>
+  <purpose>Obtener un listado de épicas.</purpose>
+  <impactOfNotHaving>Es obligatorio.</impactOfNotHaving>
+</org.eclipse.epf.uma:ArtifactDescription>

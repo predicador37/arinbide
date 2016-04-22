@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-217RhAWnwbMipTIqEIpQjw" name=",_HQbz8AjVEeaZBN8BGKJ1FQ" guid="-217RhAWnwbMipTIqEIpQjw" changeDate="2016-04-23T00:01:32.898+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
+  <mainDescription>&lt;p>&#xD;
+    Contendrá los siguientes elementos:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Arquitectura de sistemas: contendrá al menos un gráfico en el que se identifiquen el sistema construido y otros&#xD;
+    sistemas que, o bien utiliza o bien da servicio. se puede completar con una breve descripción de dichas interacciones.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Módulos funcionales: contendrá un gráfico con los distintos módulos funcionales del sistema, junto con una breve&#xD;
+    descripción de las responsabilidades que tiene asignadas cada uno de ellos.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Arquitectura lógica: si es el caso, deberá indicar los patrones aplicados en el diseño.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Vista estática: contendrá un gráfico con los niveles y componentes de la arquitectura (presentación del lado cliente&#xD;
+    y del lado servidor, controlador, servicios de negocio, acceso a datos, modelo, utilidades, etc.) Si es el caso,&#xD;
+    también se describirán los componentes batch, los componentes asíncronos (colas JMS), y cualesquiera otros de&#xD;
+    naturaleza distinta al on-line.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    -&amp;nbsp; Vista funcional: se describen las responsabilidades asignadas a los niveles y componentes detallados en la&#xD;
+    vista estática.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Vista dinámica:&amp;nbsp;Se describe muy brevemente cómo interactúan los componentes detallados en la vista estática.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Arquitectura física: contendrá un gráfico detallado de la ubicación física (PC, servidor web, servidor de&#xD;
+    aplicaciones, servidor de base de datos, etc.) de los distintos componentes identificados en la vista estática.&#xD;
+&lt;/p></mainDescription>
+  <purpose>Obtener una visión tecnológica global del sistema como suma de sus componentes.</purpose>
+  <impactOfNotHaving>Es obligatorio.</impactOfNotHaving>
+</org.eclipse.epf.uma:ArtifactDescription>

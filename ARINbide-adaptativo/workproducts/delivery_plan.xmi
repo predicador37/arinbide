@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-RFFSjMaDUI-O94Yv6bckdw" name="new_deliverable,_dQp48AjMEeaZBN8BGKJ1FQ" guid="-RFFSjMaDUI-O94Yv6bckdw" changeDate="2016-04-22T23:02:05.130+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
+  <mainDescription>&lt;p>&#xD;
+    Las&amp;nbsp;fechas del plan no tienen por qué coincidir exactamente con todas las de finalización de los distintos&#xD;
+    Sprints. Con Scrum, lo habitual es que se generen entregas del producto (versiones) como agrupación de hasta tres o&#xD;
+    cuatro iteraciones.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>Cada entrega estará caracterizada por:&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font lang=&quot;ZH-TW&quot; size=&quot;1&quot; face=&quot;Wingdings,Wingdings&quot;>&lt;font lang=&quot;ZH-TW&quot; size=&quot;1&quot; face=&quot;Wingdings,Wingdings&quot;>&lt;font&#xD;
+    size=&quot;2&quot;>&lt;font face=&quot;Times New Roman&quot;>- Un nombre descriptivo que refleje el incremento de valor para el&#xD;
+    producto.&lt;/font>&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font lang=&quot;ZH-TW&quot; size=&quot;1&quot; face=&quot;Wingdings,Wingdings&quot;>&lt;font lang=&quot;ZH-TW&quot; size=&quot;1&quot; face=&quot;Wingdings,Wingdings&quot;>&lt;font&#xD;
+    size=&quot;2&quot;>&lt;font face=&quot;Times New Roman&quot;>- &amp;nbsp;&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;font size=&quot;2&quot;>&lt;font&#xD;
+    face=&quot;Times New Roman&quot;>Las fechas de las entregas&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+ &lt;font lang=&quot;ZH-TW&quot; size=&quot;1&quot; face=&quot;Wingdings,Wingdings&quot;>&lt;/font>&#xD;
+&lt;p>&#xD;
+    &lt;font lang=&quot;ZH-TW&quot; size=&quot;1&quot; face=&quot;Wingdings,Wingdings&quot;>&lt;font lang=&quot;ZH-TW&quot; size=&quot;1&quot; face=&quot;Wingdings,Wingdings&quot;>-&#xD;
+    &amp;nbsp;&lt;/font>&lt;/font>&lt;font size=&quot;2&quot;>&lt;font face=&quot;Times New Roman&quot;>Un código de versión, que será el que se utilice para&#xD;
+    la gestión de la configuración.&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>&lt;font face=&quot;Times New Roman&quot;>- Las iteraciones contenidas en cada entrega junto con la suma de Puntos de&#xD;
+    Historia de esas iteraciones&lt;/font>&lt;/font>&#xD;
+&lt;/p></mainDescription>
+  <purpose>Obtener un plan de entregas.</purpose>
+  <impactOfNotHaving>Es obligatorio.</impactOfNotHaving>
+</org.eclipse.epf.uma:DeliverableDescription>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-E-bYZ7DbDBpIT_6jsao5gw" name="new_artifact,_Qm1AwAjDEeaZBN8BGKJ1FQ" guid="-E-bYZ7DbDBpIT_6jsao5gw" changeDate="2016-04-22T21:49:57.723+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
+  <mainDescription>&lt;p>&#xD;
+    Lista de atributos funcionales:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Atributo: funcionalidad o característiac del sistema descrita en lenguaje de negocio.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Prioridad: prioridad o criticidad de la funcionalidad. Refleja su importancia respecto al resto de atributos.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Lista de atributos no funcionales:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Atributo: Funcionalidad o característica del sistema descrita en lenguaje de negocio.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Prioridad: Prioridad o criticidad de la funcionalidad. Refleja su importancia respecto del resto de atributos.&#xD;
+&lt;/p></mainDescription>
+  <purpose>Describir, a alto nivel, los atributos críticos o más significativos que el producto debe cumplir para satisfacer las&#xD;
+necesidades detectadas.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-jYccsYu2WePANrfLkxuu7Q" name="new_artifact,_Q5s-0AjWEeaZBN8BGKJ1FQ" guid="-jYccsYu2WePANrfLkxuu7Q" changeDate="2016-04-23T00:05:37.370+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
+  <mainDescription>&lt;p>&#xD;
+    Contendrá los siguientes campos:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Código: Código identificador del defecto o error&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Título: Resumen muy breve y descriptivo del defecto o error.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Severidad: La severidad da una medida de su impacto y consecuencias. Es además un criterio muy importante a la hora&#xD;
+    de determinar cuáles deben corregirse y con qué prioridad. Bloqueo (impiden el uso del sistema), Mayor (funcionamiento&#xD;
+    erróneo de alguna de las partes críticas del sistema), Normal (funcionamiento erróneo de algunas de las partes no&#xD;
+    críticas del sistema), Menor (defectos que no causan un mal funcionamiento).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Prioridad: Prioridad de resolución de la incidencia.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Estado:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp; - Nueva: Nueva. Es el estado por defecto cuando se crea una incidencia.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp; - Asignada: Asignada. La incidencia está asignada a una persona del equipo y se está trabajando en su resolución&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp; - Se necesitan más datos: Se necesitan más datos. No se tienen suficientes datos para resolver la incidencia.&#xD;
+    Podría darse ante una nueva incidencia antes de aceptarla o confirmarla. O incluso cuando una vez asignada, el&#xD;
+    desarrollador requiere de más datos para su resolución&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp; - Aceptada: Aceptada. Este estado da cuenta de la recepción de la incidencia. Es un primer paso de su&#xD;
+    aceptación, pero no implica que se haya intentado reproducir. Normalmente de este estado se pasa a confirmada o a&#xD;
+    asignada.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp; - Confirmada: Confirmada. Significa que se ha logrado reproducir la incidencia.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp; - Resuelta: Este estado significa que el equipo ha terminado con la incidencia. Los detalles se especifican en&#xD;
+    el campo resolución&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp; - En el caso de que la incidencia se haya corregido, aún quedaría pendiente el paso de verificar su corrección&#xD;
+    repitiendo las pruebas correspondientes.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp; - Verificada: Este estado indica que para una incidencia en estado “resuelta” y “corregida” se ha repetido la&#xD;
+    prueba correspondiente y ha pasado correctamente, por lo que queda verificada su solución&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp; - Cerrada: Este estado significa que no hay ninguna acción más que realizar sobre la incidencia.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Resolución: Complementa información sobre el estado de la incidencia cuando esta ha pasada a “resuelta”. Abierta, no&#xD;
+    reproducible, no es correible, duplicada, no es una incidencia, suspendida (pospuesta), no se arreglará.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Versión: Versión del producto en la que se ha producido.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Fecha: Fecha y hora en la que se identificó.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Descripción: Pasos para reproducir la incidencia: entorno y condiciones en las que ha ocurrido, acciones ejecutadas y&#xD;
+    datos de entrada, resultado esperado, resultado obtenido / desviaciones, etc.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Solicitante (informador): Persona que descubrió el defecto o error.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Ficheros anexos: Ficheros que aporten información adicional para describir el defecto o error, o incluso su posible&#xD;
+    resolución.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Referencias pila de producto: Lista de identificadores de Historias de usuario y/o Requisitos no funcionales a los&#xD;
+    que afecta la incidencia&#xD;
+&lt;/p></mainDescription>
+  <purpose>Obtener un listado de defectos y errores cometidos durante el desarrollo del producto.</purpose>
+  <impactOfNotHaving>Dificultad para llevar a cabo mantenimientos correctivos y/o perfectivos.</impactOfNotHaving>
+</org.eclipse.epf.uma:ArtifactDescription>

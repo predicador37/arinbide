@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-DWg5_Ak_zG9ktNb0PCWMvw" name="new_artifact,_J9e_IAjMEeaZBN8BGKJ1FQ" guid="-DWg5_Ak_zG9ktNb0PCWMvw" changeDate="2016-04-22T22:53:18.866+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
+  <mainDescription>&lt;p>&#xD;
+    Contará con los siguientes atributos:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Versión: código de versión final del producto.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Tamaño: suma total de puntos de historia de todas las historias de usuario a desarrollar.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Fecha: fecha prevista de finalización del proyecto.&#xD;
+&lt;/p></mainDescription>
+  <purpose>Obtener una estimación de tamaño y fecha de finalización del producto completo.</purpose>
+  <impactOfNotHaving>Es obligatorio (excepto la versión).</impactOfNotHaving>
+</org.eclipse.epf.uma:ArtifactDescription>

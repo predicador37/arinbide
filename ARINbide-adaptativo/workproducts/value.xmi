@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-cWUNbE4mBz8L7nCcgWYZMQ" name="new_artifact,_H4wA4AjEEeaZBN8BGKJ1FQ" guid="-cWUNbE4mBz8L7nCcgWYZMQ" changeDate="2016-04-22T21:55:33.606+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
+  <purpose>Describir a alto nivel, y de manera muy breve, cuál es el valor que el sistema aporta a los clientes y usuarios.</purpose>
+  <impactOfNotHaving>Obligatorio.</impactOfNotHaving>
+</org.eclipse.epf.uma:ArtifactDescription>

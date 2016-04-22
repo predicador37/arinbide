@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-A5Z3MUEvDTKoNLYJjQevrw" name=",_DffIUAjJEeaZBN8BGKJ1FQ" guid="-A5Z3MUEvDTKoNLYJjQevrw" changeDate="2016-04-22T22:43:54.723+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
+  <mainDescription>&lt;p>&#xD;
+    Una entrega contendrá los siguientes elementos:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Nombre: nombre descriptivo de la entrega que refleje el valor añadido (funcionalidades) al producto.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Versión: código de la versión, que será el que se utilice para la gestión de la configuración.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Tamaño: suma total de puntos de historia de todas las historias de usuario contenidas en las iteraciones que agrupa.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Fecha: fecha prevista de la entrega.&#xD;
+&lt;/p></mainDescription>
+  <purpose>Obtener una lista de entregas.</purpose>
+  <impactOfNotHaving>Es obligatorio.</impactOfNotHaving>
+</org.eclipse.epf.uma:ArtifactDescription>

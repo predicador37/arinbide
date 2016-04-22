@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Gy2KpPqP-FXOfyOXWc3jGg" name="new_artifact,_PdrqkAjHEeaZBN8BGKJ1FQ" guid="-Gy2KpPqP-FXOfyOXWc3jGg" changeDate="2016-04-22T22:21:33.046+0200">
+  <mainDescription>&lt;p>&#xD;
+    Cada historia de usuario / requisito no funcional contendrá los siguientes atributos:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Título: Descripción muy breve que represente la funcionalidad u objetivo del ítem.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Identificadores de tema, épica e historia: Códigos del tema y épica a los que pertenece y código de la historia.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Prioridad: prioridad de ítem (1-500).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Tamaño: Estimación de tamaño, medido en Puntos Historia, realizada por el equipo de desarrollo.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Peticionario: Rol de usuario o cliente que ha requerido su incorporación en el sistema.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Descripción: Descripción en lenguaje de negocio de la funcionalidad u objetivo del ítem. Su formato de redacción&#xD;
+    deberá seguir el siguiente modelo:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    COMO (as) usuario desempeñando un papel&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    QUIERO (I want) deseo o funcionalidad requerida&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    DE MODO QUE (so that) beneficio o valor que aporta al negocio o al usuario&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Criterios de aceptación: lista numerada de criterios de aceptación, descritos en lenguaje de negocio, que recogen las&#xD;
+    características que debe cumplir el ítem para poder considerarse como terminado.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Sprint: nombre del sprint en la que se va a desarrollar.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Estado: Pendiente de iniciar (to-do), en curso (in progress), aseguramiento de calidad (QA), terminada (done),&#xD;
+    impedida (stopped), descartada (rejected)&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Observaciones: En este apartado se podrá indicar todo aquello que se considere relevante para facilitar la&#xD;
+    comprensión del ítem. Se podrá utilizar este campo para indicar si se trata de una acción de mejora a implementar como&#xD;
+    resultado de alguna de las reuniones de retrospectiva. O también podría recoger los códigos de incidencia o error que&#xD;
+    genera la herramienta de gestión de errores y que tienen relación con este ítem.&#xD;
+&lt;/p></mainDescription>
+  <purpose>Obtener un listado de historias de usuario o requisitos no funcionales</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

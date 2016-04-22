@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ow8CQqakHCxBrovl13xltw" name="new_artifact,_-0TxoAjTEeaZBN8BGKJ1FQ" guid="-ow8CQqakHCxBrovl13xltw" changeDate="2016-04-22T23:49:06.779+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>La mayoría de las guías de usuario contienen tanto una guía escrita como imágenes asociadas. Es habitual&#xD;
+    incluir capturas de pantalla de cómo el programa debería ser, y manuales que a menudo incluyen &lt;font size=&quot;2&quot;>diagramas&#xD;
+    claramente detallados y sencillos que detallan los pasos a realizar por el usuario para llevar a cabo las distintas&#xD;
+    opciones disponibles.&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>&lt;font size=&quot;2&quot;>Contendrá los siguientes atributos:&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>&lt;font size=&quot;2&quot;>- Introducción: objetivos del sistema, funciones e inicio (modo de acceso).&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>&lt;font size=&quot;2&quot;>- Glosario de términos de negocio y técnicos.&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>&lt;font size=&quot;2&quot;>- Organización de pantalla: descripción de componentes visuales incluidos en la cabecera&#xD;
+    y en el área de trabajo, así como de los menús e información de usuario y ruta de navegación.&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>&lt;font size=&quot;2&quot;>- Lista de funcionalidades con descripciones detalladas de cada una de las&#xD;
+    funcionalidades, incluyendo la secuencia de acciones que debe realizar el usuario.&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>&lt;font size=&quot;2&quot;>- Solución de problemas: posibles errores o problemas que pueden surgir, junto con la&#xD;
+    forma de solucionarlos.&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>&lt;font size=&quot;2&quot;>- Preguntas frecuentes&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>&lt;font size=&quot;2&quot;>- Referencias: ayuda complementaria y contacto.&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>&lt;font size=&quot;2&quot;>- Índice.&lt;/font>&lt;/font>&#xD;
+&lt;/p></mainDescription>
+  <purpose>Redactar un manual de usuario comprensible.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>
