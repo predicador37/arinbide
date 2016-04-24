@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_F8g24Qk2EeaZBN8BGKJ1FQ" guid="_F8g24Qk2EeaZBN8BGKJ1FQ">
+    <resourceDescriptors xmi:id="_F8g24gk2EeaZBN8BGKJ1FQ" id="-FOG7iI78YA2SAVU95T1hwQ" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_F7nfAAk2EeaZBN8BGKJ1FQ" name="define_work_procedures" guid="_F7nfAAk2EeaZBN8BGKJ1FQ">
+    <methodElementProperty xmi:id="_F7xQAAk2EeaZBN8BGKJ1FQ" name="pkg_loadCheck" value="true"/>
+    <methodElementProperty xmi:id="_IISK4Ak2EeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_9BdyAAk2EeaZBN8BGKJ1FQ" name="define_how" guid="_9BdyAAk2EeaZBN8BGKJ1FQ" presentationName="Definir cómo se va a construir el sistema" superActivities="_F7nfAQk2EeaZBN8BGKJ1FQ" additionallyPerformedBy="_9BnjAQk2EeaZBN8BGKJ1FQ _9BnjAgk2EeaZBN8BGKJ1FQ _9BnjAwk2EeaZBN8BGKJ1FQ" mandatoryInput="_9BnjBAk2EeaZBN8BGKJ1FQ _9BnjBQk2EeaZBN8BGKJ1FQ _9BnjBgk2EeaZBN8BGKJ1FQ" output="_9BnjBwk2EeaZBN8BGKJ1FQ _9BnjBgk2EeaZBN8BGKJ1FQ" performedPrimarilyBy="_9BnjAAk2EeaZBN8BGKJ1FQ">
+      <Task href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_K980oAkvEeaZBN8BGKJ1FQ"/>
+      <selectedSteps href="uma://-EzTfj5l4rgxRiiZQdTtnyA#_iq4kAAkvEeaZBN8BGKJ1FQ"/>
+      <selectedSteps href="uma://-EzTfj5l4rgxRiiZQdTtnyA#_lZ1dkAkvEeaZBN8BGKJ1FQ"/>
+      <selectedSteps href="uma://-EzTfj5l4rgxRiiZQdTtnyA#_nk3KsAkvEeaZBN8BGKJ1FQ"/>
+      <selectedSteps href="uma://-EzTfj5l4rgxRiiZQdTtnyA#_o1LjEAkvEeaZBN8BGKJ1FQ"/>
+      <selectedSteps href="uma://-EzTfj5l4rgxRiiZQdTtnyA#_qgnKIAkvEeaZBN8BGKJ1FQ"/>
+      <selectedSteps href="uma://-EzTfj5l4rgxRiiZQdTtnyA#_tab28AkvEeaZBN8BGKJ1FQ"/>
+      <selectedSteps href="uma://-EzTfj5l4rgxRiiZQdTtnyA#_vPjlgAkvEeaZBN8BGKJ1FQ"/>
+      <selectedSteps href="uma://-EzTfj5l4rgxRiiZQdTtnyA#_yBL_oAkvEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_9BnjAAk2EeaZBN8BGKJ1FQ" name="product_owner" guid="_9BnjAAk2EeaZBN8BGKJ1FQ" presentationName="Dueño del Producto" isPlanned="false" superActivities="_F7nfAQk2EeaZBN8BGKJ1FQ" modifies="_9BnjBwk2EeaZBN8BGKJ1FQ _9BnjBgk2EeaZBN8BGKJ1FQ">
+      <Role href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_0Xz88PzzEeWZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_9BnjAQk2EeaZBN8BGKJ1FQ" name="sponsor" guid="_9BnjAQk2EeaZBN8BGKJ1FQ" presentationName="Patrocinador" isPlanned="false" superActivities="_F7nfAQk2EeaZBN8BGKJ1FQ">
+      <Role href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_CJNTcPz4EeWZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_9BnjAgk2EeaZBN8BGKJ1FQ" name="scrum_master" guid="_9BnjAgk2EeaZBN8BGKJ1FQ" presentationName="Facilitador" isPlanned="false" superActivities="_F7nfAQk2EeaZBN8BGKJ1FQ">
+      <Role href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_bn2N0Pz0EeWZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_9BnjAwk2EeaZBN8BGKJ1FQ" name="team" guid="_9BnjAwk2EeaZBN8BGKJ1FQ" presentationName="Equipo de desarrollo" isPlanned="false" superActivities="_F7nfAQk2EeaZBN8BGKJ1FQ">
+      <Role href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_P-RmQP7vEeWZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_9BnjBAk2EeaZBN8BGKJ1FQ" name="pliego_ct" guid="_9BnjBAk2EeaZBN8BGKJ1FQ" presentationName="Pliego de condiciones técnicas" isPlanned="false" superActivities="_F7nfAQk2EeaZBN8BGKJ1FQ">
+      <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_BwI2MP43EeWZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_9BnjBQk2EeaZBN8BGKJ1FQ" name="product_vision" guid="_9BnjBQk2EeaZBN8BGKJ1FQ" presentationName="Visión del producto" isPlanned="false" superActivities="_F7nfAQk2EeaZBN8BGKJ1FQ">
+      <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_nUKUUAjDEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_9BnjBgk2EeaZBN8BGKJ1FQ" name="standards_procedures_participants" guid="_9BnjBgk2EeaZBN8BGKJ1FQ" presentationName="Normas, participantes y procedimientos" isPlanned="false" superActivities="_F7nfAQk2EeaZBN8BGKJ1FQ">
+      <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_icIxMAcdEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_9BnjBwk2EeaZBN8BGKJ1FQ" name="work_procedures" guid="_9BnjBwk2EeaZBN8BGKJ1FQ" presentationName="Procedimientos de trabajo" isPlanned="false" superActivities="_F7nfAQk2EeaZBN8BGKJ1FQ">
+      <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_2PSWIAceEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_F7nfAQk2EeaZBN8BGKJ1FQ" name="define_work_procedures" guid="_F7nfAQk2EeaZBN8BGKJ1FQ" presentationName="Identificar procedimientos de trabajo" briefDescription="Se define el cómo se va a construir el sistema, acordando los procedimientos de trabajo." breakdownElements="_9BdyAAk2EeaZBN8BGKJ1FQ _9BnjAAk2EeaZBN8BGKJ1FQ _9BnjAQk2EeaZBN8BGKJ1FQ _9BnjAgk2EeaZBN8BGKJ1FQ _9BnjAwk2EeaZBN8BGKJ1FQ _9BnjBAk2EeaZBN8BGKJ1FQ _9BnjBQk2EeaZBN8BGKJ1FQ _9BnjBgk2EeaZBN8BGKJ1FQ _9BnjBwk2EeaZBN8BGKJ1FQ">
+      <presentation xmi:id="-FOG7iI78YA2SAVU95T1hwQ" href="uma://-FOG7iI78YA2SAVU95T1hwQ#-FOG7iI78YA2SAVU95T1hwQ"/>
+      <defaultContext href="uma://_rnsX4OF4Edyp34pwdTOSVQ#_9ZyFcP7wEeWZBN8BGKJ1FQ"/>
+      <validContext href="uma://_rnsX4OF4Edyp34pwdTOSVQ#_9ZyFcP7wEeWZBN8BGKJ1FQ"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

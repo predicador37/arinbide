@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-n_WAj7hkqchp8aRQmygkUw" name=",_jT3REApXEeaZBN8BGKJ1FQ" guid="-n_WAj7hkqchp8aRQmygkUw" changeDate="2016-04-24T22:04:16.555+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
+  <mainDescription>La reunión deberá tener las siguientes características:&lt;br />&#xD;
+ - Se celebrará al final de cada Sprint&lt;br />&#xD;
+ - Deben tratarse tanto los aspectos operativos como los más personales&lt;br />&#xD;
+ - Dedicar una parte a comentar los éxitos y las buenas prácticas utilizadas, así como recordar cualquier aspecto positivo&#xD;
+para el equipo que haya ocurrido a lo largo del Sprint&lt;br />&#xD;
+ - Es más útil hablar de los temas que hay que mejorar que de las cosas que no funcionan</mainDescription>
+  <purpose>Evaluar acciones correctivas en el proyecto</purpose>
+</org.eclipse.epf.uma:TaskDescription>

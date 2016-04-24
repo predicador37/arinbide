@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-hLf-DtduHIkTjRBkW_qOIw" name="new_guideline,_Zgys8Ao1EeaZBN8BGKJ1FQ" guid="-hLf-DtduHIkTjRBkW_qOIw" changeDate="2016-04-24T17:59:41.287+0200">
+  <mainDescription>&lt;p>&#xD;
+    Diseñar en pequeños pasos y los más tarde posible, de manera que se disponga de la mayor cantidad de infromación&#xD;
+    posible. De esta forma el proceso software se orienta al cambio.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

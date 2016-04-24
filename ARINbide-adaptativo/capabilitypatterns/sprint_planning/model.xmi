@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_9_LY8QpeEeaZBN8BGKJ1FQ" guid="_9_LY8QpeEeaZBN8BGKJ1FQ">
+    <resourceDescriptors xmi:id="_9_LY8gpeEeaZBN8BGKJ1FQ" id="-YZ0R_xCYzJHjB8tpRBfA6A" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_9-SoIApeEeaZBN8BGKJ1FQ" name="sprint_planning" guid="_9-SoIApeEeaZBN8BGKJ1FQ">
+    <methodElementProperty xmi:id="_9-SoIgpeEeaZBN8BGKJ1FQ" name="pkg_loadCheck" value="true"/>
+    <methodElementProperty xmi:id="_W5BAUApfEeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_SRFL4ApfEeaZBN8BGKJ1FQ" name="calculate_sprint_velocity" guid="_SRFL4ApfEeaZBN8BGKJ1FQ" presentationName="Calcular velocidad prevista para sprint" superActivities="_9-SoIQpeEeaZBN8BGKJ1FQ" additionallyPerformedBy="_SRFL5gpfEeaZBN8BGKJ1FQ _SRFL5wpfEeaZBN8BGKJ1FQ" mandatoryInput="_SRO84ApfEeaZBN8BGKJ1FQ" output="_SRO84QpfEeaZBN8BGKJ1FQ" performedPrimarilyBy="_SRFL5QpfEeaZBN8BGKJ1FQ">
+      <Task href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_t-CVkAonEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_SRFL4QpfEeaZBN8BGKJ1FQ" name="establish_sprint_target" guid="_SRFL4QpfEeaZBN8BGKJ1FQ" presentationName="Establecer objetivo para el sprint" superActivities="_9-SoIQpeEeaZBN8BGKJ1FQ" additionallyPerformedBy="_SRFL5gpfEeaZBN8BGKJ1FQ _SRFL5wpfEeaZBN8BGKJ1FQ" mandatoryInput="_SRO84ApfEeaZBN8BGKJ1FQ" output="_SRO84ApfEeaZBN8BGKJ1FQ _SRO84QpfEeaZBN8BGKJ1FQ" performedPrimarilyBy="_SRFL5QpfEeaZBN8BGKJ1FQ">
+      <Task href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_IQK3gAomEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_SRFL4gpfEeaZBN8BGKJ1FQ" name="product_backlog_refinement" guid="_SRFL4gpfEeaZBN8BGKJ1FQ" presentationName="Refinamiento de elementos de la pila de producto" superActivities="_9-SoIQpeEeaZBN8BGKJ1FQ" mandatoryInput="_SRO84ApfEeaZBN8BGKJ1FQ" output="_SRO84ApfEeaZBN8BGKJ1FQ _SRO84QpfEeaZBN8BGKJ1FQ" performedPrimarilyBy="_SRFL5gpfEeaZBN8BGKJ1FQ _SRFL5QpfEeaZBN8BGKJ1FQ _SRFL5wpfEeaZBN8BGKJ1FQ">
+      <Task href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_RSD5UAonEeaZBN8BGKJ1FQ"/>
+      <selectedSteps href="uma://-9VxGaHqIWL-8ZUkD3WQ34g#_dyQqgAonEeaZBN8BGKJ1FQ"/>
+      <selectedSteps href="uma://-9VxGaHqIWL-8ZUkD3WQ34g#_g9XUkAonEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_SRFL4wpfEeaZBN8BGKJ1FQ" name="select_sprint_stories" guid="_SRFL4wpfEeaZBN8BGKJ1FQ" presentationName="Seleccionar historias a desarrollar en el sprint" superActivities="_9-SoIQpeEeaZBN8BGKJ1FQ" additionallyPerformedBy="_SRFL5gpfEeaZBN8BGKJ1FQ _SRFL5wpfEeaZBN8BGKJ1FQ" mandatoryInput="_SRO84ApfEeaZBN8BGKJ1FQ" output="_SRO84QpfEeaZBN8BGKJ1FQ" performedPrimarilyBy="_SRFL5QpfEeaZBN8BGKJ1FQ">
+      <Task href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_I59JcAooEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_SRFL5ApfEeaZBN8BGKJ1FQ" name="stories_subdivision" guid="_SRFL5ApfEeaZBN8BGKJ1FQ" presentationName="Descomponsición de las historias de usuario" superActivities="_9-SoIQpeEeaZBN8BGKJ1FQ" additionallyPerformedBy="_SRFL5gpfEeaZBN8BGKJ1FQ _SRFL5wpfEeaZBN8BGKJ1FQ" mandatoryInput="_SRO84ApfEeaZBN8BGKJ1FQ" output="_SRO84ApfEeaZBN8BGKJ1FQ _SRO84QpfEeaZBN8BGKJ1FQ" performedPrimarilyBy="_SRFL5QpfEeaZBN8BGKJ1FQ">
+      <Task href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_itPMMAomEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_SRFL5QpfEeaZBN8BGKJ1FQ" name="scrum_master" guid="_SRFL5QpfEeaZBN8BGKJ1FQ" presentationName="Facilitador" isPlanned="false" superActivities="_9-SoIQpeEeaZBN8BGKJ1FQ" modifies="_SRO84QpfEeaZBN8BGKJ1FQ _SRO84ApfEeaZBN8BGKJ1FQ">
+      <Role href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_bn2N0Pz0EeWZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_SRFL5gpfEeaZBN8BGKJ1FQ" name="product_owner" guid="_SRFL5gpfEeaZBN8BGKJ1FQ" presentationName="Dueño del Producto" isPlanned="false" superActivities="_9-SoIQpeEeaZBN8BGKJ1FQ" modifies="_SRO84ApfEeaZBN8BGKJ1FQ _SRO84QpfEeaZBN8BGKJ1FQ">
+      <Role href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_0Xz88PzzEeWZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_SRFL5wpfEeaZBN8BGKJ1FQ" name="team" guid="_SRFL5wpfEeaZBN8BGKJ1FQ" presentationName="Equipo de desarrollo" isPlanned="false" superActivities="_9-SoIQpeEeaZBN8BGKJ1FQ" modifies="_SRO84ApfEeaZBN8BGKJ1FQ _SRO84QpfEeaZBN8BGKJ1FQ">
+      <Role href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_P-RmQP7vEeWZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_SRO84ApfEeaZBN8BGKJ1FQ" name="product_backlog" guid="_SRO84ApfEeaZBN8BGKJ1FQ" presentationName="Pila de producto" isPlanned="false" superActivities="_9-SoIQpeEeaZBN8BGKJ1FQ">
+      <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_Z8pHUAjIEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_SRO84QpfEeaZBN8BGKJ1FQ" name="sprint_backlog" guid="_SRO84QpfEeaZBN8BGKJ1FQ" presentationName="Pila de Sprint" isPlanned="false" superActivities="_9-SoIQpeEeaZBN8BGKJ1FQ">
+      <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_5qEeMAjPEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_9-SoIQpeEeaZBN8BGKJ1FQ" name="sprint_planning" guid="_9-SoIQpeEeaZBN8BGKJ1FQ" presentationName="Reunión de planificación del Sprint" briefDescription="En la reunión de Planificación del Sprint se decide qué trabajo se va a realizar durante la iteración que aporte el mayor incremento de valor posible al sistema, y por tanto, al cliente." breakdownElements="_SRFL4QpfEeaZBN8BGKJ1FQ _SRFL5ApfEeaZBN8BGKJ1FQ _SRFL4gpfEeaZBN8BGKJ1FQ _SRFL4ApfEeaZBN8BGKJ1FQ _SRFL4wpfEeaZBN8BGKJ1FQ _SRFL5QpfEeaZBN8BGKJ1FQ _SRFL5gpfEeaZBN8BGKJ1FQ _SRFL5wpfEeaZBN8BGKJ1FQ _SRO84ApfEeaZBN8BGKJ1FQ _SRO84QpfEeaZBN8BGKJ1FQ">
+      <presentation xmi:id="-YZ0R_xCYzJHjB8tpRBfA6A" href="uma://-YZ0R_xCYzJHjB8tpRBfA6A#-YZ0R_xCYzJHjB8tpRBfA6A"/>
+      <defaultContext href="uma://_rnsX4OF4Edyp34pwdTOSVQ#_9ZyFcP7wEeWZBN8BGKJ1FQ"/>
+      <validContext href="uma://_rnsX4OF4Edyp34pwdTOSVQ#_9ZyFcP7wEeWZBN8BGKJ1FQ"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

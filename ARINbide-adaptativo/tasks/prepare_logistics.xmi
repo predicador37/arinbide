@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Qj3DGXPAqdKPGyFiL5QSkg" name=",_Ti_iYAkwEeaZBN8BGKJ1FQ" guid="-Qj3DGXPAqdKPGyFiL5QSkg" changeDate="2016-04-23T10:50:24.528+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
+  <mainDescription>Asegurar disponibilidad de personas, espacio físico y sus puestos de trabajo, salas de reunión, herramientas software,&#xD;
+servidores, etc. Es especialmente recomendable que todos los miembros del Equipo Scrum se sienten juntos.</mainDescription>
+  <purpose>Asegurar disponibilidad de recursos para el proyecto.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ProcessDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-7GD-4fTf3-cTEmF0DbzCfA" name="generate_product_backlog,_N256kQk2EeaZBN8BGKJ1FQ" guid="-7GD-4fTf3-cTEmF0DbzCfA">
+  <mainDescription>&lt;p>&#xD;
+    La Pila de Producto es el repositorio del proyecto y su fin es contener las necesidades del cliente. Contiene la&#xD;
+    colección de requisitos (funcionalidades o características) que el sistema debe cumplir para alcanzar el objetivo&#xD;
+    deseado. Los requisitos funcionales se denominan Historias de usuario (User Stories).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    La Pila de Producto también contendrá las denominadas Historias técnicas o requisitos no funcionales, tareas que deben&#xD;
+    realizarse pero que no aportan un valor funcional directo al usuario.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    La Pila de Producto es una lista ordenada por prioridad en base al valor que aporta al cliente, que es la que marca&#xD;
+    además el orden en que se desarrollarán.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    A lo largo del proyecto los requisitos pueden ser añadidos, descartados o modificados con el fin de garantizar que el&#xD;
+    sistema obtenido cumple las expectativas del cliente.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    El Dueño de Producto es el responsable de la Pila de Producto, incluyendo su contenido, disponibilidad y ordenación.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    La Pila de Producto deberá cumplir las siguientes características:&lt;br />&#xD;
+    &lt;br />&#xD;
+    &lt;br />&#xD;
+    - Sus elementos deben estar priorizados según el valor que aportarán al negocio o al usuario.&lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Las Historias de usuario de mayor prioridad deberán estar descritas necesariamente con un mayor nivel de detalle,&#xD;
+    pues serán las primeras en entrar en un Sprint.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    - La Pila de Producto también es una herramienta de planificación. Los elementos deben estar estimados con mayor o&#xD;
+    menor precisión según su orden de prioridad. Las estimaciones se miden en Puntos de Historia (Story Points), reflejando&#xD;
+    el tamaño relativo de cada Historia de usuario respecto a las demás.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - A lo largo del proyecto pueden surgir nuevas Historias de usuario, pueden redefinirse o descartarse otras que ya&#xD;
+    existen o incluso pueden volver a priorizarse para adaptarse a las necesidades del producto. La Pila de Producto deber&#xD;
+    estar&amp;nbsp; preparada para el cambio.&lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Solo las Historias de usuario que no estén dentro de un ciclo de Sprint, pueden ser discutidas, negociadas y&#xD;
+    cambiadas las veces que sean necesario.&#xD;
+&lt;/p></mainDescription>
+  <purpose>Obtener la pila de producto y sus elementos.</purpose>
+</org.eclipse.epf.uma:ProcessDescription>

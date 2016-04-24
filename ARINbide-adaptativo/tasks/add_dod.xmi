@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-KNDZjcpVTxHpgDHzcarFmA" name=",_kaySIAoxEeaZBN8BGKJ1FQ" guid="-KNDZjcpVTxHpgDHzcarFmA" changeDate="2016-04-24T17:31:39.834+0200">
+  <purpose>&lt;p>&#xD;
+    Añadir definición de hecho para cada tarea.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-jqdU6Q3JWS_x55T29Pkwpg" name="new_guideline,_IIHw8Ao1EeaZBN8BGKJ1FQ" guid="-jqdU6Q3JWS_x55T29Pkwpg" changeDate="2016-04-24T17:58:19.022+0200">
+  <mainDescription>&lt;p>&#xD;
+    Conviene que ciertos clientes &quot;visionarios&quot; participen en reuniones.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Trabajar sin clientes o con &quot;proxies&quot; de clientes llevará al desperdicio:&lt;br />&#xD;
+    - funcionalidad que no se utiliza&lt;br />&#xD;
+    - tests que no reflejan los criterios de aceptación reales&lt;br />&#xD;
+    - pérdida de la oportunidad de construir relaciones reales&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

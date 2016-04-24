@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ProcessDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-qbmDFS9jVaFPve-0IaA7Cw" name="sprint0,_KCNeMf70EeWZBN8BGKJ1FQ" guid="-qbmDFS9jVaFPve-0IaA7Cw"/>
+<org.eclipse.epf.uma:ProcessDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-qbmDFS9jVaFPve-0IaA7Cw" name="sprint0,_KCNeMf70EeWZBN8BGKJ1FQ" guid="-qbmDFS9jVaFPve-0IaA7Cw">
+  <mainDescription>&lt;p>&#xD;
+    Las condiciones determinan el alcance del proyecto, e incluyen los recursos necesarios para desarrollarlo, así como la&#xD;
+    distribución temporal de entrega de resultados.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    El contenido del trabajo se recoge en la primera versión de la Pila de Producto, que contiene la visión de los&#xD;
+    requisitos principales del proyecto, es decir, las funcionalidades o resultados deseados (detallados en términos de&#xD;
+    negocio) que resolverá el sistema a construir, y los productos a generar.&#xD;
+&lt;/p></mainDescription>
+  <purpose>Su principal objetivo es definir las condiciones y el contenido del trabajo a realizar.</purpose>
+</org.eclipse.epf.uma:ProcessDescription>

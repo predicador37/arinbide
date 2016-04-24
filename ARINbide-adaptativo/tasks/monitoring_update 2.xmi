@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-gGpJoQ6zUZelJHgTPII3uQ" name=",_v57hEApUEeaZBN8BGKJ1FQ" guid="-gGpJoQ6zUZelJHgTPII3uQ" changeDate="2016-04-24T21:43:20.461+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
+  <mainDescription>&lt;br align=&quot;left&quot; />&#xD;
+&lt;br />&#xD;
+&lt;font size=&quot;2&quot;>&lt;br />&#xD;
+&lt;/font></mainDescription>
+  <purpose>&lt;p>&#xD;
+    Determinar cuánto trabajo queda por hacer en el proyecto y anotar cualquier hecho de interés.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-OBZAZKtEs3zuh8kDRXayCQ" name="new_artifact,_6XLVUApPEeaZBN8BGKJ1FQ" guid="-OBZAZKtEs3zuh8kDRXayCQ" changeDate="2016-04-24T21:10:06.325+0200">
+  <mainDescription>- Los motivos de posibles desviaciones o problemas&lt;br />&#xD;
+- Los resultados de las negociaciones con el Dueño del Producto sobre desviaciones o problemas graves&lt;br />&#xD;
+- Referencias a impedimentos relevantes&lt;br />&#xD;
+- Defectos o errores descubiertos en el producto que puedan tener un impacto negativo importante&lt;br />&#xD;
+- Decisiones sobre Historias de usuario&lt;br />&#xD;
+- Cambios en el equipo (bajas, sustituciones, etc.)</mainDescription>
+  <purpose>&lt;p>&#xD;
+    Servir de registro de referencias, decisiones, motivos de cambios, etc.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

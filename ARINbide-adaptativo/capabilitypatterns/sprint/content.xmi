@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ProcessDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-HcRBM0GR2iwPJ3ybC7MglA" name="sprint,_HCDOAQpnEeaZBN8BGKJ1FQ" guid="-HcRBM0GR2iwPJ3ybC7MglA">
+  <purpose>Obtener un incremento funcional del producto que pueda validarse según los criterios de aceptación.</purpose>
+</org.eclipse.epf.uma:ProcessDescription>

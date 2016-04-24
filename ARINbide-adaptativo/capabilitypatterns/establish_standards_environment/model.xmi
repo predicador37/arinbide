@@ -6,7 +6,37 @@
   <org.eclipse.epf.uma:ProcessComponent xmi:id="_Oi4SYP8HEeWZBN8BGKJ1FQ" name="establish_standards_environment" guid="_Oi4SYP8HEeWZBN8BGKJ1FQ">
     <methodElementProperty xmi:id="_Oi4SYv8HEeWZBN8BGKJ1FQ" name="pkg_loadCheck" value="true"/>
     <methodElementProperty xmi:id="_jUVwgP9GEeWZBN8BGKJ1FQ" name="me_edited" value="true"/>
-    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_Oi4SYf8HEeWZBN8BGKJ1FQ" name="establish_standards_environment" guid="_Oi4SYf8HEeWZBN8BGKJ1FQ" presentationName="Establecer el entorno tecnológico y los estándares" briefDescription="En esta actividad se decidirá el entorno tecnológico sobre el cual se va a construir el sistema y se identificará si existe algún tipo de condicionante o restricción a tener en cuenta. Se especificará además el conjunto de normas y estándares a aplicar.">
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_Qh63MApmEeaZBN8BGKJ1FQ" name="define_environment_standards" guid="_Qh63MApmEeaZBN8BGKJ1FQ" presentationName="Definir el entorno tecnológico y los estándares" superActivities="_Oi4SYf8HEeWZBN8BGKJ1FQ" additionallyPerformedBy="_Qh7eQApmEeaZBN8BGKJ1FQ" mandatoryInput="_Qh7eQQpmEeaZBN8BGKJ1FQ _Qh7eQgpmEeaZBN8BGKJ1FQ" optionalInput="_Qh7eQwpmEeaZBN8BGKJ1FQ" output="_Qh8FUApmEeaZBN8BGKJ1FQ _Qh8FUQpmEeaZBN8BGKJ1FQ _Qh8FUgpmEeaZBN8BGKJ1FQ" performedPrimarilyBy="_Qh63MQpmEeaZBN8BGKJ1FQ">
+      <Task href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_XHySsP8HEeWZBN8BGKJ1FQ"/>
+      <selectedSteps href="uma://-Yp25jsaE8cxAqqzXEQO9yA#_hiG8gP8HEeWZBN8BGKJ1FQ"/>
+      <selectedSteps href="uma://-Yp25jsaE8cxAqqzXEQO9yA#_kEARgP8HEeWZBN8BGKJ1FQ"/>
+      <selectedSteps href="uma://-Yp25jsaE8cxAqqzXEQO9yA#_ah-_sAkuEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_Qh63MQpmEeaZBN8BGKJ1FQ" name="product_owner" guid="_Qh63MQpmEeaZBN8BGKJ1FQ" presentationName="Dueño del Producto" isPlanned="false" superActivities="_Oi4SYf8HEeWZBN8BGKJ1FQ" modifies="_Qh8FUApmEeaZBN8BGKJ1FQ _Qh8FUQpmEeaZBN8BGKJ1FQ _Qh8FUgpmEeaZBN8BGKJ1FQ">
+      <Role href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_0Xz88PzzEeWZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_Qh7eQApmEeaZBN8BGKJ1FQ" name="sponsor" guid="_Qh7eQApmEeaZBN8BGKJ1FQ" presentationName="Patrocinador" isPlanned="false" superActivities="_Oi4SYf8HEeWZBN8BGKJ1FQ">
+      <Role href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_CJNTcPz4EeWZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_Qh7eQQpmEeaZBN8BGKJ1FQ" name="pliego_ct" guid="_Qh7eQQpmEeaZBN8BGKJ1FQ" presentationName="Pliego de condiciones técnicas" isPlanned="false" superActivities="_Oi4SYf8HEeWZBN8BGKJ1FQ">
+      <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_BwI2MP43EeWZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_Qh7eQgpmEeaZBN8BGKJ1FQ" name="product_vision" guid="_Qh7eQgpmEeaZBN8BGKJ1FQ" presentationName="Visión del producto" isPlanned="false" superActivities="_Oi4SYf8HEeWZBN8BGKJ1FQ">
+      <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_nUKUUAjDEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_Qh7eQwpmEeaZBN8BGKJ1FQ" name="reference_doc" guid="_Qh7eQwpmEeaZBN8BGKJ1FQ" presentationName="Otra documentación de referencia" isPlanned="false" superActivities="_Oi4SYf8HEeWZBN8BGKJ1FQ">
+      <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_H0W7EP46EeWZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_Qh8FUApmEeaZBN8BGKJ1FQ" name="standards_procedures_participants" guid="_Qh8FUApmEeaZBN8BGKJ1FQ" presentationName="Normas, participantes y procedimientos" isPlanned="false" superActivities="_Oi4SYf8HEeWZBN8BGKJ1FQ">
+      <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_icIxMAcdEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_Qh8FUQpmEeaZBN8BGKJ1FQ" name="environment" guid="_Qh8FUQpmEeaZBN8BGKJ1FQ" presentationName="Entorno tecnológico" isPlanned="false" superActivities="_Oi4SYf8HEeWZBN8BGKJ1FQ">
+      <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_fE1owAceEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_Qh8FUgpmEeaZBN8BGKJ1FQ" name="standards" guid="_Qh8FUgpmEeaZBN8BGKJ1FQ" presentationName="Normas y estándares" isPlanned="false" superActivities="_Oi4SYf8HEeWZBN8BGKJ1FQ">
+      <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_VqpJIAAhEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_Oi4SYf8HEeWZBN8BGKJ1FQ" name="establish_standards_environment" guid="_Oi4SYf8HEeWZBN8BGKJ1FQ" presentationName="Establecer el entorno tecnológico y los estándares" briefDescription="En esta actividad se decidirá el entorno tecnológico sobre el cual se va a construir el sistema y se identificará si existe algún tipo de condicionante o restricción a tener en cuenta. Se especificará además el conjunto de normas y estándares a aplicar." breakdownElements="_Qh63MApmEeaZBN8BGKJ1FQ _Qh63MQpmEeaZBN8BGKJ1FQ _Qh7eQApmEeaZBN8BGKJ1FQ _Qh7eQQpmEeaZBN8BGKJ1FQ _Qh7eQgpmEeaZBN8BGKJ1FQ _Qh7eQwpmEeaZBN8BGKJ1FQ _Qh8FUApmEeaZBN8BGKJ1FQ _Qh8FUQpmEeaZBN8BGKJ1FQ _Qh8FUgpmEeaZBN8BGKJ1FQ">
       <presentation xmi:id="-br0XIlFu6Q52FW3Js6Mrwg" href="uma://-br0XIlFu6Q52FW3Js6Mrwg#-br0XIlFu6Q52FW3Js6Mrwg"/>
       <defaultContext href="uma://_rnsX4OF4Edyp34pwdTOSVQ#_9ZyFcP7wEeWZBN8BGKJ1FQ"/>
       <validContext href="uma://_rnsX4OF4Edyp34pwdTOSVQ#_9ZyFcP7wEeWZBN8BGKJ1FQ"/>

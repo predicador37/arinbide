@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-NLdj8TJSWkm3Na-xHF9YKQ" name=",_t-CVkAonEeaZBN8BGKJ1FQ" guid="-NLdj8TJSWkm3Na-xHF9YKQ" changeDate="2016-04-24T16:21:17.930+0200">
+  <purpose>Estimar la velocidad de desarrollo del equipo para este sprint.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

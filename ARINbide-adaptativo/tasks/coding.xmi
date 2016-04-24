@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-DvKSkKMUt3AH_JgoSDXmNw" name=",_PBo-wAo7EeaZBN8BGKJ1FQ" guid="-DvKSkKMUt3AH_JgoSDXmNw" changeDate="2016-04-24T18:41:11.955+0200">
+  <sections xmi:id="_XLL4wAo7EeaZBN8BGKJ1FQ" name="Prueba unitaria" guid="_XLL4wAo7EeaZBN8BGKJ1FQ"/>
+  <sections xmi:id="_YGMIcAo7EeaZBN8BGKJ1FQ" name="Codificación de funcionalidad" guid="_YGMIcAo7EeaZBN8BGKJ1FQ"/>
+  <sections xmi:id="_Y0icMAo7EeaZBN8BGKJ1FQ" name="Refactorización" guid="_Y0icMAo7EeaZBN8BGKJ1FQ"/>
+  <purpose>Codificar la funcionalidad del sistema con la mayor calidad posible.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-X0ysMWQDiNcsdr8zl08Beg" name=",_mqvU0AosEeaZBN8BGKJ1FQ" guid="-X0ysMWQDiNcsdr8zl08Beg" changeDate="2016-04-24T16:56:23.649+0200">
+  <mainDescription>Las tareas podrán ser de análisis, de diseño, de codificación, de pruebas, de diseño de interfaz, de documentación técnica&#xD;
+y del producto, etc. &lt;br align=&quot;left&quot; />&#xD;
+&lt;br />&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>Como mínimo se deberá definir un nombre descriptivo para cada tarea&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>&lt;font size=&quot;2&quot;>Idealmente una tarea debe poder ser realizada por una persona (o dos en entornos de&#xD;
+    trabajo por parejas), y su duración deberá oscilar entre 0,5 y 3 días.&lt;/font>&lt;/font>&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_1Z1mgAosEeaZBN8BGKJ1FQ" name="Pruebas de aceptación" guid="_1Z1mgAosEeaZBN8BGKJ1FQ">
+    <sectionDescription>&lt;br align=&quot;left&quot; />&#xD;
+&lt;br />&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>El equipo necesita establecer cómo se probarán las Historias de usuario para que se pueda asegurar que&#xD;
+    se cumplen los criterios de aceptación establecidos. Cuando sea posible, la verificación debe automatizarse, de manera&#xD;
+    que pueda ser comprobada en cada entrega del proyecto.&lt;/font>&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_41LsAAosEeaZBN8BGKJ1FQ" name="Pruebas unitarias" guid="_41LsAAosEeaZBN8BGKJ1FQ">
+    <sectionDescription>&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>Como en el caso anterior estas deben poder ser ejecutadas automáticamente.&lt;/font>&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_9eA4UAosEeaZBN8BGKJ1FQ" name="Aseguramiento de la calidad del código y la documentación" guid="_9eA4UAosEeaZBN8BGKJ1FQ"/>
+  <sections xmi:id="__aSXwAosEeaZBN8BGKJ1FQ" name="Holgura de tiempo para imprevistos" guid="__aSXwAosEeaZBN8BGKJ1FQ">
+    <sectionDescription>&lt;br align=&quot;left&quot; />&#xD;
+&lt;br />&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>Al menos, defectos y errores, impedimentos y acciones de mejora&lt;/font>&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_CaqYgAotEeaZBN8BGKJ1FQ" name="Spikes" guid="_CaqYgAotEeaZBN8BGKJ1FQ">
+    <sectionDescription>&lt;br align=&quot;left&quot; />&#xD;
+&lt;br />&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>Las Historias de usuario de investigación o ensayo (&quot;Spikes&quot; funcionales o técnicos) que ayuden a&#xD;
+    despejar dudas y permitan tomar las decisiones adecuadas, al respecto de Historias de usuario confusas o potencialmente&#xD;
+    problemáticas.&lt;/font>&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>Obtención de un listado de tareas a realizar en el sprint</purpose>
+</org.eclipse.epf.uma:TaskDescription>

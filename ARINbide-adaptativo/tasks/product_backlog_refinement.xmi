@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-9VxGaHqIWL-8ZUkD3WQ34g" name=",_RSD5UAonEeaZBN8BGKJ1FQ" guid="-9VxGaHqIWL-8ZUkD3WQ34g" changeDate="2016-04-24T16:18:32.024+0200">
+  <sections xmi:id="_dyQqgAonEeaZBN8BGKJ1FQ" name="Determinar criterios de aceptación" guid="_dyQqgAonEeaZBN8BGKJ1FQ">
+    <sectionDescription>&lt;br align=&quot;left&quot; />&#xD;
+&lt;br />&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>Los criterios de aceptación para determinar cuándo se han cumplido y se puede dar por terminado,&#xD;
+    incluyendo además la forma de demostrarlo (&quot;how to demo&quot;). Esta tarea debe realizarla el Dueño del Producto.&lt;/font>&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_g9XUkAonEeaZBN8BGKJ1FQ" name="Determinar tamaño medio en puntos de historia" guid="_g9XUkAonEeaZBN8BGKJ1FQ">
+    <sectionDescription>&lt;br align=&quot;left&quot; />&#xD;
+&lt;br />&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>Esta tarea la realizará el Equipo de desarrollo.&lt;/font>&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>Completar y/o afinar los elementos de la pila de producto que podrían entrar dentro del objetivo del sprint.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

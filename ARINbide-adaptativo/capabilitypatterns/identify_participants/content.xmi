@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ProcessDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-9ijtjnQ60_qLv7MyauWJpw" name="identify_participants,_-jPjQQk1EeaZBN8BGKJ1FQ" guid="-9ijtjnQ60_qLv7MyauWJpw">
+  <mainDescription>- Facilitador&lt;br />&#xD;
+- Interesados, en especial a los clientes y usuarios, pues son la fuente principal de requisitos del sistema&lt;br />&#xD;
+- Equipo. Equipo multidisciplinar con los conocimientos necesarios para el desarrollo del proyecto. Se recomienda que esté&#xD;
+formado por un mínimo de 3 y un máximo de 9 miembros (hay quien recomienda un total de 7 +/- 2)</mainDescription>
+  <purpose>Identificar a los participantes en el proyecto (personas concretas)</purpose>
+</org.eclipse.epf.uma:ProcessDescription>

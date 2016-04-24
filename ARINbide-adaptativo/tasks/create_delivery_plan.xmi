@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-asgvmTIZztl7tRTGr87-IA" name=",_gu1fUAk1EeaZBN8BGKJ1FQ" guid="-asgvmTIZztl7tRTGr87-IA" changeDate="2016-04-23T11:27:26.182+0200">
+  <mainDescription>&lt;p>&#xD;
+    Lo ideal es que las entregas sean auto-contenidas y representen incrementos del producto que tengan sentido y aporten&#xD;
+    valor al negocio. Es recomendable asignar un nombre para cada una de las entregas, el cual debe ser lo suficientemente&#xD;
+    significativo como para poder entender cuál es su objetivo.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    El Plan de Entregas se empezará a crear en el Sprint 0, pero tendrá una gran adaptabilidad durante todo el proyecto.&#xD;
+    Para que la planificación sea realmente útil se deberá adaptar a los cambios que se produzcan de Sprint a Sprint: a la&#xD;
+    velocidad real del equipo, a los ajustes en las estimaciones y prioridades de la Pila de Producto, etc. Se recomienda&#xD;
+    por lo tanto,&amp;nbsp; revisarlo después de cada Sprint.&#xD;
+&lt;/p></mainDescription>
+  <purpose>Crear el plan de entregas.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

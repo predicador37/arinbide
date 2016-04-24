@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ygmP80Bv5qjpXc0UIw4wrA" name=",_HPPcoAo_EeaZBN8BGKJ1FQ" guid="-ygmP80Bv5qjpXc0UIw4wrA" changeDate="2016-04-24T19:08:32.337+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>Es gestionado por el Facilitador, quien además es responsable de seguir la resolución de todos sus&#xD;
+    elementos.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>Cada impedimento deberá:&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>&lt;font face=&quot;Times New Roman&quot;>- Ser identificado con un nombre descriptivo&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>&lt;font face=&quot;Times New Roman&quot;>- Contar con una descripción detallada&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font lang=&quot;ZH-TW&quot; size=&quot;1&quot; face=&quot;Wingdings,Wingdings&quot;>&lt;font lang=&quot;ZH-TW&quot; size=&quot;1&quot;&#xD;
+    face=&quot;Wingdings,Wingdings&quot;>-&amp;nbsp;&lt;/font>&lt;/font>&lt;font size=&quot;2&quot;>&lt;font face=&quot;Times New Roman&quot;>Estar priorizado de acuerdo&#xD;
+    al impacto que tenga en las actividades del proyecto&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>&lt;font size=&quot;2&quot; face=&quot;Arial,Arial&quot;>&lt;font size=&quot;2&quot; face=&quot;Arial,Arial&quot;>- Si es posible, identificar su&#xD;
+    solución y asignar un responsable&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>&lt;font size=&quot;2&quot; face=&quot;Arial,Arial&quot;>&lt;font size=&quot;2&quot; face=&quot;Arial,Arial&quot;>Contendrá los siguientes&#xD;
+    atributos:&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>&lt;font size=&quot;2&quot; face=&quot;Arial,Arial&quot;>&lt;font size=&quot;2&quot; face=&quot;Arial,Arial&quot;>- Título: Descripción muy breve que&#xD;
+    represente el objetivo de la tarea&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>&lt;font size=&quot;2&quot; face=&quot;Arial,Arial&quot;>&lt;font size=&quot;2&quot; face=&quot;Arial,Arial&quot;>- Código: Código asignado al&#xD;
+    impedimento&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>&lt;font size=&quot;2&quot; face=&quot;Arial,Arial&quot;>&lt;font size=&quot;2&quot; face=&quot;Arial,Arial&quot;>- Prioridad:&lt;/font>&lt;/font>&lt;/font>&#xD;
+    Prioridad asignada al impedimento en base al impacto que pueda tener en las actividades del proyecto.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>&lt;font size=&quot;2&quot; face=&quot;Arial,Arial&quot;>&lt;font size=&quot;2&quot; face=&quot;Arial,Arial&quot;>- Descripción: Descripción detallada&#xD;
+    del impedimento.&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>&lt;font size=&quot;2&quot; face=&quot;Arial,Arial&quot;>&lt;font size=&quot;2&quot; face=&quot;Arial,Arial&quot;>- Solución: Descripción de la&#xD;
+    solución o posibles soluciones.&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>&lt;font size=&quot;2&quot; face=&quot;Arial,Arial&quot;>&lt;font size=&quot;2&quot; face=&quot;Arial,Arial&quot;>- Responsable:&lt;/font>&lt;/font>&lt;/font>&#xD;
+    Miembro del equipo de desarrollo que tiene asignada la tarea&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>&lt;font size=&quot;2&quot; face=&quot;Arial,Arial&quot;>&lt;font size=&quot;2&quot; face=&quot;Arial,Arial&quot;>- Estado: Pendiente de iniciar&#xD;
+    (to-do), en curso (in progress), terminada (done), descartada (rejected).&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>&lt;font size=&quot;2&quot; face=&quot;Arial,Arial&quot;>&lt;font size=&quot;2&quot; face=&quot;Arial,Arial&quot;>:&lt;/font>&lt;/font>&lt;/font>&lt;font&#xD;
+    size=&quot;2&quot;>&lt;font size=&quot;2&quot; face=&quot;Arial,Arial&quot;>&lt;font size=&quot;2&quot; face=&quot;Arial,Arial&quot;>- Observaciones: En este apartado se podrá&#xD;
+    indicar todo aquello que se considere relévate para facilitar la comprensión del impedimento, así como para su&#xD;
+    resolución&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p></mainDescription>
+  <purpose>Obtener un listado de impedimentos para alcanzar los objetivos del proyecto.</purpose>
+</org.eclipse.epf.uma:DeliverableDescription>

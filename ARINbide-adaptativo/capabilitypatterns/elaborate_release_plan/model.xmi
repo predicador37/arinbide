@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_SURdwQk2EeaZBN8BGKJ1FQ" guid="_SURdwQk2EeaZBN8BGKJ1FQ">
+    <resourceDescriptors xmi:id="_SURdwgk2EeaZBN8BGKJ1FQ" id="-8bCwSGN1ATNx6tvHSh9Lgw" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_SThP0Ak2EeaZBN8BGKJ1FQ" name="elaborate_release_plan" guid="_SThP0Ak2EeaZBN8BGKJ1FQ">
+    <methodElementProperty xmi:id="_SThP0gk2EeaZBN8BGKJ1FQ" name="pkg_loadCheck" value="true"/>
+    <methodElementProperty xmi:id="_T7_CcAk2EeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_9EA6QAk3EeaZBN8BGKJ1FQ" name="create_delivery_plan" guid="_9EA6QAk3EeaZBN8BGKJ1FQ" presentationName="Crear el plan de entregas" superActivities="_SThP0Qk2EeaZBN8BGKJ1FQ" additionallyPerformedBy="_9EKEMQk3EeaZBN8BGKJ1FQ _9EKEMgk3EeaZBN8BGKJ1FQ _9EKEMwk3EeaZBN8BGKJ1FQ _9EKENAk3EeaZBN8BGKJ1FQ" mandatoryInput="_9EKENQk3EeaZBN8BGKJ1FQ _9EKENgk3EeaZBN8BGKJ1FQ _9EKENwk3EeaZBN8BGKJ1FQ" output="_9EKEOAk3EeaZBN8BGKJ1FQ" performedPrimarilyBy="_9EA6Qwk3EeaZBN8BGKJ1FQ _9EKEMAk3EeaZBN8BGKJ1FQ">
+      <Task href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_gu1fUAk1EeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_9EA6QQk3EeaZBN8BGKJ1FQ" name="define_velocity" guid="_9EA6QQk3EeaZBN8BGKJ1FQ" presentationName="Estimar velocidad del equipo" superActivities="_SThP0Qk2EeaZBN8BGKJ1FQ" additionallyPerformedBy="_9EKEMQk3EeaZBN8BGKJ1FQ _9EKEMgk3EeaZBN8BGKJ1FQ _9EKEMwk3EeaZBN8BGKJ1FQ _9EKENAk3EeaZBN8BGKJ1FQ" mandatoryInput="_9EKENQk3EeaZBN8BGKJ1FQ _9EKENgk3EeaZBN8BGKJ1FQ _9EKENwk3EeaZBN8BGKJ1FQ" output="_9EKEOAk3EeaZBN8BGKJ1FQ" performedPrimarilyBy="_9EA6Qwk3EeaZBN8BGKJ1FQ _9EKEMAk3EeaZBN8BGKJ1FQ">
+      <Task href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_tjlEgAkyEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_9EA6Qgk3EeaZBN8BGKJ1FQ" name="identify_sprints" guid="_9EA6Qgk3EeaZBN8BGKJ1FQ" presentationName="Identificación de los sprints" superActivities="_SThP0Qk2EeaZBN8BGKJ1FQ" additionallyPerformedBy="_9EKEMQk3EeaZBN8BGKJ1FQ _9EKEMgk3EeaZBN8BGKJ1FQ _9EKEMwk3EeaZBN8BGKJ1FQ _9EKENAk3EeaZBN8BGKJ1FQ" mandatoryInput="_9EKENQk3EeaZBN8BGKJ1FQ _9EKENgk3EeaZBN8BGKJ1FQ _9EKENwk3EeaZBN8BGKJ1FQ" output="_9EKEOAk3EeaZBN8BGKJ1FQ" performedPrimarilyBy="_9EA6Qwk3EeaZBN8BGKJ1FQ _9EKEMAk3EeaZBN8BGKJ1FQ">
+      <Task href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_JMJ4IAk1EeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_9EA6Qwk3EeaZBN8BGKJ1FQ" name="product_owner" guid="_9EA6Qwk3EeaZBN8BGKJ1FQ" presentationName="Dueño del Producto" isPlanned="false" superActivities="_SThP0Qk2EeaZBN8BGKJ1FQ" modifies="_9EKEOAk3EeaZBN8BGKJ1FQ">
+      <Role href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_0Xz88PzzEeWZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_9EKEMAk3EeaZBN8BGKJ1FQ" name="team" guid="_9EKEMAk3EeaZBN8BGKJ1FQ" presentationName="Equipo de desarrollo" isPlanned="false" superActivities="_SThP0Qk2EeaZBN8BGKJ1FQ" modifies="_9EKEOAk3EeaZBN8BGKJ1FQ">
+      <Role href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_P-RmQP7vEeWZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_9EKEMQk3EeaZBN8BGKJ1FQ" name="customer" guid="_9EKEMQk3EeaZBN8BGKJ1FQ" presentationName="Cliente" isPlanned="false" superActivities="_SThP0Qk2EeaZBN8BGKJ1FQ">
+      <Role href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_FvoAgPz4EeWZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_9EKEMgk3EeaZBN8BGKJ1FQ" name="scrum_master" guid="_9EKEMgk3EeaZBN8BGKJ1FQ" presentationName="Facilitador" isPlanned="false" superActivities="_SThP0Qk2EeaZBN8BGKJ1FQ">
+      <Role href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_bn2N0Pz0EeWZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_9EKEMwk3EeaZBN8BGKJ1FQ" name="sponsor" guid="_9EKEMwk3EeaZBN8BGKJ1FQ" presentationName="Patrocinador" isPlanned="false" superActivities="_SThP0Qk2EeaZBN8BGKJ1FQ">
+      <Role href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_CJNTcPz4EeWZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_9EKENAk3EeaZBN8BGKJ1FQ" name="user" guid="_9EKENAk3EeaZBN8BGKJ1FQ" presentationName="Usuario" isPlanned="false" superActivities="_SThP0Qk2EeaZBN8BGKJ1FQ">
+      <Role href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_JSLhQPz4EeWZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_9EKENQk3EeaZBN8BGKJ1FQ" name="product_backlog" guid="_9EKENQk3EeaZBN8BGKJ1FQ" presentationName="Pila de producto" isPlanned="false" superActivities="_SThP0Qk2EeaZBN8BGKJ1FQ">
+      <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_Z8pHUAjIEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_9EKENgk3EeaZBN8BGKJ1FQ" name="product_vision" guid="_9EKENgk3EeaZBN8BGKJ1FQ" presentationName="Visión del producto" isPlanned="false" superActivities="_SThP0Qk2EeaZBN8BGKJ1FQ">
+      <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_nUKUUAjDEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_9EKENwk3EeaZBN8BGKJ1FQ" name="standards_procedures_participants" guid="_9EKENwk3EeaZBN8BGKJ1FQ" presentationName="Normas, participantes y procedimientos" isPlanned="false" superActivities="_SThP0Qk2EeaZBN8BGKJ1FQ">
+      <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_icIxMAcdEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_9EKEOAk3EeaZBN8BGKJ1FQ" name="release_plan" guid="_9EKEOAk3EeaZBN8BGKJ1FQ" presentationName="Plan de entregas" isPlanned="false" superActivities="_SThP0Qk2EeaZBN8BGKJ1FQ">
+      <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_dQp48AjMEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_SThP0Qk2EeaZBN8BGKJ1FQ" name="elaborate_release_plan" guid="_SThP0Qk2EeaZBN8BGKJ1FQ" presentationName="Elaborar el plan de entregas" briefDescription="El Plan de Entregas contiene la planificación de cuándo se van a desarrollar las cosas, indicando las fechas en las que se realizarán las entregas de producto." breakdownElements="_9EA6QQk3EeaZBN8BGKJ1FQ _9EA6Qgk3EeaZBN8BGKJ1FQ _9EA6QAk3EeaZBN8BGKJ1FQ _9EA6Qwk3EeaZBN8BGKJ1FQ _9EKEMAk3EeaZBN8BGKJ1FQ _9EKEMQk3EeaZBN8BGKJ1FQ _9EKEMgk3EeaZBN8BGKJ1FQ _9EKEMwk3EeaZBN8BGKJ1FQ _9EKENAk3EeaZBN8BGKJ1FQ _9EKENQk3EeaZBN8BGKJ1FQ _9EKENgk3EeaZBN8BGKJ1FQ _9EKENwk3EeaZBN8BGKJ1FQ _9EKEOAk3EeaZBN8BGKJ1FQ">
+      <presentation xmi:id="-8bCwSGN1ATNx6tvHSh9Lgw" href="uma://-8bCwSGN1ATNx6tvHSh9Lgw#-8bCwSGN1ATNx6tvHSh9Lgw"/>
+      <defaultContext href="uma://_rnsX4OF4Edyp34pwdTOSVQ#_9ZyFcP7wEeWZBN8BGKJ1FQ"/>
+      <validContext href="uma://_rnsX4OF4Edyp34pwdTOSVQ#_9ZyFcP7wEeWZBN8BGKJ1FQ"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-dMTY-Xyni9iC48xGoN3HXg" name=",_0r9TYApZEeaZBN8BGKJ1FQ" guid="-dMTY-Xyni9iC48xGoN3HXg" changeDate="2016-04-24T22:20:59.659+0200">
+  <sections xmi:id="_D97BkApaEeaZBN8BGKJ1FQ" name="Valorar la velocidad de desarrollo" guid="_D97BkApaEeaZBN8BGKJ1FQ"/>
+  <sections xmi:id="_E6uBAApaEeaZBN8BGKJ1FQ" name="Detectar todo aquello que no es útil al proyecto para eliminarlo o modificarlo, así como para potenciar y maximizar aquello que sí lo es" guid="_E6uBAApaEeaZBN8BGKJ1FQ"/>
+  <sections xmi:id="_G_VkIApaEeaZBN8BGKJ1FQ" name="Conviene documentar también aquellos problemas o cuestiones detectadas por el equipo y para los que explícitamente se decidió no hacer nada ya que no se consideró prioritario en su momento." guid="_G_VkIApaEeaZBN8BGKJ1FQ"/>
+  <purpose>Evaluar el estado actual con objeto de llegar a la mejora continua</purpose>
+</org.eclipse.epf.uma:TaskDescription>

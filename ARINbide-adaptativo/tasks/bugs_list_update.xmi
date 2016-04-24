@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-WUiJa6MOEQq-8yo_iYA46w" name=",_gZif4ApVEeaZBN8BGKJ1FQ" guid="-WUiJa6MOEQq-8yo_iYA46w" changeDate="2016-04-24T21:49:01.195+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
+  <purpose>Identificar y registrar posibles defectos detectados y asociarlos con su elemento correspondiente en la pila de producto.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_t3BiQQphEeaZBN8BGKJ1FQ" guid="_t3BiQQphEeaZBN8BGKJ1FQ">
+    <resourceDescriptors xmi:id="_t3BiQgphEeaZBN8BGKJ1FQ" id="-1QojQpokHzAuacnLvwZyEQ" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_t2R7YAphEeaZBN8BGKJ1FQ" name="sprint_retrospective_meeting" guid="_t2R7YAphEeaZBN8BGKJ1FQ">
+    <methodElementProperty xmi:id="_t2R7YgphEeaZBN8BGKJ1FQ" name="pkg_loadCheck" value="true"/>
+    <methodElementProperty xmi:id="_6-aPQAphEeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_45CeMAphEeaZBN8BGKJ1FQ" name="check_impediments" guid="_45CeMAphEeaZBN8BGKJ1FQ" presentationName="Revisar riesgos e impedimentos" superActivities="_t2R7YQphEeaZBN8BGKJ1FQ" additionallyPerformedBy="_45CeNQphEeaZBN8BGKJ1FQ _45CeNgphEeaZBN8BGKJ1FQ" mandatoryInput="_45CeNwphEeaZBN8BGKJ1FQ" output="_45CeNwphEeaZBN8BGKJ1FQ" performedPrimarilyBy="_45CeNAphEeaZBN8BGKJ1FQ">
+      <Task href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ysOFsApYEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_45CeMQphEeaZBN8BGKJ1FQ" name="check_previous_retrospective" guid="_45CeMQphEeaZBN8BGKJ1FQ" presentationName="Revisar retrospectiva anterior" superActivities="_t2R7YQphEeaZBN8BGKJ1FQ" additionallyPerformedBy="_45CeNgphEeaZBN8BGKJ1FQ _45CeNQphEeaZBN8BGKJ1FQ" mandatoryInput="_45CeOAphEeaZBN8BGKJ1FQ _45CeOQphEeaZBN8BGKJ1FQ" output="_45CeOAphEeaZBN8BGKJ1FQ _45CeOQphEeaZBN8BGKJ1FQ" performedPrimarilyBy="_45CeNAphEeaZBN8BGKJ1FQ">
+      <Task href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_jT3REApXEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_45CeMgphEeaZBN8BGKJ1FQ" name="determine_problems_and_actions" guid="_45CeMgphEeaZBN8BGKJ1FQ" presentationName="Determinar problemas y acciones a implementar" superActivities="_t2R7YQphEeaZBN8BGKJ1FQ" additionallyPerformedBy="_45CeNQphEeaZBN8BGKJ1FQ _45CeNgphEeaZBN8BGKJ1FQ" mandatoryInput="_45CeOgphEeaZBN8BGKJ1FQ" output="_45CeOgphEeaZBN8BGKJ1FQ" performedPrimarilyBy="_45CeNAphEeaZBN8BGKJ1FQ">
+      <Task href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_PqqyAApZEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_45CeMwphEeaZBN8BGKJ1FQ" name="various_checks" guid="_45CeMwphEeaZBN8BGKJ1FQ" presentationName="Realizar comprobaciones varias" superActivities="_t2R7YQphEeaZBN8BGKJ1FQ" additionallyPerformedBy="_45CeNQphEeaZBN8BGKJ1FQ _45CeNgphEeaZBN8BGKJ1FQ" mandatoryInput="_45CeOQphEeaZBN8BGKJ1FQ _45CeNwphEeaZBN8BGKJ1FQ _45CeOwphEeaZBN8BGKJ1FQ" output="_45CeOQphEeaZBN8BGKJ1FQ _45CeNwphEeaZBN8BGKJ1FQ _45CeOwphEeaZBN8BGKJ1FQ" performedPrimarilyBy="_45CeNAphEeaZBN8BGKJ1FQ">
+      <Task href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_0r9TYApZEeaZBN8BGKJ1FQ"/>
+      <selectedSteps href="uma://-dMTY-Xyni9iC48xGoN3HXg#_D97BkApaEeaZBN8BGKJ1FQ"/>
+      <selectedSteps href="uma://-dMTY-Xyni9iC48xGoN3HXg#_E6uBAApaEeaZBN8BGKJ1FQ"/>
+      <selectedSteps href="uma://-dMTY-Xyni9iC48xGoN3HXg#_G_VkIApaEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_45CeNAphEeaZBN8BGKJ1FQ" name="scrum_master" guid="_45CeNAphEeaZBN8BGKJ1FQ" presentationName="Facilitador" isPlanned="false" superActivities="_t2R7YQphEeaZBN8BGKJ1FQ" modifies="_45CeNwphEeaZBN8BGKJ1FQ _45CeOAphEeaZBN8BGKJ1FQ _45CeOQphEeaZBN8BGKJ1FQ _45CeOwphEeaZBN8BGKJ1FQ _45CeOgphEeaZBN8BGKJ1FQ">
+      <Role href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_bn2N0Pz0EeWZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_45CeNQphEeaZBN8BGKJ1FQ" name="product_owner" guid="_45CeNQphEeaZBN8BGKJ1FQ" presentationName="Dueño del Producto" isPlanned="false" superActivities="_t2R7YQphEeaZBN8BGKJ1FQ">
+      <Role href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_0Xz88PzzEeWZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_45CeNgphEeaZBN8BGKJ1FQ" name="team" guid="_45CeNgphEeaZBN8BGKJ1FQ" presentationName="Equipo de desarrollo" isPlanned="false" superActivities="_t2R7YQphEeaZBN8BGKJ1FQ">
+      <Role href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_P-RmQP7vEeWZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_45CeNwphEeaZBN8BGKJ1FQ" name="impediments_backlog" guid="_45CeNwphEeaZBN8BGKJ1FQ" presentationName="Pila de impedimentos" isPlanned="false" superActivities="_t2R7YQphEeaZBN8BGKJ1FQ">
+      <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_HPPcoAo_EeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_45CeOAphEeaZBN8BGKJ1FQ" name="retrospective" guid="_45CeOAphEeaZBN8BGKJ1FQ" presentationName="Retrospectiva" isPlanned="false" superActivities="_t2R7YQphEeaZBN8BGKJ1FQ">
+      <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_4qS4kApWEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_45CeOQphEeaZBN8BGKJ1FQ" name="bugs_defects_list" guid="_45CeOQphEeaZBN8BGKJ1FQ" presentationName="Lista de defectos y errores" isPlanned="false" superActivities="_t2R7YQphEeaZBN8BGKJ1FQ">
+      <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_Ph7qkApKEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_45CeOgphEeaZBN8BGKJ1FQ" name="product_backlog" guid="_45CeOgphEeaZBN8BGKJ1FQ" presentationName="Pila de producto" isPlanned="false" superActivities="_t2R7YQphEeaZBN8BGKJ1FQ">
+      <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_Z8pHUAjIEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_45CeOwphEeaZBN8BGKJ1FQ" name="monitoring" guid="_45CeOwphEeaZBN8BGKJ1FQ" presentationName="Monitorización" isPlanned="false" superActivities="_t2R7YQphEeaZBN8BGKJ1FQ">
+      <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_mSxL0ApPEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_t2R7YQphEeaZBN8BGKJ1FQ" name="sprint_retrospective_meeting" guid="_t2R7YQphEeaZBN8BGKJ1FQ" presentationName="Reunión de retrospectiva del Sprint" briefDescription="Puesto que uno de los principios de Scrum es la mejora continua, la metodología propone realizar procesos de reflexión al respecto del cómo se han desarrollado las tareas. De hecho, Scrum instrumentaliza el proceso de aprendizaje continuo del equipo como parte de la mecánica de la metodología y como medio para encontrar su estabilidad y productividad." breakdownElements="_45CeMQphEeaZBN8BGKJ1FQ _45CeMAphEeaZBN8BGKJ1FQ _45CeMgphEeaZBN8BGKJ1FQ _45CeMwphEeaZBN8BGKJ1FQ _45CeNAphEeaZBN8BGKJ1FQ _45CeNQphEeaZBN8BGKJ1FQ _45CeNgphEeaZBN8BGKJ1FQ _45CeNwphEeaZBN8BGKJ1FQ _45CeOAphEeaZBN8BGKJ1FQ _45CeOQphEeaZBN8BGKJ1FQ _45CeOgphEeaZBN8BGKJ1FQ _45CeOwphEeaZBN8BGKJ1FQ">
+      <presentation xmi:id="-1QojQpokHzAuacnLvwZyEQ" href="uma://-1QojQpokHzAuacnLvwZyEQ#-1QojQpokHzAuacnLvwZyEQ"/>
+      <defaultContext href="uma://_rnsX4OF4Edyp34pwdTOSVQ#_9ZyFcP7wEeWZBN8BGKJ1FQ"/>
+      <validContext href="uma://_rnsX4OF4Edyp34pwdTOSVQ#_9ZyFcP7wEeWZBN8BGKJ1FQ"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

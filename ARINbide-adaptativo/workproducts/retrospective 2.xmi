@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-kCYaObvUJyO_fcu4Va-fjQ" name="new_deliverable,_4qS4kApWEeaZBN8BGKJ1FQ" guid="-kCYaObvUJyO_fcu4Va-fjQ" changeDate="2016-04-24T21:59:11.494+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
+  <mainDescription>&lt;p>&#xD;
+    Comprende los siguientes atributos:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Sprint: nombre asignado al sprint.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Bien: lo que se hizo bien (lista de cosas y títulos descriptivos) asi como los riesgos e impedimentos asociados a&#xD;
+    esas acciones.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Mejorable: lo que se podría mejorar, así como riesgos e impedimentos asociados a esa acción.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Mal: lista de mejoras a aplicar, título descriptivo de cada mejora que se ha decidido realizar. Permitirá conocer el&#xD;
+    estado actual de las acciones de mejora propuestas en iteraciones anteriores. Estado: aceptada, descartada, en proceso.&#xD;
+&lt;/p></mainDescription>
+  <purpose>Analizar puntos fuertes y débiles detectados a lo largo del desarrollo del producto.</purpose>
+</org.eclipse.epf.uma:DeliverableDescription>

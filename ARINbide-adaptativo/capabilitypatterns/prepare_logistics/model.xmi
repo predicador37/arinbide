@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_KV5R8Qk2EeaZBN8BGKJ1FQ" guid="_KV5R8Qk2EeaZBN8BGKJ1FQ">
+    <resourceDescriptors xmi:id="_KV5R8gk2EeaZBN8BGKJ1FQ" id="-Q7JsMcMIVpkYT-7Cv3JUGA" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_KVJrEAk2EeaZBN8BGKJ1FQ" name="prepare_logistics" guid="_KVJrEAk2EeaZBN8BGKJ1FQ">
+    <methodElementProperty xmi:id="_KVJrEgk2EeaZBN8BGKJ1FQ" name="pkg_loadCheck" value="true"/>
+    <methodElementProperty xmi:id="_L_iwUAk2EeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_ISjEsAk3EeaZBN8BGKJ1FQ" name="prepare_logistics" guid="_ISjEsAk3EeaZBN8BGKJ1FQ" presentationName="Preparar la logística" superActivities="_KVJrEQk2EeaZBN8BGKJ1FQ" mandatoryInput="_IS1_oAk3EeaZBN8BGKJ1FQ _IS1_oQk3EeaZBN8BGKJ1FQ" performedPrimarilyBy="_ISsOoAk3EeaZBN8BGKJ1FQ">
+      <Task href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_Ti_iYAkwEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_ISsOoAk3EeaZBN8BGKJ1FQ" name="product_owner" guid="_ISsOoAk3EeaZBN8BGKJ1FQ" presentationName="Dueño del Producto" isPlanned="false" superActivities="_KVJrEQk2EeaZBN8BGKJ1FQ">
+      <Role href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_0Xz88PzzEeWZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_IS1_oAk3EeaZBN8BGKJ1FQ" name="pliego_ct" guid="_IS1_oAk3EeaZBN8BGKJ1FQ" presentationName="Pliego de condiciones técnicas" isPlanned="false" superActivities="_KVJrEQk2EeaZBN8BGKJ1FQ">
+      <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_BwI2MP43EeWZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_IS1_oQk3EeaZBN8BGKJ1FQ" name="standards_procedures_participants" guid="_IS1_oQk3EeaZBN8BGKJ1FQ" presentationName="Normas, participantes y procedimientos" isPlanned="false" superActivities="_KVJrEQk2EeaZBN8BGKJ1FQ">
+      <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_icIxMAcdEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_KVJrEQk2EeaZBN8BGKJ1FQ" name="prepare_logistics" guid="_KVJrEQk2EeaZBN8BGKJ1FQ" presentationName="Preparar la logística" briefDescription="En base a las decisiones tomadas anteriormente se deberá asegurar la disponibilidad de todos los recursos necesarios" breakdownElements="_ISjEsAk3EeaZBN8BGKJ1FQ _ISsOoAk3EeaZBN8BGKJ1FQ _IS1_oAk3EeaZBN8BGKJ1FQ _IS1_oQk3EeaZBN8BGKJ1FQ">
+      <presentation xmi:id="-Q7JsMcMIVpkYT-7Cv3JUGA" href="uma://-Q7JsMcMIVpkYT-7Cv3JUGA#-Q7JsMcMIVpkYT-7Cv3JUGA"/>
+      <defaultContext href="uma://_rnsX4OF4Edyp34pwdTOSVQ#_9ZyFcP7wEeWZBN8BGKJ1FQ"/>
+      <validContext href="uma://_rnsX4OF4Edyp34pwdTOSVQ#_9ZyFcP7wEeWZBN8BGKJ1FQ"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

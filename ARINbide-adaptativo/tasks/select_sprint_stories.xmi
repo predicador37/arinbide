@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-vsrGj1aq3dsTfwsTxlAmAw" name=",_I59JcAooEeaZBN8BGKJ1FQ" guid="-vsrGj1aq3dsTfwsTxlAmAw" changeDate="2016-04-24T16:24:17.477+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>La suma de Puntos de Historia de los elementos seleccionados coincidirá aproximadamente con la velocidad&#xD;
+    estimada de la iteración, pero se deberá considerar cierta holgura por si surgen imprevistos.&lt;/font>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;br align=&quot;left&quot; />&#xD;
+&lt;br />&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>Es imprescindible conseguir el compromiso del equipo para desarrollar lo acordado y con los niveles de&#xD;
+    calidad exigidos.&lt;/font>&#xD;
+&lt;/p></keyConsiderations>
+  <purpose>&lt;p>&#xD;
+    Seleccionar las historias de usuario a desarrollar en el sprint.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

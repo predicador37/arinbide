@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-swJMQbkGx42ZobzdtIFWZQ" name=",_JJZVcAntEeaZBN8BGKJ1FQ" guid="-swJMQbkGx42ZobzdtIFWZQ" changeDate="2016-04-24T09:22:06.072+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
+  <sections xmi:id="_RUcEQAntEeaZBN8BGKJ1FQ" name="Añadir a la pila de producto nuevas historias y requisitos de usuario" guid="_RUcEQAntEeaZBN8BGKJ1FQ"/>
+  <sections xmi:id="_TJao4AntEeaZBN8BGKJ1FQ" name="Descartar historias que no se van a construir" guid="_TJao4AntEeaZBN8BGKJ1FQ"/>
+  <sections xmi:id="_Udv-kAntEeaZBN8BGKJ1FQ" name="Actualizar historias según necesidad" guid="_Udv-kAntEeaZBN8BGKJ1FQ"/>
+  <purpose>Mantener la pila de producto actualizada y completa</purpose>
+</org.eclipse.epf.uma:TaskDescription>

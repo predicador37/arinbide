@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-mGAFTuuP-ZaXKga66rbKEg" name=",_PqqyAApZEeaZBN8BGKJ1FQ" guid="-mGAFTuuP-ZaXKga66rbKEg" changeDate="2016-04-24T22:16:17.550+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
+  <mainDescription>&lt;br align=&quot;left&quot; />&#xD;
+&lt;br />&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>Las acciones de mejora&amp;nbsp;se priorizarán siguiendo algún criterio: tratar en primer lugar los más&#xD;
+    urgentes según el criterio del equipo, o bien tener en consideración el esfuerzo que supone en coste y en tiempo su&#xD;
+    implantación. En cualquier caso, es crucial tener siempre presente la satisfacción del cliente.&lt;/font>&#xD;
+&lt;/p>&#xD;
+ &lt;font lang=&quot;ZH-TW&quot; size=&quot;1&quot; face=&quot;Wingdings,Wingdings&quot;>&lt;/font>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>&lt;font face=&quot;Times New Roman&quot;>Introducir las acciones de mejora en la Pila de Producto de modo que puedan&#xD;
+    ser auto-asignadas por los miembros del equipo&lt;/font>&lt;/font>&#xD;
+&lt;/p></mainDescription>
+  <purpose>Identificar problemas y acciones de mejora e introducir estas en la pila de producto.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

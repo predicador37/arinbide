@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-EzTfj5l4rgxRiiZQdTtnyA" name="define_how,_K980oAkvEeaZBN8BGKJ1FQ" guid="-EzTfj5l4rgxRiiZQdTtnyA" changeDate="2016-04-23T10:46:24.337+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
+  <mainDescription>Se trata por lo tanto de revisar todos los procesos con el fin de acordar la mejor forma de trabajo, coordinación y&#xD;
+comunicación para la tipología de proyecto de que se trate. Aunque no se debe olvidar que por la propia naturaleza del&#xD;
+proceso ágil, todas estas decisiones podrán cambiar.</mainDescription>
+  <sections xmi:id="_iq4kAAkvEeaZBN8BGKJ1FQ" name="Duración de los sprints" guid="_iq4kAAkvEeaZBN8BGKJ1FQ">
+    <sectionDescription>Normalmente entre 1 y 4 semanas. Será una decisión consensuadas entre el Dueño del Producto, el Facilitador y el Equipo de&#xD;
+desarrollo</sectionDescription>
+  </sections>
+  <sections xmi:id="_lZ1dkAkvEeaZBN8BGKJ1FQ" name="Procedimiento de entrega de &quot;Releases&quot; y de demos de producto" guid="_lZ1dkAkvEeaZBN8BGKJ1FQ"/>
+  <sections xmi:id="_nk3KsAkvEeaZBN8BGKJ1FQ" name="Procedimiento de gestión de defectos y errores" guid="_nk3KsAkvEeaZBN8BGKJ1FQ"/>
+  <sections xmi:id="_o1LjEAkvEeaZBN8BGKJ1FQ" name="Estados de las historias de usuario, de los requisitos no funcionales y de las tareas" guid="_o1LjEAkvEeaZBN8BGKJ1FQ"/>
+  <sections xmi:id="_qgnKIAkvEeaZBN8BGKJ1FQ" name="Procesos de pruebas y aseguramiento de la calidad" guid="_qgnKIAkvEeaZBN8BGKJ1FQ">
+    <sectionDescription>Referido principalmente a los distintos posibles enfoques en base a la existencia o no de un equipo de pruebas y/o de&#xD;
+calidad distinto al de desarrollo</sectionDescription>
+  </sections>
+  <sections xmi:id="_tab28AkvEeaZBN8BGKJ1FQ" name="Estándares de codificación" guid="_tab28AkvEeaZBN8BGKJ1FQ"/>
+  <sections xmi:id="_vPjlgAkvEeaZBN8BGKJ1FQ" name="Métodos a aplicar para asegurar la sincronización, la transparencia y la comunicación de todos los participantes en el proyecto" guid="_vPjlgAkvEeaZBN8BGKJ1FQ"/>
+  <sections xmi:id="_yBL_oAkvEeaZBN8BGKJ1FQ" name="Herramientas a usar" guid="_yBL_oAkvEeaZBN8BGKJ1FQ">
+    <sectionDescription>De comunicación, de desarrollo, de entrega, de gestión de la configuración, de integración continua, de gestión de defectos&#xD;
+y errores, de&amp;nbsp; prototipado, de pruebas, de aseguramiento de la calidad, etc.</sectionDescription>
+  </sections>
+  <purpose>Revisar procesos e identificar forma de trabajo.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

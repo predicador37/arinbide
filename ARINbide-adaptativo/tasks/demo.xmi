@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-6ZstzYnVPCDgZnEDP56zhg" name=",_f8Y7wApTEeaZBN8BGKJ1FQ" guid="-6ZstzYnVPCDgZnEDP56zhg" changeDate="2016-04-24T21:34:28.708+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>La reunión deberá tener las siguientes características:&lt;/font>&#xD;
+&lt;/p>&#xD;
+ &lt;font lang=&quot;ZH-TW&quot; size=&quot;1&quot; face=&quot;Wingdings,Wingdings&quot;>&lt;/font>&#xD;
+&lt;p>&#xD;
+    &lt;font lang=&quot;ZH-TW&quot; size=&quot;1&quot; face=&quot;Wingdings,Wingdings&quot;>&lt;font lang=&quot;ZH-TW&quot; size=&quot;1&quot;&#xD;
+    face=&quot;Wingdings,Wingdings&quot;>&lt;/font>&lt;/font> &lt;font size=&quot;2&quot;>&lt;font face=&quot;Times New Roman&quot;>Se celebrará al final de cada&#xD;
+    Sprint&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+ &lt;font lang=&quot;ZH-TW&quot; size=&quot;1&quot; face=&quot;Wingdings,Wingdings&quot;>&lt;/font>&#xD;
+&lt;p>&#xD;
+    &lt;font lang=&quot;ZH-TW&quot; size=&quot;1&quot; face=&quot;Wingdings,Wingdings&quot;>&lt;font lang=&quot;ZH-TW&quot; size=&quot;1&quot;&#xD;
+    face=&quot;Wingdings,Wingdings&quot;>&lt;/font>&lt;/font> &lt;font size=&quot;2&quot;>&lt;font face=&quot;Times New Roman&quot;>Su duración debe ser limitada&#xD;
+    (Time-boxing) y dependerá de la duración del Sprint&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+ &lt;font lang=&quot;ZH-TW&quot; size=&quot;1&quot; face=&quot;Wingdings,Wingdings&quot;>&lt;/font>&#xD;
+&lt;p>&#xD;
+    &lt;font lang=&quot;ZH-TW&quot; size=&quot;1&quot; face=&quot;Wingdings,Wingdings&quot;>&lt;font lang=&quot;ZH-TW&quot; size=&quot;1&quot;&#xD;
+    face=&quot;Wingdings,Wingdings&quot;>&lt;/font>&lt;/font> &lt;font size=&quot;2&quot;>&lt;font face=&quot;Times New Roman&quot;>Se deben enfatizar la meta y&#xD;
+    objetivo que se marcaron para el Sprint&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+ &lt;font lang=&quot;ZH-TW&quot; size=&quot;1&quot; face=&quot;Wingdings,Wingdings&quot;>&lt;/font>&#xD;
+&lt;p>&#xD;
+    &lt;font lang=&quot;ZH-TW&quot; size=&quot;1&quot; face=&quot;Wingdings,Wingdings&quot;>&lt;font lang=&quot;ZH-TW&quot; size=&quot;1&quot;&#xD;
+    face=&quot;Wingdings,Wingdings&quot;>&lt;/font>&lt;/font> &lt;font size=&quot;2&quot;>&lt;font face=&quot;Times New Roman&quot;>Mantener la demostración a nivel&#xD;
+    de negocio, dejando los detalles técnicos aparte&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+ &lt;font lang=&quot;ZH-TW&quot; size=&quot;1&quot; face=&quot;Wingdings,Wingdings&quot;>&lt;/font>&#xD;
+&lt;p>&#xD;
+    &lt;font lang=&quot;ZH-TW&quot; size=&quot;1&quot; face=&quot;Wingdings,Wingdings&quot;>&lt;font lang=&quot;ZH-TW&quot; size=&quot;1&quot;&#xD;
+    face=&quot;Wingdings,Wingdings&quot;>&lt;/font>&lt;/font> &lt;font size=&quot;2&quot;>&lt;font face=&quot;Times New Roman&quot;>No se deben aceptar o rechazar&#xD;
+    nuevos elementos de la Pila de Producto, sólo se debe recoger información para tomar la decisión en el siguiente&#xD;
+    Sprint.&lt;/font>&lt;/font>&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;br align=&quot;left&quot; />&#xD;
+&lt;br />&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>Hacer una demostración y presentar el trabajo realizado durante el Sprint. Se revisa por lo tanto&#xD;
+    el&lt;/font> &lt;b>&lt;font size=&quot;2&quot; face=&quot;Arial,Arial&quot;>&lt;font size=&quot;2&quot; face=&quot;Arial,Arial&quot;>qué&lt;/font>&lt;/font>&lt;/b> &lt;font&#xD;
+    size=&quot;2&quot;>se ha hecho durante el Sprint.&lt;/font>&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

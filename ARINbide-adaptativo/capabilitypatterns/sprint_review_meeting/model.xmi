@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_aSvDQQphEeaZBN8BGKJ1FQ" guid="_aSvDQQphEeaZBN8BGKJ1FQ">
+    <resourceDescriptors xmi:id="_aSvDQgphEeaZBN8BGKJ1FQ" id="-kUkmwh0uGQtlqiFf3_Exzw" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_aR1rYAphEeaZBN8BGKJ1FQ" name="sprint_review_meeting" guid="_aR1rYAphEeaZBN8BGKJ1FQ">
+    <methodElementProperty xmi:id="_aR1rYgphEeaZBN8BGKJ1FQ" name="pkg_loadCheck" value="true"/>
+    <methodElementProperty xmi:id="_pcposAphEeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_kyVOoAphEeaZBN8BGKJ1FQ" name="bugs_list_update" guid="_kyVOoAphEeaZBN8BGKJ1FQ" presentationName="Actualización de lista de defectos" superActivities="_aR1rYQphEeaZBN8BGKJ1FQ" additionallyPerformedBy="_kyVOpgphEeaZBN8BGKJ1FQ _kyVOpwphEeaZBN8BGKJ1FQ _kyVOqAphEeaZBN8BGKJ1FQ _kyVOqQphEeaZBN8BGKJ1FQ _kyVOqgphEeaZBN8BGKJ1FQ" mandatoryInput="_kyVOrAphEeaZBN8BGKJ1FQ _kyVOrQphEeaZBN8BGKJ1FQ" output="_kyVOrAphEeaZBN8BGKJ1FQ" performedPrimarilyBy="_kyVOpQphEeaZBN8BGKJ1FQ">
+      <Task href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_gZif4ApVEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_kyVOoQphEeaZBN8BGKJ1FQ" name="demo" guid="_kyVOoQphEeaZBN8BGKJ1FQ" presentationName="Demostración del producto" superActivities="_aR1rYQphEeaZBN8BGKJ1FQ" additionallyPerformedBy="_kyVOqwphEeaZBN8BGKJ1FQ _kyVOpgphEeaZBN8BGKJ1FQ _kyVOpwphEeaZBN8BGKJ1FQ _kyVOqAphEeaZBN8BGKJ1FQ _kyVOqgphEeaZBN8BGKJ1FQ _kyVOqQphEeaZBN8BGKJ1FQ" mandatoryInput="_kyVOrgphEeaZBN8BGKJ1FQ" output="_kyVOrgphEeaZBN8BGKJ1FQ" performedPrimarilyBy="_kyVOpQphEeaZBN8BGKJ1FQ">
+      <Task href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_f8Y7wApTEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_kyVOogphEeaZBN8BGKJ1FQ" name="monitoring_update" guid="_kyVOogphEeaZBN8BGKJ1FQ" presentationName="Actualización del documento de monitorización" superActivities="_aR1rYQphEeaZBN8BGKJ1FQ" additionallyPerformedBy="_kyVOpgphEeaZBN8BGKJ1FQ _kyVOpwphEeaZBN8BGKJ1FQ _kyVOqAphEeaZBN8BGKJ1FQ _kyVOqQphEeaZBN8BGKJ1FQ _kyVOqgphEeaZBN8BGKJ1FQ" mandatoryInput="_kyVOrwphEeaZBN8BGKJ1FQ _kyVOrQphEeaZBN8BGKJ1FQ" output="_kyVOrwphEeaZBN8BGKJ1FQ" performedPrimarilyBy="_kyVOpQphEeaZBN8BGKJ1FQ">
+      <Task href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_v57hEApUEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_kyVOowphEeaZBN8BGKJ1FQ" name="validation" guid="_kyVOowphEeaZBN8BGKJ1FQ" presentationName="Validación de resultados" superActivities="_aR1rYQphEeaZBN8BGKJ1FQ" additionallyPerformedBy="_kyVOpgphEeaZBN8BGKJ1FQ _kyVOpwphEeaZBN8BGKJ1FQ _kyVOqAphEeaZBN8BGKJ1FQ _kyVOqQphEeaZBN8BGKJ1FQ _kyVOqgphEeaZBN8BGKJ1FQ" mandatoryInput="_kyVOrQphEeaZBN8BGKJ1FQ" output="_kyVOrQphEeaZBN8BGKJ1FQ" performedPrimarilyBy="_kyVOpQphEeaZBN8BGKJ1FQ">
+      <Task href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_KlZTkApUEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_kyVOpAphEeaZBN8BGKJ1FQ" name="vision_releases_backlog_update" guid="_kyVOpAphEeaZBN8BGKJ1FQ" presentationName="Actualización de la visión, plan de entregas o pila de producto" superActivities="_aR1rYQphEeaZBN8BGKJ1FQ" additionallyPerformedBy="_kyVOpgphEeaZBN8BGKJ1FQ _kyVOpwphEeaZBN8BGKJ1FQ _kyVOqAphEeaZBN8BGKJ1FQ _kyVOqQphEeaZBN8BGKJ1FQ _kyVOqgphEeaZBN8BGKJ1FQ" mandatoryInput="_kyVOrQphEeaZBN8BGKJ1FQ _kyVOsAphEeaZBN8BGKJ1FQ _kyVOsQphEeaZBN8BGKJ1FQ" output="_kyVOrQphEeaZBN8BGKJ1FQ _kyVOsAphEeaZBN8BGKJ1FQ _kyVOsQphEeaZBN8BGKJ1FQ" performedPrimarilyBy="_kyVOpQphEeaZBN8BGKJ1FQ">
+      <Task href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_If8NgApVEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_kyVOpQphEeaZBN8BGKJ1FQ" name="scrum_master" guid="_kyVOpQphEeaZBN8BGKJ1FQ" presentationName="Facilitador" isPlanned="false" superActivities="_aR1rYQphEeaZBN8BGKJ1FQ" modifies="_kyVOrAphEeaZBN8BGKJ1FQ _kyVOrQphEeaZBN8BGKJ1FQ _kyVOrwphEeaZBN8BGKJ1FQ _kyVOsAphEeaZBN8BGKJ1FQ _kyVOsQphEeaZBN8BGKJ1FQ _kyVOrgphEeaZBN8BGKJ1FQ">
+      <Role href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_bn2N0Pz0EeWZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_kyVOpgphEeaZBN8BGKJ1FQ" name="customer" guid="_kyVOpgphEeaZBN8BGKJ1FQ" presentationName="Cliente" isPlanned="false" superActivities="_aR1rYQphEeaZBN8BGKJ1FQ">
+      <Role href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_FvoAgPz4EeWZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_kyVOpwphEeaZBN8BGKJ1FQ" name="product_owner" guid="_kyVOpwphEeaZBN8BGKJ1FQ" presentationName="Dueño del Producto" isPlanned="false" superActivities="_aR1rYQphEeaZBN8BGKJ1FQ">
+      <Role href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_0Xz88PzzEeWZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_kyVOqAphEeaZBN8BGKJ1FQ" name="sponsor" guid="_kyVOqAphEeaZBN8BGKJ1FQ" presentationName="Patrocinador" isPlanned="false" superActivities="_aR1rYQphEeaZBN8BGKJ1FQ">
+      <Role href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_CJNTcPz4EeWZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_kyVOqQphEeaZBN8BGKJ1FQ" name="stakeholders" guid="_kyVOqQphEeaZBN8BGKJ1FQ" presentationName="Interesados" isPlanned="false" superActivities="_aR1rYQphEeaZBN8BGKJ1FQ">
+      <Role href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_gXGD0Pz3EeWZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_kyVOqgphEeaZBN8BGKJ1FQ" name="team" guid="_kyVOqgphEeaZBN8BGKJ1FQ" presentationName="Equipo de desarrollo" isPlanned="false" superActivities="_aR1rYQphEeaZBN8BGKJ1FQ">
+      <Role href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_P-RmQP7vEeWZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_kyVOqwphEeaZBN8BGKJ1FQ" name="user" guid="_kyVOqwphEeaZBN8BGKJ1FQ" presentationName="Usuario" isPlanned="false" superActivities="_aR1rYQphEeaZBN8BGKJ1FQ">
+      <Role href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_JSLhQPz4EeWZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_kyVOrAphEeaZBN8BGKJ1FQ" name="bugs_defects_list" guid="_kyVOrAphEeaZBN8BGKJ1FQ" presentationName="Lista de defectos y errores" isPlanned="false" superActivities="_aR1rYQphEeaZBN8BGKJ1FQ">
+      <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_Ph7qkApKEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_kyVOrQphEeaZBN8BGKJ1FQ" name="product_backlog" guid="_kyVOrQphEeaZBN8BGKJ1FQ" presentationName="Pila de producto" isPlanned="false" superActivities="_aR1rYQphEeaZBN8BGKJ1FQ">
+      <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_Z8pHUAjIEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_kyVOrgphEeaZBN8BGKJ1FQ" name="working_system" guid="_kyVOrgphEeaZBN8BGKJ1FQ" presentationName="Sistema funcionando" isPlanned="false" superActivities="_aR1rYQphEeaZBN8BGKJ1FQ">
+      <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_7ZOdoApOEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_kyVOrwphEeaZBN8BGKJ1FQ" name="monitoring" guid="_kyVOrwphEeaZBN8BGKJ1FQ" presentationName="Monitorización" isPlanned="false" superActivities="_aR1rYQphEeaZBN8BGKJ1FQ">
+      <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_mSxL0ApPEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_kyVOsAphEeaZBN8BGKJ1FQ" name="product_vision" guid="_kyVOsAphEeaZBN8BGKJ1FQ" presentationName="Visión del producto" isPlanned="false" superActivities="_aR1rYQphEeaZBN8BGKJ1FQ">
+      <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_nUKUUAjDEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_kyVOsQphEeaZBN8BGKJ1FQ" name="release_plan" guid="_kyVOsQphEeaZBN8BGKJ1FQ" presentationName="Plan de entregas" isPlanned="false" superActivities="_aR1rYQphEeaZBN8BGKJ1FQ">
+      <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_dQp48AjMEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_aR1rYQphEeaZBN8BGKJ1FQ" name="sprint_review_meeting" guid="_aR1rYQphEeaZBN8BGKJ1FQ" presentationName="Reunión de revisión del sprint" briefDescription="En esta reunión se recogerá información o feedback sobre el estado del proyecto o producto en desarrollo y se analizará el valor añadido durante el último Sprint." breakdownElements="_kyVOoQphEeaZBN8BGKJ1FQ _kyVOowphEeaZBN8BGKJ1FQ _kyVOogphEeaZBN8BGKJ1FQ _kyVOpAphEeaZBN8BGKJ1FQ _kyVOoAphEeaZBN8BGKJ1FQ _kyVOpQphEeaZBN8BGKJ1FQ _kyVOpgphEeaZBN8BGKJ1FQ _kyVOpwphEeaZBN8BGKJ1FQ _kyVOqAphEeaZBN8BGKJ1FQ _kyVOqQphEeaZBN8BGKJ1FQ _kyVOqgphEeaZBN8BGKJ1FQ _kyVOqwphEeaZBN8BGKJ1FQ _kyVOrAphEeaZBN8BGKJ1FQ _kyVOrQphEeaZBN8BGKJ1FQ _kyVOrgphEeaZBN8BGKJ1FQ _kyVOrwphEeaZBN8BGKJ1FQ _kyVOsAphEeaZBN8BGKJ1FQ _kyVOsQphEeaZBN8BGKJ1FQ">
+      <presentation xmi:id="-kUkmwh0uGQtlqiFf3_Exzw" href="uma://-kUkmwh0uGQtlqiFf3_Exzw#-kUkmwh0uGQtlqiFf3_Exzw"/>
+      <defaultContext href="uma://_rnsX4OF4Edyp34pwdTOSVQ#_9ZyFcP7wEeWZBN8BGKJ1FQ"/>
+      <validContext href="uma://_rnsX4OF4Edyp34pwdTOSVQ#_9ZyFcP7wEeWZBN8BGKJ1FQ"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

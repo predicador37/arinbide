@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-mOATuHI46hc1rg6jid8rPQ" name="new_artifact,_tiHwcAo5EeaZBN8BGKJ1FQ" guid="-mOATuHI46hc1rg6jid8rPQ" changeDate="2016-04-24T18:30:31.662+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
+  <purpose>Obtener un sistema funcional a partir de las historias de usuario implementadas hasta la fecha.</purpose>
+  <impactOfNotHaving>&lt;p>&#xD;
+    Si no se tienen versiones tempranas del sistema funcionando se aumentan los riesgos en el desarrollo (expectativas&#xD;
+    incumplidas del cliente, problemas de integración, etc.)&#xD;
+&lt;/p></impactOfNotHaving>
+</org.eclipse.epf.uma:ArtifactDescription>

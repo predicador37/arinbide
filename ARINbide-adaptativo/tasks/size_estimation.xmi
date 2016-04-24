@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-pygT5FGrQxvtPG_niXXcRA" name=",_OjoagAkyEeaZBN8BGKJ1FQ" guid="-pygT5FGrQxvtPG_niXXcRA" changeDate="2016-04-23T11:04:13.362+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
+  <mainDescription>Otra opción, menos recomendada es estimar el esfuerzo medido en Días (u Horas) Ideales (Ideal Days), entendido como el&#xD;
+número de días que una sola persona necesitaría para realizarlo sin interrupciones ni distracciones. Esta es la única tarea&#xD;
+cuya realización recae en el Equipo de desarrollo, en el resto, puede colaborar.</mainDescription>
+  <purpose>Obtener una estimación inicial del esfuerzo o tamaño de los elementos de la pila de producto.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

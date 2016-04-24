@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-B_lGfI_-vI6UO3j0pg4ZfQ" name=",_xx6YEAkwEeaZBN8BGKJ1FQ" guid="-B_lGfI_-vI6UO3j0pg4ZfQ" changeDate="2016-04-23T10:53:38.059+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
+  <purpose>Definir elementos que componen la pila de producto.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

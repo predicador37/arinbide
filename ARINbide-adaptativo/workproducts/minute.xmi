@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Zxd425CpXu0JidaEtYHhIw" name=",_-ZkFUApSEeaZBN8BGKJ1FQ" guid="-Zxd425CpXu0JidaEtYHhIw" changeDate="2016-04-24T21:30:38.331+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
+  <mainDescription>&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>Ni Scrum ni XP consideran la creación de actas de reunión. Las decisiones que se van tomando durante la&#xD;
+    vida del proyecto tienen su reflejo directo en los artefactos (Pila de Producto, Pila de Sprint, etc.) y estas&#xD;
+    decisiones son el resultado de discusiones y negociaciones en las que intervienen activamente todos los interesados, en&#xD;
+    especial el cliente, los usuarios y el dueño del producto, por lo tanto, llevan implícita su aprobación. Además, el&#xD;
+    documento de monitorización ya alberga una Bitácora en la que se podrán apuntar todos aquellos datos o eventos&#xD;
+    relevantes para el proyecto, para el Sprint o para el producto, y que de alguna manera sea importante recordar.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>De existir, contendrá los siguientes elementos:&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>- Título del proyecto&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>- Fecha del acta&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>- Objeto de la reunión&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>- Fecha de reunión&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>- Hora de reunión&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>- Lugar de reunión&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>- Convocante&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>- Convocados&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>- Asistentes&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>- Ausentes&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>- Orden del día&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>- Resumen de lo tratado&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>- Resumen de decisiones/acciones&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>- Convocatoria próxima reunión&lt;/font>&#xD;
+&lt;/p></mainDescription>
+  <purpose>Registrar&amp;nbsp;documentalmente&amp;nbsp;lo acontecido y discutido durante una reunión.</purpose>
+</org.eclipse.epf.uma:DeliverableDescription>

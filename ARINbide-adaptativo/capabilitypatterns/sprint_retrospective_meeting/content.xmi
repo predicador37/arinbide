@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ProcessDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-1QojQpokHzAuacnLvwZyEQ" name="sprint_retrospective_meeting,_t2R7YQphEeaZBN8BGKJ1FQ" guid="-1QojQpokHzAuacnLvwZyEQ">
+  <purpose>Así, el objetivo de esta reunión es analizar la forma en que se hacen las cosas y cómo mejorar el conjunto del proceso, y&#xD;
+por ende, aumentar la calidad de lo que se construye.</purpose>
+</org.eclipse.epf.uma:ProcessDescription>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-1zQHyLDA5oYEKBLVLd5PMw" name="new_guideline,_nDvUkAo1EeaZBN8BGKJ1FQ" guid="-1zQHyLDA5oYEKBLVLd5PMw" changeDate="2016-04-24T18:01:18.475+0200">
+  <mainDescription>&lt;p>&#xD;
+    Contras: sólo se trabaja una parte muy pequeña del sistema.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Pros: se pueden escribir miles de tests y automatizar su construcción.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

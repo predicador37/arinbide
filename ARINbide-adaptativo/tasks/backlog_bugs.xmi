@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-dwX538n5A2WizV6EiKetLA" name=",_ound0Ao8EeaZBN8BGKJ1FQ" guid="-dwX538n5A2WizV6EiKetLA" changeDate="2016-04-24T18:52:10.096+0200">
+  <purpose>Corregir los defectos lo antes posible para minimizar su tiempo de codificación (que crece exponencialmente cuanto más&#xD;
+tiempo pasa desde la creación del mismo hasta su resolución).</purpose>
+</org.eclipse.epf.uma:TaskDescription>

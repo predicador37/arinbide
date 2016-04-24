@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-2oh3v48bQTxwrGlAp_2HGw" name="identify_participants,_k7ejEAkuEeaZBN8BGKJ1FQ" guid="-2oh3v48bQTxwrGlAp_2HGw" changeDate="2016-04-23T10:38:02.438+0200">
+  <mainDescription>- Facilitador&lt;br />&#xD;
+- Interesados, en especial a los clientes y usuarios, pues son la fuente principal de requisitos del sistema&lt;br />&#xD;
+- Equipo. Equipo multidisciplinar con los conocimientos necesarios para el desarrollo del proyecto. Se recomienda que esté&#xD;
+formado por un mínimo de 3 y un máximo de 9 miembros (hay quien recomienda un total de 7 +/- 2)</mainDescription>
+  <sections xmi:id="_xKsR8AkuEeaZBN8BGKJ1FQ" name="Identificar al facilitador" guid="_xKsR8AkuEeaZBN8BGKJ1FQ"/>
+  <sections xmi:id="_x6hzcAkuEeaZBN8BGKJ1FQ" name="Identificar a los interesados" guid="_x6hzcAkuEeaZBN8BGKJ1FQ">
+    <sectionDescription>En especial a los clientes y usuarios, pues son la fuente principal de requisitos del&lt;br />&#xD;
+sistema</sectionDescription>
+  </sections>
+  <sections xmi:id="_1ScxgAkuEeaZBN8BGKJ1FQ" name="Identificar al equipo" guid="_1ScxgAkuEeaZBN8BGKJ1FQ">
+    <sectionDescription>Equipo multidisciplinar con los conocimientos necesarios para el desarrollo del proyecto. Se recomienda que esté formado&#xD;
+por un mínimo de 3 y un máximo de 9 miembros (hay quien recomienda un total de 7 +/- 2)</sectionDescription>
+  </sections>
+  <purpose>Identificar a los participantes en el proyecto (personas concretas)</purpose>
+</org.eclipse.epf.uma:TaskDescription>

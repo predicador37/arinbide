@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ProcessDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-kUkmwh0uGQtlqiFf3_Exzw" name="sprint_review_meeting,_aR1rYQphEeaZBN8BGKJ1FQ" guid="-kUkmwh0uGQtlqiFf3_Exzw">
+  <purpose>El objetivo principal de la reunión de Revisión del Sprint es demostrar y presentar el trabajo realizado.</purpose>
+</org.eclipse.epf.uma:ProcessDescription>

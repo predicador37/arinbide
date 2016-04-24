@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-pI1fbzdbVMgU7g95TezxVw" name=",_JMJ4IAk1EeaZBN8BGKJ1FQ" guid="-pI1fbzdbVMgU7g95TezxVw" changeDate="2016-04-23T11:24:53.869+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
+  <mainDescription>Cada Sprint incluirá tantas Historias de usuario como sea posible, pero sin sobrepasar la velocidad estimada. Se recomienda&#xD;
+incluso que se incluya cierta holgura para solucionar imprevistos</mainDescription>
+  <purpose>Definir el número de sprints del proyecto.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

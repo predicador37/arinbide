@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-kpKb_bLPeatBc9g5qTbzOw" name=",_3uFqUAkqEeaZBN8BGKJ1FQ" guid="-kpKb_bLPeatBc9g5qTbzOw" changeDate="2016-04-23T10:13:49.788+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
+  <mainDescription>En base a la información obtenida sobre clientes, usuarios y atributos críticos del sistema, elaborar el documento con la&#xD;
+visión del proyecto.</mainDescription>
+  <purpose>Obtener la visión del producto.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

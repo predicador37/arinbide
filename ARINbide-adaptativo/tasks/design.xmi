@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-bx8L0pCN6pnwY81olaiQcg" name=",_NiNtAAozEeaZBN8BGKJ1FQ" guid="-bx8L0pCN6pnwY81olaiQcg" changeDate="2016-04-24T18:27:39.787+0200">
+  <sections xmi:id="_hRH44Ao5EeaZBN8BGKJ1FQ" name="Definición de la arquitectura del sistema" guid="_hRH44Ao5EeaZBN8BGKJ1FQ"/>
+  <sections xmi:id="_iKfw4Ao5EeaZBN8BGKJ1FQ" name="Definición del modelo de datos" guid="_iKfw4Ao5EeaZBN8BGKJ1FQ"/>
+  <purpose>Obtener el incremento asociado al documento de diseño técnico (arquitectura del sistema y modelo de datos).</purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_-j_KIQk1EeaZBN8BGKJ1FQ" guid="_-j_KIQk1EeaZBN8BGKJ1FQ">
+    <resourceDescriptors xmi:id="_-j_KIgk1EeaZBN8BGKJ1FQ" id="-9ijtjnQ60_qLv7MyauWJpw" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_-jPjQAk1EeaZBN8BGKJ1FQ" name="identify_participants" guid="_-jPjQAk1EeaZBN8BGKJ1FQ">
+    <methodElementProperty xmi:id="_-jPjQgk1EeaZBN8BGKJ1FQ" name="pkg_loadCheck" value="true"/>
+    <methodElementProperty xmi:id="_IXFb4Ak2EeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_RpIZkAk3EeaZBN8BGKJ1FQ" name="identify_participants" guid="_RpIZkAk3EeaZBN8BGKJ1FQ" presentationName="Identificar a los participantes" superActivities="_-jPjQQk1EeaZBN8BGKJ1FQ" additionallyPerformedBy="_RpbUgAk3EeaZBN8BGKJ1FQ" mandatoryInput="_RplFgAk3EeaZBN8BGKJ1FQ _RplFgQk3EeaZBN8BGKJ1FQ _Rpu2gAk3EeaZBN8BGKJ1FQ" output="_Rpu2gAk3EeaZBN8BGKJ1FQ _Rpu2gQk3EeaZBN8BGKJ1FQ" performedPrimarilyBy="_RpSKkAk3EeaZBN8BGKJ1FQ">
+      <Task href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_k7ejEAkuEeaZBN8BGKJ1FQ"/>
+      <selectedSteps href="uma://-2oh3v48bQTxwrGlAp_2HGw#_xKsR8AkuEeaZBN8BGKJ1FQ"/>
+      <selectedSteps href="uma://-2oh3v48bQTxwrGlAp_2HGw#_x6hzcAkuEeaZBN8BGKJ1FQ"/>
+      <selectedSteps href="uma://-2oh3v48bQTxwrGlAp_2HGw#_1ScxgAkuEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_RpSKkAk3EeaZBN8BGKJ1FQ" name="product_owner" guid="_RpSKkAk3EeaZBN8BGKJ1FQ" presentationName="Dueño del Producto" isPlanned="false" superActivities="_-jPjQQk1EeaZBN8BGKJ1FQ" modifies="_Rpu2gAk3EeaZBN8BGKJ1FQ _Rpu2gQk3EeaZBN8BGKJ1FQ">
+      <Role href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_0Xz88PzzEeWZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_RpbUgAk3EeaZBN8BGKJ1FQ" name="sponsor" guid="_RpbUgAk3EeaZBN8BGKJ1FQ" presentationName="Patrocinador" isPlanned="false" superActivities="_-jPjQQk1EeaZBN8BGKJ1FQ">
+      <Role href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_CJNTcPz4EeWZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_RplFgAk3EeaZBN8BGKJ1FQ" name="pliego_ct" guid="_RplFgAk3EeaZBN8BGKJ1FQ" presentationName="Pliego de condiciones técnicas" isPlanned="false" superActivities="_-jPjQQk1EeaZBN8BGKJ1FQ">
+      <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_BwI2MP43EeWZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_RplFgQk3EeaZBN8BGKJ1FQ" name="product_vision" guid="_RplFgQk3EeaZBN8BGKJ1FQ" presentationName="Visión del producto" isPlanned="false" superActivities="_-jPjQQk1EeaZBN8BGKJ1FQ">
+      <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_nUKUUAjDEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_Rpu2gAk3EeaZBN8BGKJ1FQ" name="standards_procedures_participants" guid="_Rpu2gAk3EeaZBN8BGKJ1FQ" presentationName="Normas, participantes y procedimientos" isPlanned="false" superActivities="_-jPjQQk1EeaZBN8BGKJ1FQ">
+      <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_icIxMAcdEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_Rpu2gQk3EeaZBN8BGKJ1FQ" name="participants" guid="_Rpu2gQk3EeaZBN8BGKJ1FQ" presentationName="Participantes" isPlanned="false" superActivities="_-jPjQQk1EeaZBN8BGKJ1FQ">
+      <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_qKE30AceEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_-jPjQQk1EeaZBN8BGKJ1FQ" name="identify_participants" guid="_-jPjQQk1EeaZBN8BGKJ1FQ" presentationName="Identificar participantes" briefDescription="Identificar a los participantes en el proyecto (personas concretas)" breakdownElements="_RpIZkAk3EeaZBN8BGKJ1FQ _RpSKkAk3EeaZBN8BGKJ1FQ _RpbUgAk3EeaZBN8BGKJ1FQ _RplFgAk3EeaZBN8BGKJ1FQ _RplFgQk3EeaZBN8BGKJ1FQ _Rpu2gAk3EeaZBN8BGKJ1FQ _Rpu2gQk3EeaZBN8BGKJ1FQ">
+      <presentation xmi:id="-9ijtjnQ60_qLv7MyauWJpw" href="uma://-9ijtjnQ60_qLv7MyauWJpw#-9ijtjnQ60_qLv7MyauWJpw"/>
+      <defaultContext href="uma://_rnsX4OF4Edyp34pwdTOSVQ#_9ZyFcP7wEeWZBN8BGKJ1FQ"/>
+      <validContext href="uma://_rnsX4OF4Edyp34pwdTOSVQ#_9ZyFcP7wEeWZBN8BGKJ1FQ"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

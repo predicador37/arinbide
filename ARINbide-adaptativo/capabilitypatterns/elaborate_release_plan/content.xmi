@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ProcessDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-8bCwSGN1ATNx6tvHSh9Lgw" name="elaborate_release_plan,_SThP0Qk2EeaZBN8BGKJ1FQ" guid="-8bCwSGN1ATNx6tvHSh9Lgw">
+  <mainDescription>&lt;p>&#xD;
+    El Plan de entregas es un plan de alto nivel que cubre períodos más largos que una sola iteración. Suelen planificarse&#xD;
+    entregas cada tres o seis meses, aunque pueden ser de menor o mayor frecuencia en función del la tipología del sistema&#xD;
+    que se esté construyendo.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    Cada entrega estará caracterizada por:&lt;br />&#xD;
+    &lt;br />&#xD;
+    - Un nombre descriptivo que refleje el incremento de valor para el producto.&lt;br />&#xD;
+    - Las fechas de las entregas&lt;br />&#xD;
+    - Un código de versión, que será el que se utilice para la gestión de la configuración.&lt;br />&#xD;
+    - Las iteraciones contenidas en cada entrega junto con la suma de Puntos de Historia de esas iteraciones&#xD;
+&lt;/p></mainDescription>
+  <purpose>Obtener el plan de entregas.</purpose>
+</org.eclipse.epf.uma:ProcessDescription>

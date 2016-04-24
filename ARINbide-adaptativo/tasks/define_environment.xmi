@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Yp25jsaE8cxAqqzXEQO9yA" name=",_XHySsP8HEeWZBN8BGKJ1FQ" guid="-Yp25jsaE8cxAqqzXEQO9yA" changeDate="2016-04-10T12:34:10.878+0200">
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Yp25jsaE8cxAqqzXEQO9yA" name="define_environment_standards,_XHySsP8HEeWZBN8BGKJ1FQ" guid="-Yp25jsaE8cxAqqzXEQO9yA" changeDate="2016-04-23T10:35:31.171+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
   <sections xmi:id="_hiG8gP8HEeWZBN8BGKJ1FQ" name="Definir entorno de ejecución" guid="_hiG8gP8HEeWZBN8BGKJ1FQ"/>
   <sections xmi:id="_kEARgP8HEeWZBN8BGKJ1FQ" name="Definir entorno de desarrollo" guid="_kEARgP8HEeWZBN8BGKJ1FQ"/>
-  <purpose>Decidir el entorno técnológico e identificar si existe algún tipo de condicionante o restricción a tener en cuenta.</purpose>
+  <sections xmi:id="_ah-_sAkuEeaZBN8BGKJ1FQ" name="Definir normas y estándares" guid="_ah-_sAkuEeaZBN8BGKJ1FQ">
+    <sectionDescription>Normativas y estándares de desarrollo, de albergue, de implantación, de uso de productos, etc. que son de aplicación.&#xD;
+También se incluirán las normas y estándares legales y funcionales que debe cumplir tanto el proyecto como el producto a&#xD;
+generar.</sectionDescription>
+  </sections>
+  <purpose>En esta actividad se decidirá el entorno tecnológico sobre el cual se va a construir el sistema y se identificará si existe&#xD;
+algún tipo de condicionante o restricción a tener en cuenta. Se especificará además el conjunto de normas y estándares a&#xD;
+aplicar.</purpose>
 </org.eclipse.epf.uma:TaskDescription>

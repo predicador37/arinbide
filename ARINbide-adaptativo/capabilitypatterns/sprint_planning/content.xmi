@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ProcessDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-YZ0R_xCYzJHjB8tpRBfA6A" name="sprint_planning,_9-SoIQpeEeaZBN8BGKJ1FQ" guid="-YZ0R_xCYzJHjB8tpRBfA6A">
+  <purpose>Selección y priorización de las historias de usuario a implementar en el sprint.</purpose>
+</org.eclipse.epf.uma:ProcessDescription>

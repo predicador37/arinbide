@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_7uSI0ApoEeaZBN8BGKJ1FQ" guid="_7uSI0ApoEeaZBN8BGKJ1FQ">
+    <resourceDescriptors xmi:id="_7uSI0QpoEeaZBN8BGKJ1FQ" id="-4DQT-noD3_dGzeP7IVodQw" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_7tjwEApoEeaZBN8BGKJ1FQ" name="ARINbide-adaptativo" guid="_7tjwEApoEeaZBN8BGKJ1FQ">
+    <methodElementProperty xmi:id="_7tjwEgpoEeaZBN8BGKJ1FQ" name="pkg_loadCheck" value="true"/>
+    <methodElementProperty xmi:id="_BTfd0AppEeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_8z9XcApoEeaZBN8BGKJ1FQ" name="Sprint 0" guid="_8z9XcApoEeaZBN8BGKJ1FQ">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_8z9XcQpoEeaZBN8BGKJ1FQ" name="Sprint 0" guid="_8z9XcQpoEeaZBN8BGKJ1FQ" presentationName="Sprint 0" superActivities="_7tjwEQpoEeaZBN8BGKJ1FQ" variabilityType="extends">
+        <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_KCNeMP70EeWZBN8BGKJ1FQ#_KCNeMf70EeWZBN8BGKJ1FQ"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_CILqIAppEeaZBN8BGKJ1FQ" name="Sprint (iteración)" guid="_CILqIAppEeaZBN8BGKJ1FQ">
+      <processElements xsi:type="org.eclipse.epf.uma:Iteration" xmi:id="_CILqIQppEeaZBN8BGKJ1FQ" name="Sprint (iteración)" guid="_CILqIQppEeaZBN8BGKJ1FQ" presentationName="Sprint (iteración)" superActivities="_7tjwEQpoEeaZBN8BGKJ1FQ" isRepeatable="true" variabilityType="extends">
+        <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_HCDOAApnEeaZBN8BGKJ1FQ#_HCDOAQpnEeaZBN8BGKJ1FQ"/>
+      </processElements>
+    </childPackages>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_7tjwEQpoEeaZBN8BGKJ1FQ" name="ARINbide-adaptativo" guid="_7tjwEQpoEeaZBN8BGKJ1FQ" presentationName="ARINbide-adaptativo" breakdownElements="_8z9XcQpoEeaZBN8BGKJ1FQ _CILqIQppEeaZBN8BGKJ1FQ">
+      <presentation xmi:id="-4DQT-noD3_dGzeP7IVodQw" href="uma://-4DQT-noD3_dGzeP7IVodQw#-4DQT-noD3_dGzeP7IVodQw"/>
+      <defaultContext href="uma://_rnsX4OF4Edyp34pwdTOSVQ#_9ZyFcP7wEeWZBN8BGKJ1FQ"/>
+      <validContext href="uma://_rnsX4OF4Edyp34pwdTOSVQ#_9ZyFcP7wEeWZBN8BGKJ1FQ"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

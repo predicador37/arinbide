@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-nWMuz8s1wptoaY3Gom5ijg" name=",_bdde4Ao-EeaZBN8BGKJ1FQ" guid="-nWMuz8s1wptoaY3Gom5ijg" changeDate="2016-04-24T19:04:14.705+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>La reunión deberá tener las siguientes características:&lt;/font>&#xD;
+&lt;/p>&#xD;
+ &lt;font lang=&quot;ZH-TW&quot; size=&quot;1&quot; face=&quot;Wingdings,Wingdings&quot;>&lt;/font>&#xD;
+&lt;p>&#xD;
+    &lt;font lang=&quot;ZH-TW&quot; size=&quot;1&quot; face=&quot;Wingdings,Wingdings&quot;>&lt;font lang=&quot;ZH-TW&quot; size=&quot;1&quot;&#xD;
+    face=&quot;Wingdings,Wingdings&quot;>&lt;/font>&lt;/font> &lt;font size=&quot;2&quot;>&lt;font face=&quot;Times New Roman&quot;>Debe ser breve y&#xD;
+    concisa&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+ &lt;font lang=&quot;ZH-TW&quot; size=&quot;1&quot; face=&quot;Wingdings,Wingdings&quot;>&lt;/font>&#xD;
+&lt;p>&#xD;
+    &lt;font lang=&quot;ZH-TW&quot; size=&quot;1&quot; face=&quot;Wingdings,Wingdings&quot;>&lt;font lang=&quot;ZH-TW&quot; size=&quot;1&quot;&#xD;
+    face=&quot;Wingdings,Wingdings&quot;>&lt;/font>&lt;/font> &lt;font size=&quot;2&quot;>&lt;font face=&quot;Times New Roman&quot;>No tratar otros&#xD;
+    puntos&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+ &lt;font lang=&quot;ZH-TW&quot; size=&quot;1&quot; face=&quot;Wingdings,Wingdings&quot;>&lt;/font>&#xD;
+&lt;p>&#xD;
+    &lt;font lang=&quot;ZH-TW&quot; size=&quot;1&quot; face=&quot;Wingdings,Wingdings&quot;>&lt;font lang=&quot;ZH-TW&quot; size=&quot;1&quot;&#xD;
+    face=&quot;Wingdings,Wingdings&quot;>&lt;/font>&lt;/font> &lt;font size=&quot;2&quot;>&lt;font face=&quot;Times New Roman&quot;>No entrar en detalle, excepto si&#xD;
+    es imprescindible por su afección en el trabajo de otros&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+ &lt;font lang=&quot;ZH-TW&quot; size=&quot;1&quot; face=&quot;Wingdings,Wingdings&quot;>&lt;/font>&#xD;
+&lt;p>&#xD;
+    &lt;font lang=&quot;ZH-TW&quot; size=&quot;1&quot; face=&quot;Wingdings,Wingdings&quot;>&lt;font lang=&quot;ZH-TW&quot; size=&quot;1&quot;&#xD;
+    face=&quot;Wingdings,Wingdings&quot;>&lt;/font>&lt;/font> &lt;font size=&quot;2&quot;>&lt;font face=&quot;Times New Roman&quot;>No discutir sobre soluciones ni&#xD;
+    sobre los impedimentos&lt;/font>&lt;/font>&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_k6v4sAo-EeaZBN8BGKJ1FQ" name="Siguiente tarea a abordar (en curso)" guid="_k6v4sAo-EeaZBN8BGKJ1FQ"/>
+  <sections xmi:id="_nMobwAo-EeaZBN8BGKJ1FQ" name="Actividades realizadas y por realizar dentro de una tarea" guid="_nMobwAo-EeaZBN8BGKJ1FQ"/>
+  <sections xmi:id="_pnc4YAo-EeaZBN8BGKJ1FQ" name="Impedimentos detectados" guid="_pnc4YAo-EeaZBN8BGKJ1FQ"/>
+  <sections xmi:id="_r5VbcAo-EeaZBN8BGKJ1FQ" name="Cambios de estado en tarea e historia de usuario asociada" guid="_r5VbcAo-EeaZBN8BGKJ1FQ"/>
+  <sections xmi:id="_upw7sAo-EeaZBN8BGKJ1FQ" name="Nuevas tareas a añadir al sprint backlog no planificadas" guid="_upw7sAo-EeaZBN8BGKJ1FQ"/>
+  <sections xmi:id="_wq9XYAo-EeaZBN8BGKJ1FQ" name="Defectos, errores o cualquier modificación en elementos de pila de producto" guid="_wq9XYAo-EeaZBN8BGKJ1FQ"/>
+  <sections xmi:id="_3cIwQAo-EeaZBN8BGKJ1FQ" name="Reajustes a aplicar en la estimación de tareas" guid="_3cIwQAo-EeaZBN8BGKJ1FQ"/>
+  <purpose>Mantener el ritmo y la tensión del desarrollo, así com favorecer la comunicación interna.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

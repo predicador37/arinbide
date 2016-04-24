@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_jzHp0QpgEeaZBN8BGKJ1FQ" guid="_jzHp0QpgEeaZBN8BGKJ1FQ">
+    <resourceDescriptors xmi:id="_jzHp0gpgEeaZBN8BGKJ1FQ" id="-SFzyfjX3rRW4x7hcZdMnVA" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_jyXb4ApgEeaZBN8BGKJ1FQ" name="development" guid="_jyXb4ApgEeaZBN8BGKJ1FQ">
+    <methodElementProperty xmi:id="_jyXb4gpgEeaZBN8BGKJ1FQ" name="pkg_loadCheck" value="true"/>
+    <methodElementProperty xmi:id="_xqx9MApgEeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_sKN3oApgEeaZBN8BGKJ1FQ" name="backlog_bugs" guid="_sKN3oApgEeaZBN8BGKJ1FQ" presentationName="Inclusión de defectos en elementos ya construidos de pila de producto" superActivities="_jyXb4QpgEeaZBN8BGKJ1FQ" additionallyPerformedBy="_sKN3pApgEeaZBN8BGKJ1FQ _sKN3pQpgEeaZBN8BGKJ1FQ" mandatoryInput="_sKN3pgpgEeaZBN8BGKJ1FQ _sKN3pwpgEeaZBN8BGKJ1FQ" output="_sKN3pgpgEeaZBN8BGKJ1FQ _sKN3pwpgEeaZBN8BGKJ1FQ" performedPrimarilyBy="_sKN3owpgEeaZBN8BGKJ1FQ">
+      <Task href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ound0Ao8EeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_sKN3oQpgEeaZBN8BGKJ1FQ" name="complete_sprint_backlog" guid="_sKN3oQpgEeaZBN8BGKJ1FQ" presentationName="Completar los elementos de la pila del sprint" superActivities="_jyXb4QpgEeaZBN8BGKJ1FQ" additionallyPerformedBy="_sKN3pApgEeaZBN8BGKJ1FQ _sKN3pQpgEeaZBN8BGKJ1FQ" mandatoryInput="_sKN3pgpgEeaZBN8BGKJ1FQ" optionalInput="_sKN3qApgEeaZBN8BGKJ1FQ _sKN3qQpgEeaZBN8BGKJ1FQ _sKN3qgpgEeaZBN8BGKJ1FQ _sKN3qwpgEeaZBN8BGKJ1FQ" output="_sKN3pgpgEeaZBN8BGKJ1FQ" performedPrimarilyBy="_sKN3owpgEeaZBN8BGKJ1FQ">
+      <Task href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_Kb-lwAo8EeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_sKN3ogpgEeaZBN8BGKJ1FQ" name="update_sprint_tasks_stories_state" guid="_sKN3ogpgEeaZBN8BGKJ1FQ" presentationName="Actualizar estado de tareas e historias del sprint" superActivities="_jyXb4QpgEeaZBN8BGKJ1FQ" additionallyPerformedBy="_sKN3pApgEeaZBN8BGKJ1FQ _sKN3pQpgEeaZBN8BGKJ1FQ" mandatoryInput="_sKN3pgpgEeaZBN8BGKJ1FQ" output="_sKN3pgpgEeaZBN8BGKJ1FQ" performedPrimarilyBy="_sKN3owpgEeaZBN8BGKJ1FQ">
+      <Task href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_Ll6z4Ao9EeaZBN8BGKJ1FQ"/>
+      <selectedSteps href="uma://-eBNyMFpnSjSRyYpvrrOOug#_Y1fzkAo9EeaZBN8BGKJ1FQ"/>
+      <selectedSteps href="uma://-eBNyMFpnSjSRyYpvrrOOug#_aaYGsAo9EeaZBN8BGKJ1FQ"/>
+      <selectedSteps href="uma://-eBNyMFpnSjSRyYpvrrOOug#_b5JKwAo9EeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_sKN3owpgEeaZBN8BGKJ1FQ" name="team" guid="_sKN3owpgEeaZBN8BGKJ1FQ" presentationName="Equipo de desarrollo" isPlanned="false" superActivities="_jyXb4QpgEeaZBN8BGKJ1FQ" modifies="_sKN3pgpgEeaZBN8BGKJ1FQ _sKN3pwpgEeaZBN8BGKJ1FQ">
+      <Role href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_P-RmQP7vEeWZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_sKN3pApgEeaZBN8BGKJ1FQ" name="product_owner" guid="_sKN3pApgEeaZBN8BGKJ1FQ" presentationName="Dueño del Producto" isPlanned="false" superActivities="_jyXb4QpgEeaZBN8BGKJ1FQ">
+      <Role href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_0Xz88PzzEeWZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_sKN3pQpgEeaZBN8BGKJ1FQ" name="scrum_master" guid="_sKN3pQpgEeaZBN8BGKJ1FQ" presentationName="Facilitador" isPlanned="false" superActivities="_jyXb4QpgEeaZBN8BGKJ1FQ">
+      <Role href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_bn2N0Pz0EeWZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_sKN3pgpgEeaZBN8BGKJ1FQ" name="sprint_backlog" guid="_sKN3pgpgEeaZBN8BGKJ1FQ" presentationName="Pila de Sprint" isPlanned="false" superActivities="_jyXb4QpgEeaZBN8BGKJ1FQ">
+      <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_5qEeMAjPEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_sKN3pwpgEeaZBN8BGKJ1FQ" name="bugs_defects_list" guid="_sKN3pwpgEeaZBN8BGKJ1FQ" presentationName="Lista de defectos y errores" isPlanned="false" superActivities="_jyXb4QpgEeaZBN8BGKJ1FQ">
+      <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_Ph7qkApKEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_sKN3qApgEeaZBN8BGKJ1FQ" name="architecture" guid="_sKN3qApgEeaZBN8BGKJ1FQ" presentationName="Arquitectura" isPlanned="false" superActivities="_jyXb4QpgEeaZBN8BGKJ1FQ">
+      <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_HQbz8AjVEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_sKN3qQpgEeaZBN8BGKJ1FQ" name="data_model" guid="_sKN3qQpgEeaZBN8BGKJ1FQ" presentationName="Modelo de datos" isPlanned="false" superActivities="_jyXb4QpgEeaZBN8BGKJ1FQ">
+      <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_yE7DAAjVEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_sKN3qgpgEeaZBN8BGKJ1FQ" name="technical_design" guid="_sKN3qgpgEeaZBN8BGKJ1FQ" presentationName="Diseño Técnico" isPlanned="false" superActivities="_jyXb4QpgEeaZBN8BGKJ1FQ">
+      <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_DGyokAjWEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_sKN3qwpgEeaZBN8BGKJ1FQ" name="user_guide" guid="_sKN3qwpgEeaZBN8BGKJ1FQ" presentationName="Manual de usuario" isPlanned="false" superActivities="_jyXb4QpgEeaZBN8BGKJ1FQ">
+      <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_lbOZcApHEeaZBN8BGKJ1FQ"/>
+    </processElements>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_jyXb4QpgEeaZBN8BGKJ1FQ" name="development" guid="_jyXb4QpgEeaZBN8BGKJ1FQ" presentationName="development" briefDescription="Scrum aporta una aproximación incremental, el producto se construye poco a poco en ciclos limitados, al final de los cuales hay una versión parcial pero con las funcionalidades incluidas totalmente terminadas." breakdownElements="_sKN3oQpgEeaZBN8BGKJ1FQ _sKN3oApgEeaZBN8BGKJ1FQ _sKN3ogpgEeaZBN8BGKJ1FQ _sKN3owpgEeaZBN8BGKJ1FQ _sKN3pApgEeaZBN8BGKJ1FQ _sKN3pQpgEeaZBN8BGKJ1FQ _sKN3pgpgEeaZBN8BGKJ1FQ _sKN3pwpgEeaZBN8BGKJ1FQ _sKN3qApgEeaZBN8BGKJ1FQ _sKN3qQpgEeaZBN8BGKJ1FQ _sKN3qgpgEeaZBN8BGKJ1FQ _sKN3qwpgEeaZBN8BGKJ1FQ">
+      <presentation xmi:id="-SFzyfjX3rRW4x7hcZdMnVA" href="uma://-SFzyfjX3rRW4x7hcZdMnVA#-SFzyfjX3rRW4x7hcZdMnVA"/>
+      <defaultContext href="uma://_rnsX4OF4Edyp34pwdTOSVQ#_9ZyFcP7wEeWZBN8BGKJ1FQ"/>
+      <validContext href="uma://_rnsX4OF4Edyp34pwdTOSVQ#_9ZyFcP7wEeWZBN8BGKJ1FQ"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>
