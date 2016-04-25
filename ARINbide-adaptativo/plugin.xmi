@@ -148,7 +148,8 @@
     <resourceDescriptors xmi:id="_HCO0MApnEeaZBN8BGKJ1FQ" id="_HCDOAApnEeaZBN8BGKJ1FQ" uri="capabilitypatterns/sprint/model.xmi"/>
     <resourceDescriptors xmi:id="_7toBgApoEeaZBN8BGKJ1FQ" id="_7tjwEApoEeaZBN8BGKJ1FQ" uri="capabilitypatterns/ARINbide-adaptativo/model.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
-  <org.eclipse.epf.uma:MethodPlugin xmi:id="_m6mJ4PzzEeWZBN8BGKJ1FQ" name="ARINbide-adaptativo" guid="_m6mJ4PzzEeWZBN8BGKJ1FQ" briefDescription="ARINbide-Adaptativo se concibe como una propuesta de uso de la fusión de dos de las metodologías o&#xD;&#xA;marcos de trabajo ágiles más utilizados actualmente en el proceso de desarrollo del software, Scrum y&#xD;&#xA;Extreme Programming (XP), sin por ello marcar su obligatoriedad de aplicación, ni total ni parcialmente en&#xD;&#xA;el ámbito de GV-EJIE." authors="Miguel Expósito Martín">
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_m6mJ4PzzEeWZBN8BGKJ1FQ" name="ARINbide-adaptativo" guid="_m6mJ4PzzEeWZBN8BGKJ1FQ" briefDescription="ARINbide-Adaptativo se concibe como una propuesta de uso de la fusión de dos de las metodologías o marcos de trabajo ágiles más utilizados actualmente en el proceso de desarrollo del software, Scrum y Extreme Programming (XP), sin por ello marcar su obligatoriedad de aplicación, ni total ni parcialmente en el ámbito de GV-EJIE." authors="Miguel Expósito Martín">
+    <methodElementProperty xmi:id="_awynQAscEeaTy_UxFbzk6w" name="me_edited" value="true"/>
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_m6mJ4fzzEeWZBN8BGKJ1FQ" name="Content" guid="_m6mJ4fzzEeWZBN8BGKJ1FQ">
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_m6mJ4vzzEeWZBN8BGKJ1FQ" name="Categories" guid="_m6mJ4vzzEeWZBN8BGKJ1FQ">
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_m6mJ4_zzEeWZBN8BGKJ1FQ" name="Domains" guid="_m6mJ4_zzEeWZBN8BGKJ1FQ">

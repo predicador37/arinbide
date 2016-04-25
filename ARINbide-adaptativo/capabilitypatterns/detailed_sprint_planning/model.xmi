@@ -6,13 +6,13 @@
   <org.eclipse.epf.uma:ProcessComponent xmi:id="_bS81AApfEeaZBN8BGKJ1FQ" name="detailed_sprint_planning" guid="_bS81AApfEeaZBN8BGKJ1FQ">
     <methodElementProperty xmi:id="_bS81AgpfEeaZBN8BGKJ1FQ" name="pkg_loadCheck" value="true"/>
     <methodElementProperty xmi:id="_sg5uwApfEeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
-    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_ojbzoApfEeaZBN8BGKJ1FQ" name="add_dod" guid="_ojbzoApfEeaZBN8BGKJ1FQ" presentationName="Añadir definición de hecho" superActivities="_bS81AQpfEeaZBN8BGKJ1FQ" additionallyPerformedBy="_ojbzpgpfEeaZBN8BGKJ1FQ" mandatoryInput="_ojbzpwpfEeaZBN8BGKJ1FQ" output="_ojbzpwpfEeaZBN8BGKJ1FQ" performedPrimarilyBy="_ojbzpQpfEeaZBN8BGKJ1FQ">
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_ojbzoApfEeaZBN8BGKJ1FQ" name="add_dod" guid="_ojbzoApfEeaZBN8BGKJ1FQ" presentationName="Añadir definición de hecho" superActivities="_bS81AQpfEeaZBN8BGKJ1FQ" linkToPredecessor="_EOE9YAseEeabLPaUpZblLQ" additionallyPerformedBy="_ojbzpgpfEeaZBN8BGKJ1FQ" mandatoryInput="_ojbzpwpfEeaZBN8BGKJ1FQ" output="_ojbzpwpfEeaZBN8BGKJ1FQ" performedPrimarilyBy="_ojbzpQpfEeaZBN8BGKJ1FQ">
       <Task href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_kaySIAoxEeaZBN8BGKJ1FQ"/>
     </processElements>
     <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_ojbzoQpfEeaZBN8BGKJ1FQ" name="element_translation" guid="_ojbzoQpfEeaZBN8BGKJ1FQ" presentationName="Traducir elementos " superActivities="_bS81AQpfEeaZBN8BGKJ1FQ" additionallyPerformedBy="_ojbzpgpfEeaZBN8BGKJ1FQ" mandatoryInput="_ojbzpwpfEeaZBN8BGKJ1FQ" output="_ojbzpwpfEeaZBN8BGKJ1FQ" performedPrimarilyBy="_ojbzpQpfEeaZBN8BGKJ1FQ">
       <Task href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_nAxEoAorEeaZBN8BGKJ1FQ"/>
     </processElements>
-    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_ojbzogpfEeaZBN8BGKJ1FQ" name="elements_to_tasks_subdivision" guid="_ojbzogpfEeaZBN8BGKJ1FQ" presentationName="Subdividir elementos en tareas" superActivities="_bS81AQpfEeaZBN8BGKJ1FQ" additionallyPerformedBy="_ojbzpgpfEeaZBN8BGKJ1FQ" mandatoryInput="_ojbzpwpfEeaZBN8BGKJ1FQ" output="_ojbzpwpfEeaZBN8BGKJ1FQ" performedPrimarilyBy="_ojbzpQpfEeaZBN8BGKJ1FQ">
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_ojbzogpfEeaZBN8BGKJ1FQ" name="elements_to_tasks_subdivision" guid="_ojbzogpfEeaZBN8BGKJ1FQ" presentationName="Subdividir elementos en tareas" superActivities="_bS81AQpfEeaZBN8BGKJ1FQ" linkToPredecessor="_Dtv3gAseEeabLPaUpZblLQ" additionallyPerformedBy="_ojbzpgpfEeaZBN8BGKJ1FQ" mandatoryInput="_ojbzpwpfEeaZBN8BGKJ1FQ" output="_ojbzpwpfEeaZBN8BGKJ1FQ" performedPrimarilyBy="_ojbzpQpfEeaZBN8BGKJ1FQ">
       <Task href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_mqvU0AosEeaZBN8BGKJ1FQ"/>
       <selectedSteps href="uma://-X0ysMWQDiNcsdr8zl08Beg#_1Z1mgAosEeaZBN8BGKJ1FQ"/>
       <selectedSteps href="uma://-X0ysMWQDiNcsdr8zl08Beg#_41LsAAosEeaZBN8BGKJ1FQ"/>
@@ -20,10 +20,10 @@
       <selectedSteps href="uma://-X0ysMWQDiNcsdr8zl08Beg#__aSXwAosEeaZBN8BGKJ1FQ"/>
       <selectedSteps href="uma://-X0ysMWQDiNcsdr8zl08Beg#_CaqYgAotEeaZBN8BGKJ1FQ"/>
     </processElements>
-    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_ojbzowpfEeaZBN8BGKJ1FQ" name="form_pairs" guid="_ojbzowpfEeaZBN8BGKJ1FQ" presentationName="Formar parejas" superActivities="_bS81AQpfEeaZBN8BGKJ1FQ" additionallyPerformedBy="_ojbzpgpfEeaZBN8BGKJ1FQ" mandatoryInput="_ojbzpwpfEeaZBN8BGKJ1FQ" performedPrimarilyBy="_ojbzpQpfEeaZBN8BGKJ1FQ">
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_ojbzowpfEeaZBN8BGKJ1FQ" name="form_pairs" guid="_ojbzowpfEeaZBN8BGKJ1FQ" presentationName="Formar parejas" superActivities="_bS81AQpfEeaZBN8BGKJ1FQ" linkToPredecessor="_D7v3QAseEeabLPaUpZblLQ" additionallyPerformedBy="_ojbzpgpfEeaZBN8BGKJ1FQ" mandatoryInput="_ojbzpwpfEeaZBN8BGKJ1FQ" performedPrimarilyBy="_ojbzpQpfEeaZBN8BGKJ1FQ">
       <Task href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_Vn9-EAoxEeaZBN8BGKJ1FQ"/>
     </processElements>
-    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_ojbzpApfEeaZBN8BGKJ1FQ" name="task_estimation" guid="_ojbzpApfEeaZBN8BGKJ1FQ" presentationName="Estimación de tareas" superActivities="_bS81AQpfEeaZBN8BGKJ1FQ" additionallyPerformedBy="_ojbzpgpfEeaZBN8BGKJ1FQ" mandatoryInput="_ojbzpwpfEeaZBN8BGKJ1FQ" output="_ojbzpwpfEeaZBN8BGKJ1FQ" performedPrimarilyBy="_ojbzpQpfEeaZBN8BGKJ1FQ">
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_ojbzpApfEeaZBN8BGKJ1FQ" name="task_estimation" guid="_ojbzpApfEeaZBN8BGKJ1FQ" presentationName="Estimación de tareas" superActivities="_bS81AQpfEeaZBN8BGKJ1FQ" linkToPredecessor="_D0mGYAseEeabLPaUpZblLQ" additionallyPerformedBy="_ojbzpgpfEeaZBN8BGKJ1FQ" mandatoryInput="_ojbzpwpfEeaZBN8BGKJ1FQ" output="_ojbzpwpfEeaZBN8BGKJ1FQ" performedPrimarilyBy="_ojbzpQpfEeaZBN8BGKJ1FQ">
       <Task href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_RcYrQAotEeaZBN8BGKJ1FQ"/>
     </processElements>
     <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_ojbzpQpfEeaZBN8BGKJ1FQ" name="team" guid="_ojbzpQpfEeaZBN8BGKJ1FQ" presentationName="Equipo de desarrollo" isPlanned="false" superActivities="_bS81AQpfEeaZBN8BGKJ1FQ" modifies="_ojbzpwpfEeaZBN8BGKJ1FQ">
@@ -32,9 +32,13 @@
     <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_ojbzpgpfEeaZBN8BGKJ1FQ" name="scrum_master" guid="_ojbzpgpfEeaZBN8BGKJ1FQ" presentationName="Facilitador" isPlanned="false" superActivities="_bS81AQpfEeaZBN8BGKJ1FQ">
       <Role href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_bn2N0Pz0EeWZBN8BGKJ1FQ"/>
     </processElements>
-    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_ojbzpwpfEeaZBN8BGKJ1FQ" name="sprint_backlog" guid="_ojbzpwpfEeaZBN8BGKJ1FQ" presentationName="Pila de Sprint" isPlanned="false" superActivities="_bS81AQpfEeaZBN8BGKJ1FQ">
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_ojbzpwpfEeaZBN8BGKJ1FQ" name="sprint_backlog" guid="_ojbzpwpfEeaZBN8BGKJ1FQ" presentationName="Pila de Sprint" isPlanned="false" isOptional="true" superActivities="_bS81AQpfEeaZBN8BGKJ1FQ">
       <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_5qEeMAjPEeaZBN8BGKJ1FQ"/>
     </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_Dtv3gAseEeabLPaUpZblLQ" guid="_Dtv3gAseEeabLPaUpZblLQ" pred="_ojbzoQpfEeaZBN8BGKJ1FQ"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_D0mGYAseEeabLPaUpZblLQ" guid="_D0mGYAseEeabLPaUpZblLQ" pred="_ojbzogpfEeaZBN8BGKJ1FQ"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_D7v3QAseEeabLPaUpZblLQ" guid="_D7v3QAseEeabLPaUpZblLQ" pred="_ojbzpApfEeaZBN8BGKJ1FQ"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_EOE9YAseEeabLPaUpZblLQ" guid="_EOE9YAseEeabLPaUpZblLQ" pred="_ojbzowpfEeaZBN8BGKJ1FQ"/>
     <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_bS81AQpfEeaZBN8BGKJ1FQ" name="detailed_sprint_planning" guid="_bS81AQpfEeaZBN8BGKJ1FQ" presentationName="Reunión de planificación detallada del Sprint" briefDescription="Una vez seleccionados los elementos que se van a implementar en el Sprint, es necesario establecer en mayor detalle cómo se van a realizar los trabajos." breakdownElements="_ojbzoQpfEeaZBN8BGKJ1FQ _ojbzogpfEeaZBN8BGKJ1FQ _ojbzpApfEeaZBN8BGKJ1FQ _ojbzowpfEeaZBN8BGKJ1FQ _ojbzoApfEeaZBN8BGKJ1FQ _ojbzpQpfEeaZBN8BGKJ1FQ _ojbzpgpfEeaZBN8BGKJ1FQ _ojbzpwpfEeaZBN8BGKJ1FQ">
       <presentation xmi:id="-gOl-UciUBKaH_5BmHgIDXQ" href="uma://-gOl-UciUBKaH_5BmHgIDXQ#-gOl-UciUBKaH_5BmHgIDXQ"/>
       <defaultContext href="uma://_rnsX4OF4Edyp34pwdTOSVQ#_9ZyFcP7wEeWZBN8BGKJ1FQ"/>

@@ -6,10 +6,10 @@
   <org.eclipse.epf.uma:ProcessComponent xmi:id="_FVemMAphEeaZBN8BGKJ1FQ" name="daily_scrum" guid="_FVemMAphEeaZBN8BGKJ1FQ">
     <methodElementProperty xmi:id="_FVemMgphEeaZBN8BGKJ1FQ" name="pkg_loadCheck" value="true"/>
     <methodElementProperty xmi:id="_RUcSkAphEeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
-    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_OVQkoAphEeaZBN8BGKJ1FQ" name="impediments_revision" guid="_OVQkoAphEeaZBN8BGKJ1FQ" presentationName="Revisión de impedimentos" superActivities="_FVemMQphEeaZBN8BGKJ1FQ" additionallyPerformedBy="_OVQkpQphEeaZBN8BGKJ1FQ _OVQkpgphEeaZBN8BGKJ1FQ" mandatoryInput="_OVQkqgphEeaZBN8BGKJ1FQ" output="_OVQkqgphEeaZBN8BGKJ1FQ" performedPrimarilyBy="_OVQkpAphEeaZBN8BGKJ1FQ">
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_OVQkoAphEeaZBN8BGKJ1FQ" name="impediments_revision" guid="_OVQkoAphEeaZBN8BGKJ1FQ" presentationName="Revisión de impedimentos" superActivities="_FVemMQphEeaZBN8BGKJ1FQ" linkToPredecessor="_CnjrgAseEeabLPaUpZblLQ" additionallyPerformedBy="_OVQkpQphEeaZBN8BGKJ1FQ _OVQkpgphEeaZBN8BGKJ1FQ" mandatoryInput="_OVQkqgphEeaZBN8BGKJ1FQ" output="_OVQkqgphEeaZBN8BGKJ1FQ" performedPrimarilyBy="_OVQkpAphEeaZBN8BGKJ1FQ">
       <Task href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_6C4OYApREeaZBN8BGKJ1FQ"/>
     </processElements>
-    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_OVQkoQphEeaZBN8BGKJ1FQ" name="improvement_proposals" guid="_OVQkoQphEeaZBN8BGKJ1FQ" presentationName="Propuestas de mejora" superActivities="_FVemMQphEeaZBN8BGKJ1FQ" additionallyPerformedBy="_OVQkpQphEeaZBN8BGKJ1FQ _OVQkpgphEeaZBN8BGKJ1FQ" mandatoryInput="_OVQkqwphEeaZBN8BGKJ1FQ _OVQkqgphEeaZBN8BGKJ1FQ _OVQkrAphEeaZBN8BGKJ1FQ _OVQkrQphEeaZBN8BGKJ1FQ" output="_OVQkrAphEeaZBN8BGKJ1FQ" performedPrimarilyBy="_OVQkpAphEeaZBN8BGKJ1FQ">
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_OVQkoQphEeaZBN8BGKJ1FQ" name="improvement_proposals" guid="_OVQkoQphEeaZBN8BGKJ1FQ" presentationName="Propuestas de mejora" superActivities="_FVemMQphEeaZBN8BGKJ1FQ" linkToPredecessor="_CvwlQAseEeabLPaUpZblLQ" additionallyPerformedBy="_OVQkpQphEeaZBN8BGKJ1FQ _OVQkpgphEeaZBN8BGKJ1FQ" mandatoryInput="_OVQkqwphEeaZBN8BGKJ1FQ _OVQkqgphEeaZBN8BGKJ1FQ _OVQkrAphEeaZBN8BGKJ1FQ _OVQkrQphEeaZBN8BGKJ1FQ" output="_OVQkrAphEeaZBN8BGKJ1FQ" performedPrimarilyBy="_OVQkpAphEeaZBN8BGKJ1FQ">
       <Task href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_JxKFIApSEeaZBN8BGKJ1FQ"/>
     </processElements>
     <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_OVQkowphEeaZBN8BGKJ1FQ" name="team_member_communication" guid="_OVQkowphEeaZBN8BGKJ1FQ" presentationName="Comunicación de cada miembro del equipo" superActivities="_FVemMQphEeaZBN8BGKJ1FQ" additionallyPerformedBy="_OVQkpgphEeaZBN8BGKJ1FQ _OVQkpQphEeaZBN8BGKJ1FQ" mandatoryInput="_OVQkqgphEeaZBN8BGKJ1FQ _OVQkrAphEeaZBN8BGKJ1FQ _OVQkrQphEeaZBN8BGKJ1FQ _OVQkqwphEeaZBN8BGKJ1FQ" output="_OVQkqwphEeaZBN8BGKJ1FQ _OVQkqgphEeaZBN8BGKJ1FQ _OVQkrAphEeaZBN8BGKJ1FQ _OVQkrQphEeaZBN8BGKJ1FQ" performedPrimarilyBy="_OVQkpAphEeaZBN8BGKJ1FQ">
@@ -22,7 +22,7 @@
       <selectedSteps href="uma://-nWMuz8s1wptoaY3Gom5ijg#_wq9XYAo-EeaZBN8BGKJ1FQ"/>
       <selectedSteps href="uma://-nWMuz8s1wptoaY3Gom5ijg#_3cIwQAo-EeaZBN8BGKJ1FQ"/>
     </processElements>
-    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_OVQkpAphEeaZBN8BGKJ1FQ" name="scrum_master" guid="_OVQkpAphEeaZBN8BGKJ1FQ" presentationName="Facilitador" isPlanned="false" superActivities="_FVemMQphEeaZBN8BGKJ1FQ" modifies="_OVQkqgphEeaZBN8BGKJ1FQ _OVQkrAphEeaZBN8BGKJ1FQ _OVQkqwphEeaZBN8BGKJ1FQ _OVQkrQphEeaZBN8BGKJ1FQ">
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_OVQkpAphEeaZBN8BGKJ1FQ" name="scrum_master" guid="_OVQkpAphEeaZBN8BGKJ1FQ" presentationName="Facilitador" isPlanned="false" superActivities="_FVemMQphEeaZBN8BGKJ1FQ" modifies="_OVQkrAphEeaZBN8BGKJ1FQ _OVQkqgphEeaZBN8BGKJ1FQ _OVQkqwphEeaZBN8BGKJ1FQ _OVQkrQphEeaZBN8BGKJ1FQ">
       <Role href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_bn2N0Pz0EeWZBN8BGKJ1FQ"/>
     </processElements>
     <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_OVQkpQphEeaZBN8BGKJ1FQ" name="team" guid="_OVQkpQphEeaZBN8BGKJ1FQ" presentationName="Equipo de desarrollo" isPlanned="false" superActivities="_FVemMQphEeaZBN8BGKJ1FQ">
@@ -31,21 +31,24 @@
     <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_OVQkpgphEeaZBN8BGKJ1FQ" name="product_owner" guid="_OVQkpgphEeaZBN8BGKJ1FQ" presentationName="Dueño del Producto" isPlanned="false" superActivities="_FVemMQphEeaZBN8BGKJ1FQ">
       <Role href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_0Xz88PzzEeWZBN8BGKJ1FQ"/>
     </processElements>
-    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_OVQkqgphEeaZBN8BGKJ1FQ" name="impediments_backlog" guid="_OVQkqgphEeaZBN8BGKJ1FQ" presentationName="Pila de impedimentos" isPlanned="false" superActivities="_FVemMQphEeaZBN8BGKJ1FQ">
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_OVQkqgphEeaZBN8BGKJ1FQ" name="impediments_backlog" guid="_OVQkqgphEeaZBN8BGKJ1FQ" presentationName="Pila de impedimentos" isPlanned="false" isOptional="true" superActivities="_FVemMQphEeaZBN8BGKJ1FQ">
       <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_HPPcoAo_EeaZBN8BGKJ1FQ"/>
     </processElements>
-    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_OVQkqwphEeaZBN8BGKJ1FQ" name="bugs_defects_list" guid="_OVQkqwphEeaZBN8BGKJ1FQ" presentationName="Lista de defectos y errores" isPlanned="false" superActivities="_FVemMQphEeaZBN8BGKJ1FQ">
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_OVQkqwphEeaZBN8BGKJ1FQ" name="bugs_defects_list" guid="_OVQkqwphEeaZBN8BGKJ1FQ" presentationName="Lista de defectos y errores" isPlanned="false" isOptional="true" superActivities="_FVemMQphEeaZBN8BGKJ1FQ">
       <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_Ph7qkApKEeaZBN8BGKJ1FQ"/>
     </processElements>
     <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_OVQkrAphEeaZBN8BGKJ1FQ" name="monitoring" guid="_OVQkrAphEeaZBN8BGKJ1FQ" presentationName="Monitorización" isPlanned="false" superActivities="_FVemMQphEeaZBN8BGKJ1FQ">
       <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_mSxL0ApPEeaZBN8BGKJ1FQ"/>
     </processElements>
-    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_OVQkrQphEeaZBN8BGKJ1FQ" name="sprint_backlog" guid="_OVQkrQphEeaZBN8BGKJ1FQ" presentationName="Pila de Sprint" isPlanned="false" superActivities="_FVemMQphEeaZBN8BGKJ1FQ">
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_OVQkrQphEeaZBN8BGKJ1FQ" name="sprint_backlog" guid="_OVQkrQphEeaZBN8BGKJ1FQ" presentationName="Pila de Sprint" isPlanned="false" isOptional="true" superActivities="_FVemMQphEeaZBN8BGKJ1FQ">
       <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_5qEeMAjPEeaZBN8BGKJ1FQ"/>
     </processElements>
-    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_UAQYkAphEeaZBN8BGKJ1FQ" name="monitoring_update" guid="_UAQYkAphEeaZBN8BGKJ1FQ" presentationName="Actualizar monitorización" superActivities="_FVemMQphEeaZBN8BGKJ1FQ" additionallyPerformedBy="_OVQkpQphEeaZBN8BGKJ1FQ _OVQkpgphEeaZBN8BGKJ1FQ" mandatoryInput="_OVQkqwphEeaZBN8BGKJ1FQ _OVQkqgphEeaZBN8BGKJ1FQ _OVQkrAphEeaZBN8BGKJ1FQ _OVQkrQphEeaZBN8BGKJ1FQ" output="_OVQkrAphEeaZBN8BGKJ1FQ" performedPrimarilyBy="_OVQkpAphEeaZBN8BGKJ1FQ">
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_UAQYkAphEeaZBN8BGKJ1FQ" name="monitoring_update" guid="_UAQYkAphEeaZBN8BGKJ1FQ" presentationName="Actualizar monitorización" superActivities="_FVemMQphEeaZBN8BGKJ1FQ" linkToPredecessor="_C-gy8AseEeabLPaUpZblLQ" additionallyPerformedBy="_OVQkpQphEeaZBN8BGKJ1FQ _OVQkpgphEeaZBN8BGKJ1FQ" mandatoryInput="_OVQkqwphEeaZBN8BGKJ1FQ _OVQkqgphEeaZBN8BGKJ1FQ _OVQkrAphEeaZBN8BGKJ1FQ _OVQkrQphEeaZBN8BGKJ1FQ" output="_OVQkrAphEeaZBN8BGKJ1FQ" performedPrimarilyBy="_OVQkpAphEeaZBN8BGKJ1FQ">
       <Task href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_bN_vcApSEeaZBN8BGKJ1FQ"/>
     </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_CnjrgAseEeabLPaUpZblLQ" guid="_CnjrgAseEeabLPaUpZblLQ" pred="_OVQkowphEeaZBN8BGKJ1FQ"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_CvwlQAseEeabLPaUpZblLQ" guid="_CvwlQAseEeabLPaUpZblLQ" pred="_OVQkoAphEeaZBN8BGKJ1FQ"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_C-gy8AseEeabLPaUpZblLQ" guid="_C-gy8AseEeabLPaUpZblLQ" pred="_OVQkoQphEeaZBN8BGKJ1FQ"/>
     <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_FVemMQphEeaZBN8BGKJ1FQ" name="daily_scrum" guid="_FVemMQphEeaZBN8BGKJ1FQ" presentationName="daily_scrum" briefDescription="Reunión diaria que facilita la sincronización entre todos los miembros del equipo, mantiene el ritmo y “tensión”, y fomenta la comunicación interna." breakdownElements="_OVQkowphEeaZBN8BGKJ1FQ _OVQkoAphEeaZBN8BGKJ1FQ _OVQkoQphEeaZBN8BGKJ1FQ _OVQkpAphEeaZBN8BGKJ1FQ _OVQkpQphEeaZBN8BGKJ1FQ _OVQkpgphEeaZBN8BGKJ1FQ _OVQkqgphEeaZBN8BGKJ1FQ _OVQkqwphEeaZBN8BGKJ1FQ _OVQkrAphEeaZBN8BGKJ1FQ _OVQkrQphEeaZBN8BGKJ1FQ _UAQYkAphEeaZBN8BGKJ1FQ">
       <presentation xmi:id="-yMs1itUxFfwE1OcBTVu_vA" href="uma://-yMs1itUxFfwE1OcBTVu_vA#-yMs1itUxFfwE1OcBTVu_vA"/>
       <defaultContext href="uma://_rnsX4OF4Edyp34pwdTOSVQ#_9ZyFcP7wEeWZBN8BGKJ1FQ"/>

@@ -6,13 +6,13 @@
   <org.eclipse.epf.uma:ProcessComponent xmi:id="_MPnOIApeEeaZBN8BGKJ1FQ" name="refinement" guid="_MPnOIApeEeaZBN8BGKJ1FQ">
     <methodElementProperty xmi:id="_MPnOIgpeEeaZBN8BGKJ1FQ" name="pkg_loadCheck" value="true"/>
     <methodElementProperty xmi:id="_5UHYAApeEeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
-    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_gfp_4ApeEeaZBN8BGKJ1FQ" name="check_priorities" guid="_gfp_4ApeEeaZBN8BGKJ1FQ" presentationName="Asegurar correcta priorización" superActivities="_MPnOIQpeEeaZBN8BGKJ1FQ" additionallyPerformedBy="_gf860QpeEeaZBN8BGKJ1FQ" mandatoryInput="_ggGEwApeEeaZBN8BGKJ1FQ" output="_ggGEwApeEeaZBN8BGKJ1FQ" performedPrimarilyBy="_gf860ApeEeaZBN8BGKJ1FQ">
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_gfp_4ApeEeaZBN8BGKJ1FQ" name="check_priorities" guid="_gfp_4ApeEeaZBN8BGKJ1FQ" presentationName="Asegurar correcta priorización" superActivities="_MPnOIQpeEeaZBN8BGKJ1FQ" linkToPredecessor="_EzohgAseEeabLPaUpZblLQ" additionallyPerformedBy="_gf860QpeEeaZBN8BGKJ1FQ" mandatoryInput="_ggGEwApeEeaZBN8BGKJ1FQ" output="_ggGEwApeEeaZBN8BGKJ1FQ" performedPrimarilyBy="_gf860ApeEeaZBN8BGKJ1FQ">
       <Task href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_oG-n8AntEeaZBN8BGKJ1FQ"/>
     </processElements>
-    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_gfp_4QpeEeaZBN8BGKJ1FQ" name="check_stories_detail" guid="_gfp_4QpeEeaZBN8BGKJ1FQ" presentationName="Asegurar detalle de historias de usuario" superActivities="_MPnOIQpeEeaZBN8BGKJ1FQ" additionallyPerformedBy="_gf860QpeEeaZBN8BGKJ1FQ" mandatoryInput="_ggGEwApeEeaZBN8BGKJ1FQ" output="_ggGEwApeEeaZBN8BGKJ1FQ" performedPrimarilyBy="_gf860ApeEeaZBN8BGKJ1FQ">
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_gfp_4QpeEeaZBN8BGKJ1FQ" name="check_stories_detail" guid="_gfp_4QpeEeaZBN8BGKJ1FQ" presentationName="Asegurar detalle de historias de usuario" superActivities="_MPnOIQpeEeaZBN8BGKJ1FQ" linkToPredecessor="_E5vJgAseEeabLPaUpZblLQ" additionallyPerformedBy="_gf860QpeEeaZBN8BGKJ1FQ" mandatoryInput="_ggGEwApeEeaZBN8BGKJ1FQ" output="_ggGEwApeEeaZBN8BGKJ1FQ" performedPrimarilyBy="_gf860ApeEeaZBN8BGKJ1FQ">
       <Task href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_0xTlgAntEeaZBN8BGKJ1FQ"/>
     </processElements>
-    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_gfzJ0ApeEeaZBN8BGKJ1FQ" name="exploration_needs_spikes" guid="_gfzJ0ApeEeaZBN8BGKJ1FQ" presentationName="Identificar necesidades de exploración y definir spikes" superActivities="_MPnOIQpeEeaZBN8BGKJ1FQ" additionallyPerformedBy="_gf860QpeEeaZBN8BGKJ1FQ" mandatoryInput="_ggGEwApeEeaZBN8BGKJ1FQ" output="_ggGEwApeEeaZBN8BGKJ1FQ" performedPrimarilyBy="_gf860ApeEeaZBN8BGKJ1FQ">
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_gfzJ0ApeEeaZBN8BGKJ1FQ" name="exploration_needs_spikes" guid="_gfzJ0ApeEeaZBN8BGKJ1FQ" presentationName="Identificar necesidades de exploración y definir spikes" superActivities="_MPnOIQpeEeaZBN8BGKJ1FQ" linkToPredecessor="_FnJpIAseEeabLPaUpZblLQ" additionallyPerformedBy="_gf860QpeEeaZBN8BGKJ1FQ" mandatoryInput="_ggGEwApeEeaZBN8BGKJ1FQ" output="_ggGEwApeEeaZBN8BGKJ1FQ" performedPrimarilyBy="_gf860ApeEeaZBN8BGKJ1FQ">
       <Task href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_TjrtkAnuEeaZBN8BGKJ1FQ"/>
     </processElements>
     <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_gfzJ0QpeEeaZBN8BGKJ1FQ" name="product_backlog_maintenance" guid="_gfzJ0QpeEeaZBN8BGKJ1FQ" presentationName="Mantener pila de producto" superActivities="_MPnOIQpeEeaZBN8BGKJ1FQ" additionallyPerformedBy="_gf860QpeEeaZBN8BGKJ1FQ" mandatoryInput="_ggGEwApeEeaZBN8BGKJ1FQ" output="_ggGEwApeEeaZBN8BGKJ1FQ" performedPrimarilyBy="_gf860ApeEeaZBN8BGKJ1FQ">
@@ -21,7 +21,7 @@
       <selectedSteps href="uma://-swJMQbkGx42ZobzdtIFWZQ#_TJao4AntEeaZBN8BGKJ1FQ"/>
       <selectedSteps href="uma://-swJMQbkGx42ZobzdtIFWZQ#_Udv-kAntEeaZBN8BGKJ1FQ"/>
     </processElements>
-    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_gfzJ0gpeEeaZBN8BGKJ1FQ" name="stories_estimation_refinement" guid="_gfzJ0gpeEeaZBN8BGKJ1FQ" presentationName="Refinar estimaciones de historias de usuario" superActivities="_MPnOIQpeEeaZBN8BGKJ1FQ" mandatoryInput="_ggGEwApeEeaZBN8BGKJ1FQ" output="_ggGEwApeEeaZBN8BGKJ1FQ" performedPrimarilyBy="_gf860QpeEeaZBN8BGKJ1FQ _gf860ApeEeaZBN8BGKJ1FQ">
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_gfzJ0gpeEeaZBN8BGKJ1FQ" name="stories_estimation_refinement" guid="_gfzJ0gpeEeaZBN8BGKJ1FQ" presentationName="Refinar estimaciones de historias de usuario" superActivities="_MPnOIQpeEeaZBN8BGKJ1FQ" linkToPredecessor="_FXW5oAseEeabLPaUpZblLQ" mandatoryInput="_ggGEwApeEeaZBN8BGKJ1FQ" output="_ggGEwApeEeaZBN8BGKJ1FQ" performedPrimarilyBy="_gf860QpeEeaZBN8BGKJ1FQ _gf860ApeEeaZBN8BGKJ1FQ">
       <Task href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_EdWAkAnuEeaZBN8BGKJ1FQ"/>
     </processElements>
     <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_gf860ApeEeaZBN8BGKJ1FQ" name="product_owner" guid="_gf860ApeEeaZBN8BGKJ1FQ" presentationName="Dueño del Producto" isPlanned="false" superActivities="_MPnOIQpeEeaZBN8BGKJ1FQ" modifies="_ggGEwApeEeaZBN8BGKJ1FQ">
@@ -33,6 +33,10 @@
     <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_ggGEwApeEeaZBN8BGKJ1FQ" name="product_backlog" guid="_ggGEwApeEeaZBN8BGKJ1FQ" presentationName="Pila de producto" isPlanned="false" superActivities="_MPnOIQpeEeaZBN8BGKJ1FQ">
       <WorkProduct href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_Z8pHUAjIEeaZBN8BGKJ1FQ"/>
     </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_EzohgAseEeabLPaUpZblLQ" guid="_EzohgAseEeabLPaUpZblLQ" pred="_gfzJ0QpeEeaZBN8BGKJ1FQ"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_E5vJgAseEeabLPaUpZblLQ" guid="_E5vJgAseEeabLPaUpZblLQ" pred="_gfp_4ApeEeaZBN8BGKJ1FQ"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_FXW5oAseEeabLPaUpZblLQ" guid="_FXW5oAseEeabLPaUpZblLQ" pred="_gfp_4QpeEeaZBN8BGKJ1FQ"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_FnJpIAseEeabLPaUpZblLQ" guid="_FnJpIAseEeabLPaUpZblLQ" pred="_gfzJ0gpeEeaZBN8BGKJ1FQ"/>
     <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_MPnOIQpeEeaZBN8BGKJ1FQ" name="refinement" guid="_MPnOIQpeEeaZBN8BGKJ1FQ" presentationName="Refinamiento" briefDescription="Actualizar la pila de producto con estimaciones, spikes, correcta priorización, etc." breakdownElements="_gfzJ0QpeEeaZBN8BGKJ1FQ _gfp_4ApeEeaZBN8BGKJ1FQ _gfp_4QpeEeaZBN8BGKJ1FQ _gfzJ0gpeEeaZBN8BGKJ1FQ _gfzJ0ApeEeaZBN8BGKJ1FQ _gf860ApeEeaZBN8BGKJ1FQ _gf860QpeEeaZBN8BGKJ1FQ _ggGEwApeEeaZBN8BGKJ1FQ">
       <presentation xmi:id="-swJhFFZ86sv5rAxNZ9rlEQ" href="uma://-swJhFFZ86sv5rAxNZ9rlEQ#-swJhFFZ86sv5rAxNZ9rlEQ"/>
       <defaultContext href="uma://_rnsX4OF4Edyp34pwdTOSVQ#_9ZyFcP7wEeWZBN8BGKJ1FQ"/>
