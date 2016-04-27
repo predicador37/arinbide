@@ -7,12 +7,12 @@
     <methodElementProperty xmi:id="_7tjwEgpoEeaZBN8BGKJ1FQ" name="pkg_loadCheck" value="true"/>
     <methodElementProperty xmi:id="_BTfd0AppEeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
     <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_8z9XcApoEeaZBN8BGKJ1FQ" name="Sprint 0" guid="_8z9XcApoEeaZBN8BGKJ1FQ">
-      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_8z9XcQpoEeaZBN8BGKJ1FQ" name="Sprint 0" guid="_8z9XcQpoEeaZBN8BGKJ1FQ" presentationName="Sprint 0" superActivities="_7tjwEQpoEeaZBN8BGKJ1FQ" variabilityType="extends">
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_8z9XcQpoEeaZBN8BGKJ1FQ" name="Sprint 0" guid="_8z9XcQpoEeaZBN8BGKJ1FQ" presentationName="Sprint 0" superActivities="_7tjwEQpoEeaZBN8BGKJ1FQ" variabilityType="extends">
         <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_KCNeMP70EeWZBN8BGKJ1FQ#_KCNeMf70EeWZBN8BGKJ1FQ"/>
       </processElements>
     </childPackages>
-    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_CILqIAppEeaZBN8BGKJ1FQ" name="Sprint (iteración)" guid="_CILqIAppEeaZBN8BGKJ1FQ">
-      <processElements xsi:type="org.eclipse.epf.uma:Iteration" xmi:id="_CILqIQppEeaZBN8BGKJ1FQ" name="Sprint (iteración)" guid="_CILqIQppEeaZBN8BGKJ1FQ" presentationName="Sprint (iteración)" superActivities="_7tjwEQpoEeaZBN8BGKJ1FQ" isRepeatable="true" linkToPredecessor="_WZp1kAvlEealtoOQre6j1Q" variabilityType="extends">
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_CILqIAppEeaZBN8BGKJ1FQ" name="Sprint" guid="_CILqIAppEeaZBN8BGKJ1FQ">
+      <processElements xsi:type="org.eclipse.epf.uma:Iteration" xmi:id="_CILqIQppEeaZBN8BGKJ1FQ" name="Sprint" guid="_CILqIQppEeaZBN8BGKJ1FQ" presentationName="Sprint (iteración)" superActivities="_7tjwEQpoEeaZBN8BGKJ1FQ" isRepeatable="true" linkToPredecessor="_WZp1kAvlEealtoOQre6j1Q" variabilityType="extends">
         <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_HCDOAApnEeaZBN8BGKJ1FQ#_HCDOAQpnEeaZBN8BGKJ1FQ"/>
       </processElements>
       <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_WZp1kAvlEealtoOQre6j1Q" guid="_WZp1kAvlEealtoOQre6j1Q" pred="_8z9XcQpoEeaZBN8BGKJ1FQ"/>

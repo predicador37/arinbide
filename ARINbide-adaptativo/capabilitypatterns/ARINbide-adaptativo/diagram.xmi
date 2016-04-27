@@ -123,7 +123,7 @@
     <node xmi:type="uml:StructuredActivityNode" xmi:id="_sWNPoAvpEealtoOQre6j1Q" name="Sprint 0" outgoing="_sWNPqAvpEealtoOQre6j1Q">
       <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_sWNPoQvpEealtoOQre6j1Q" source="uma_element">
         <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_sWNPogvpEealtoOQre6j1Q" key="uri" value="uma://_7tjwEApoEeaZBN8BGKJ1FQ#_8z9XcQpoEeaZBN8BGKJ1FQ"/>
-        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_sWNPowvpEealtoOQre6j1Q" key="type" value="Activity"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_sWNPowvpEealtoOQre6j1Q" key="type" value="Phase"/>
       </eAnnotations>
     </node>
     <node xmi:type="uml:StructuredActivityNode" xmi:id="_sWNPpAvpEealtoOQre6j1Q" name="Sprint (iteración)" incoming="_sWNPqAvpEealtoOQre6j1Q">
@@ -135,8 +135,8 @@
     <edge xmi:type="uml:ControlFlow" xmi:id="_sWNPqAvpEealtoOQre6j1Q" source="_sWNPoAvpEealtoOQre6j1Q" target="_sWNPpAvpEealtoOQre6j1Q"/>
   </uml:Activity>
   <notation:Diagram xmi:id="_sVxKxAvpEealtoOQre6j1Q" type="AD" element="_sVxKwAvpEealtoOQre6j1Q" name="ARINbide-adaptativo" measurementUnit="Pixel">
-    <children xmi:type="notation:Node" xmi:id="_sWNPqQvpEealtoOQre6j1Q" type="1007" element="_sWNPoAvpEealtoOQre6j1Q">
-      <children xmi:type="notation:Node" xmi:id="_sWNPrwvpEealtoOQre6j1Q" type="4005"/>
+    <children xmi:type="notation:Node" xmi:id="_sWNPqQvpEealtoOQre6j1Q" type="1010" element="_sWNPoAvpEealtoOQre6j1Q">
+      <children xmi:type="notation:Node" xmi:id="_sWNPrwvpEealtoOQre6j1Q" type="4009"/>
       <styles xmi:type="notation:FontStyle" xmi:id="_sWNPqgvpEealtoOQre6j1Q" fontName="Arial" fontHeight="8"/>
       <styles xmi:type="notation:DescriptionStyle" xmi:id="_sWNPqwvpEealtoOQre6j1Q"/>
       <styles xmi:type="notation:FillStyle" xmi:id="_sWNPrAvpEealtoOQre6j1Q"/>

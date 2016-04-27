@@ -177,6 +177,11 @@
     <resourceDescriptors xmi:id="_9qCf8gyOEeamnqmrDkZ-9w" id="-mosowAtbvJ4JdXqPaMEjQw" uri="rolesets/team.xmi"/>
     <resourceDescriptors xmi:id="_9qMQ8AyOEeamnqmrDkZ-9w" id="-nDvTV4SQPoph6uQKbb2VzA" uri="rolesets/main_scrum_roles.xmi"/>
     <resourceDescriptors xmi:id="_9qMQ8QyOEeamnqmrDkZ-9w" id="-wU8EFPxJtwwSexFjCtHT2Q" uri="rolesets/stakeholders.xmi"/>
+    <resourceDescriptors xmi:id="_OQfC4QyREeamnqmrDkZ-9w" id="-PswvIBkI4eggzeChBBFhzQ" uri="workproducttypes/analysis.xmi"/>
+    <resourceDescriptors xmi:id="_i0MXgAyREeamnqmrDkZ-9w" id="-8Sb_sG1QRQqHFtYnf6_OJA" uri="workproducttypes/design.xmi"/>
+    <resourceDescriptors xmi:id="_uvbacQyREeamnqmrDkZ-9w" id="-7WAmFgs7BnVGLwfdFZkc5g" uri="workproducttypes/artefactos_eventos_de_scrum.xmi"/>
+    <resourceDescriptors xmi:id="_J1oLsQySEeamnqmrDkZ-9w" id="-QNL5d5R2wjGgiHSjpdFnOA" uri="workproducttypes/project_tracking.xmi"/>
+    <resourceDescriptors xmi:id="_88nccgySEeamnqmrDkZ-9w" id="-5IyKlGZC0Nq1WY_Q3jtWYQ" uri="workproducttypes/code_testing.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_m6mJ4PzzEeWZBN8BGKJ1FQ" name="ARINbide-adaptativo" guid="_m6mJ4PzzEeWZBN8BGKJ1FQ" briefDescription="ARINbide-Adaptativo se concibe como una propuesta de uso de la fusión de dos de las metodologías o marcos de trabajo ágiles más utilizados actualmente en el proceso de desarrollo del software, Scrum y Extreme Programming (XP), sin por ello marcar su obligatoriedad de aplicación, ni total ni parcialmente en el ámbito de GV-EJIE." authors="Miguel Expósito Martín">
     <methodElementProperty xmi:id="_awynQAscEeaTy_UxFbzk6w" name="me_edited" value="true"/>
@@ -222,16 +227,78 @@
             <presentation xmi:id="-wU8EFPxJtwwSexFjCtHT2Q" href="uma://-wU8EFPxJtwwSexFjCtHT2Q#-wU8EFPxJtwwSexFjCtHT2Q"/>
           </contentElements>
         </childPackages>
-        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_m6mJ5vzzEeWZBN8BGKJ1FQ" name="WP Types" guid="_m6mJ5vzzEeWZBN8BGKJ1FQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_m6mJ5vzzEeWZBN8BGKJ1FQ" name="WP Types" guid="_m6mJ5vzzEeWZBN8BGKJ1FQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:WorkProductType" xmi:id="_BtnYMAyREeamnqmrDkZ-9w" name="analysis" guid="_BtnYMAyREeamnqmrDkZ-9w" presentationName="Análisis" briefDescription="Productos de trabajo relacionados con el análisis del sistema de información" workProducts="_Wi2FgAi-EeaZBN8BGKJ1FQ _fE1owAceEeaZBN8BGKJ1FQ _qKE30AceEeaZBN8BGKJ1FQ _BwI2MP43EeWZBN8BGKJ1FQ _H0W7EP46EeWZBN8BGKJ1FQ _VqpJIAAhEeaZBN8BGKJ1FQ _icIxMAcdEeaZBN8BGKJ1FQ _Qm1AwAjDEeaZBN8BGKJ1FQ _yGS2oAjCEeaZBN8BGKJ1FQ _NXMmkAjEEeaZBN8BGKJ1FQ _2PSWIAceEeaZBN8BGKJ1FQ _nUKUUAjDEeaZBN8BGKJ1FQ">
+            <methodElementProperty xmi:id="_X_paYAySEeamnqmrDkZ-9w" name="me_edited" value="true"/>
+            <presentation xmi:id="-PswvIBkI4eggzeChBBFhzQ" href="uma://-PswvIBkI4eggzeChBBFhzQ#-PswvIBkI4eggzeChBBFhzQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:WorkProductType" xmi:id="_OQV48AyREeamnqmrDkZ-9w" name="design" guid="_OQV48AyREeamnqmrDkZ-9w" presentationName="Diseño" briefDescription="Productos relacionados con el diseño del sistema" workProducts="_HQbz8AjVEeaZBN8BGKJ1FQ _yE7DAAjVEeaZBN8BGKJ1FQ _DGyokAjWEeaZBN8BGKJ1FQ">
+            <methodElementProperty xmi:id="_X_zLYAySEeamnqmrDkZ-9w" name="me_edited" value="true"/>
+            <presentation xmi:id="-8Sb_sG1QRQqHFtYnf6_OJA" href="uma://-8Sb_sG1QRQqHFtYnf6_OJA#-8Sb_sG1QRQqHFtYnf6_OJA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:WorkProductType" xmi:id="_i0DNkAyREeamnqmrDkZ-9w" name="artefactos_eventos_de_scrum" guid="_i0DNkAyREeamnqmrDkZ-9w" presentationName="Artefactos, eventos de Scrum" briefDescription="Productos de trabajo propios de la metodología Scrum" workProducts="_ayBiEAjGEeaZBN8BGKJ1FQ _Z8pHUAjIEeaZBN8BGKJ1FQ _NHy0cAjLEeaZBN8BGKJ1FQ _5qEeMAjPEeaZBN8BGKJ1FQ _Pn9LUApQEeaZBN8BGKJ1FQ _PdrqkAjHEeaZBN8BGKJ1FQ _5dY_AAjNEeaZBN8BGKJ1FQ _iTN4EAjFEeaZBN8BGKJ1FQ _DffIUAjJEeaZBN8BGKJ1FQ _4qS4kApWEeaZBN8BGKJ1FQ">
+            <methodElementProperty xmi:id="_YAGGUAySEeamnqmrDkZ-9w" name="me_edited" value="true"/>
+            <presentation xmi:id="-7WAmFgs7BnVGLwfdFZkc5g" href="uma://-7WAmFgs7BnVGLwfdFZkc5g#-7WAmFgs7BnVGLwfdFZkc5g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:WorkProductType" xmi:id="_uvSQgAyREeamnqmrDkZ-9w" name="project_tracking" guid="_uvSQgAyREeamnqmrDkZ-9w" presentationName="Seguimiento y control del proyecto" briefDescription="Productos de trabajo relacionados con el seguimiento y control de proyecto y ajenos a Scrum como tal" workProducts="_6XLVUApPEeaZBN8BGKJ1FQ _-ZkFUApSEeaZBN8BGKJ1FQ _mSxL0ApPEeaZBN8BGKJ1FQ _HPPcoAo_EeaZBN8BGKJ1FQ _dQp48AjMEeaZBN8BGKJ1FQ">
+            <methodElementProperty xmi:id="_YAiyQAySEeamnqmrDkZ-9w" name="me_edited" value="true"/>
+            <presentation xmi:id="-QNL5d5R2wjGgiHSjpdFnOA" href="uma://-QNL5d5R2wjGgiHSjpdFnOA#-QNL5d5R2wjGgiHSjpdFnOA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:WorkProductType" xmi:id="_yRsK0AySEeamnqmrDkZ-9w" name="code_testing" guid="_yRsK0AySEeamnqmrDkZ-9w" presentationName="Codificación y pruebas" briefDescription="Productos de trabajo relacionados con la codificación, pruebas, refactorización, etc." workProducts="_Ph7qkApKEeaZBN8BGKJ1FQ _DffIUAjJEeaZBN8BGKJ1FQ _7ZOdoApOEeaZBN8BGKJ1FQ">
+            <methodElementProperty xmi:id="_88nccAySEeamnqmrDkZ-9w" name="me_edited" value="true"/>
+            <presentation xmi:id="-5IyKlGZC0Nq1WY_Q3jtWYQ" href="uma://-5IyKlGZC0Nq1WY_Q3jtWYQ#-5IyKlGZC0Nq1WY_Q3jtWYQ"/>
+          </contentElements>
+        </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_m6mJ5_zzEeWZBN8BGKJ1FQ" name="Tools" guid="_m6mJ5_zzEeWZBN8BGKJ1FQ"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_m6mJ6PzzEeWZBN8BGKJ1FQ" name="StandardCategories" guid="_m6mJ6PzzEeWZBN8BGKJ1FQ"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_m6mJ6fzzEeWZBN8BGKJ1FQ" name="CustomCategories" guid="_m6mJ6fzzEeWZBN8BGKJ1FQ">
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_m6mJ6vzzEeWZBN8BGKJ1FQ" name="Hidden" guid="_m6mJ6vzzEeWZBN8BGKJ1FQ">
-            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_m6mJ6_zzEeWZBN8BGKJ1FQ" name="Custom Categories" guid="_m6mJ6_zzEeWZBN8BGKJ1FQ" categorizedElements="_USD1EP4-EeWZBN8BGKJ1FQ"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_m6mJ6_zzEeWZBN8BGKJ1FQ" name="Custom Categories" guid="_m6mJ6_zzEeWZBN8BGKJ1FQ" categorizedElements="_USD1EP4-EeWZBN8BGKJ1FQ _Ul9UMAyyEeamnqmrDkZ-9w _bi54MAyyEeamnqmrDkZ-9w _e_JVkAyyEeamnqmrDkZ-9w _jtyO8AyyEeamnqmrDkZ-9w _uB6KIAyyEeamnqmrDkZ-9w _-qvkoAyyEeamnqmrDkZ-9w _Yf1TUAyzEeamnqmrDkZ-9w _E-zuQAy0EeamnqmrDkZ-9w"/>
           </childPackages>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_USD1EP4-EeWZBN8BGKJ1FQ" name="technique" guid="_USD1EP4-EeWZBN8BGKJ1FQ" presentationName="Técnica" briefDescription="Conjunto de procedimientos que se basan en reglas y notaciones específicas en términos de sintaxis, semántica y gráficos, orientadas a la obtención de productos en el desarrollo de un sistema de información." categorizedElements="_fNNwgP49EeWZBN8BGKJ1FQ _bS7hsP48EeWZBN8BGKJ1FQ _oEOYAP4-EeWZBN8BGKJ1FQ _j3cZEP4_EeWZBN8BGKJ1FQ _jTdFwP5AEeWZBN8BGKJ1FQ _JpmEwP5CEeWZBN8BGKJ1FQ _H_WbwP6KEeWZBN8BGKJ1FQ _QGrIMP6KEeWZBN8BGKJ1FQ _xn5AoP6AEeWZBN8BGKJ1FQ _MSbJkP6BEeWZBN8BGKJ1FQ _y0oVAP6KEeWZBN8BGKJ1FQ _v-RiAP6BEeWZBN8BGKJ1FQ _caEGEP6CEeWZBN8BGKJ1FQ _9X4AYP6BEeWZBN8BGKJ1FQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_USD1EP4-EeWZBN8BGKJ1FQ" name="technique" guid="_USD1EP4-EeWZBN8BGKJ1FQ" presentationName="Técnicas" briefDescription="Conjunto de procedimientos que se basan en reglas y notaciones específicas en términos de sintaxis, semántica y gráficos, orientadas a la obtención de productos en el desarrollo de un sistema de información." categorizedElements="_fNNwgP49EeWZBN8BGKJ1FQ _bS7hsP48EeWZBN8BGKJ1FQ _oEOYAP4-EeWZBN8BGKJ1FQ _j3cZEP4_EeWZBN8BGKJ1FQ _jTdFwP5AEeWZBN8BGKJ1FQ _JpmEwP5CEeWZBN8BGKJ1FQ _H_WbwP6KEeWZBN8BGKJ1FQ _QGrIMP6KEeWZBN8BGKJ1FQ _xn5AoP6AEeWZBN8BGKJ1FQ _MSbJkP6BEeWZBN8BGKJ1FQ _y0oVAP6KEeWZBN8BGKJ1FQ _v-RiAP6BEeWZBN8BGKJ1FQ _caEGEP6CEeWZBN8BGKJ1FQ _9X4AYP6BEeWZBN8BGKJ1FQ">
             <methodElementProperty xmi:id="_ZxTE8P4-EeWZBN8BGKJ1FQ" name="me_edited" value="true"/>
             <presentation xmi:id="-efsVcLG0vRbys9vW53sp3g" href="uma://-efsVcLG0vRbys9vW53sp3g#-efsVcLG0vRbys9vW53sp3g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_Ul9UMAyyEeamnqmrDkZ-9w" name="methodology" guid="_Ul9UMAyyEeamnqmrDkZ-9w" presentationName="Metodología">
+            <methodElementProperty xmi:id="_bLD_8AyyEeamnqmrDkZ-9w" name="me_edited" value="true"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_7tjwEApoEeaZBN8BGKJ1FQ#_7tjwEQpoEeaZBN8BGKJ1FQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_bi54MAyyEeamnqmrDkZ-9w" name="phases" guid="_bi54MAyyEeamnqmrDkZ-9w" presentationName="Etapas">
+            <methodElementProperty xmi:id="_eayEQAyyEeamnqmrDkZ-9w" name="me_edited" value="true"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_HCDOAApnEeaZBN8BGKJ1FQ#_HCDOAQpnEeaZBN8BGKJ1FQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_KCNeMP70EeWZBN8BGKJ1FQ#_KCNeMf70EeWZBN8BGKJ1FQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_e_JVkAyyEeamnqmrDkZ-9w" name="sprint_0_activities" guid="_e_JVkAyyEeamnqmrDkZ-9w" presentationName="Actividades Sprint 0">
+            <methodElementProperty xmi:id="_i_SxQAyyEeamnqmrDkZ-9w" name="me_edited" value="true"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_5IuDcP7xEeWZBN8BGKJ1FQ#_5IuDcf7xEeWZBN8BGKJ1FQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_SThP0Ak2EeaZBN8BGKJ1FQ#_SThP0Qk2EeaZBN8BGKJ1FQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_Oi4SYP8HEeWZBN8BGKJ1FQ#_Oi4SYf8HEeWZBN8BGKJ1FQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_N256kAk2EeaZBN8BGKJ1FQ#_N256kQk2EeaZBN8BGKJ1FQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_-jPjQAk1EeaZBN8BGKJ1FQ#_-jPjQQk1EeaZBN8BGKJ1FQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_F7nfAAk2EeaZBN8BGKJ1FQ#_F7nfAQk2EeaZBN8BGKJ1FQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_KVJrEAk2EeaZBN8BGKJ1FQ#_KVJrEQk2EeaZBN8BGKJ1FQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_jtyO8AyyEeamnqmrDkZ-9w" name="sprints_activities" guid="_jtyO8AyyEeamnqmrDkZ-9w" presentationName="Actividades Sprints">
+            <methodElementProperty xmi:id="_lUAl4AyyEeamnqmrDkZ-9w" name="me_edited" value="true"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_FVemMAphEeaZBN8BGKJ1FQ#_FVemMQphEeaZBN8BGKJ1FQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_MPnOIApeEeaZBN8BGKJ1FQ#_MPnOIQpeEeaZBN8BGKJ1FQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_9-SoIApeEeaZBN8BGKJ1FQ#_9-SoIQpeEeaZBN8BGKJ1FQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_bS81AApfEeaZBN8BGKJ1FQ#_bS81AQpfEeaZBN8BGKJ1FQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_t2R7YAphEeaZBN8BGKJ1FQ#_t2R7YQphEeaZBN8BGKJ1FQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_aR1rYAphEeaZBN8BGKJ1FQ#_aR1rYQphEeaZBN8BGKJ1FQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_-sFFwApfEeaZBN8BGKJ1FQ#_-sFFwQpfEeaZBN8BGKJ1FQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_uB6KIAyyEeamnqmrDkZ-9w" name="artefactos" guid="_uB6KIAyyEeamnqmrDkZ-9w" presentationName="Artefactos" categorizedElements="_HPPcoAo_EeaZBN8BGKJ1FQ _Z8pHUAjIEeaZBN8BGKJ1FQ _dQp48AjMEeaZBN8BGKJ1FQ _5qEeMAjPEeaZBN8BGKJ1FQ _Pn9LUApQEeaZBN8BGKJ1FQ _9X4AYP6BEeWZBN8BGKJ1FQ">
+            <methodElementProperty xmi:id="_v24HsAyyEeamnqmrDkZ-9w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_-qvkoAyyEeamnqmrDkZ-9w" name="deliverables" guid="_-qvkoAyyEeamnqmrDkZ-9w" presentationName="Entregables documentales del proyecto" categorizedElements="_Ph7qkApKEeaZBN8BGKJ1FQ _HPPcoAo_EeaZBN8BGKJ1FQ _-ZkFUApSEeaZBN8BGKJ1FQ _mSxL0ApPEeaZBN8BGKJ1FQ _Z8pHUAjIEeaZBN8BGKJ1FQ _nUKUUAjDEeaZBN8BGKJ1FQ _dQp48AjMEeaZBN8BGKJ1FQ _4qS4kApWEeaZBN8BGKJ1FQ _5qEeMAjPEeaZBN8BGKJ1FQ _icIxMAcdEeaZBN8BGKJ1FQ _DGyokAjWEeaZBN8BGKJ1FQ _lbOZcApHEeaZBN8BGKJ1FQ">
+            <methodElementProperty xmi:id="_KFphsAyzEeamnqmrDkZ-9w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_Yf1TUAyzEeamnqmrDkZ-9w" name="roles" guid="_Yf1TUAyzEeamnqmrDkZ-9w" presentationName="Roles" categorizedElements="_LThjYPz3EeWZBN8BGKJ1FQ _coS20Pz3EeWZBN8BGKJ1FQ _XKysUPz3EeWZBN8BGKJ1FQ _FvoAgPz4EeWZBN8BGKJ1FQ _GTEhQPz3EeWZBN8BGKJ1FQ _0Xz88PzzEeWZBN8BGKJ1FQ _tLxFoPz2EeWZBN8BGKJ1FQ _bn2N0Pz0EeWZBN8BGKJ1FQ _CJNTcPz4EeWZBN8BGKJ1FQ _gXGD0Pz3EeWZBN8BGKJ1FQ _P-RmQP7vEeWZBN8BGKJ1FQ _SL2GEPz3EeWZBN8BGKJ1FQ _BBVh4Pz3EeWZBN8BGKJ1FQ _JSLhQPz4EeWZBN8BGKJ1FQ _5OfaMP0CEeWZBN8BGKJ1FQ _xpWNwP0CEeWZBN8BGKJ1FQ _fzBFYP0CEeWZBN8BGKJ1FQ _dqL7MP0DEeWZBN8BGKJ1FQ">
+            <methodElementProperty xmi:id="_iBlWYAyzEeamnqmrDkZ-9w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_E-zuQAy0EeamnqmrDkZ-9w" name="arinbide-adaptativo" guid="_E-zuQAy0EeamnqmrDkZ-9w" presentationName="ARINbide-adaptativo" categorizedElements="_Ul9UMAyyEeamnqmrDkZ-9w _bi54MAyyEeamnqmrDkZ-9w _e_JVkAyyEeamnqmrDkZ-9w _jtyO8AyyEeamnqmrDkZ-9w _Yf1TUAyzEeamnqmrDkZ-9w _uB6KIAyyEeamnqmrDkZ-9w _-qvkoAyyEeamnqmrDkZ-9w _USD1EP4-EeWZBN8BGKJ1FQ">
+            <methodElementProperty xmi:id="_PnMpQAy0EeamnqmrDkZ-9w" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
       </childPackages>
@@ -479,7 +546,7 @@
             <methodElementProperty xmi:id="_3jLycApJEeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
             <presentation xmi:id="-2tlYrF8-W8X5JwJopwvytw" href="uma://-2tlYrF8-W8X5JwJopwvytw#-2tlYrF8-W8X5JwJopwvytw"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_Ph7qkApKEeaZBN8BGKJ1FQ" name="bugs_defects_list" guid="_Ph7qkApKEeaZBN8BGKJ1FQ" presentationName="Lista de defectos y errores" templates="_nmYNAAv1EealtoOQre6j1Q">
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_Ph7qkApKEeaZBN8BGKJ1FQ" name="bugs_defects_list" guid="_Ph7qkApKEeaZBN8BGKJ1FQ" presentationName="Lista de defectos y errores" briefDescription="Listado de defectos y errores cometidos durante el desarrollo del producto" templates="_nmYNAAv1EealtoOQre6j1Q">
             <methodElementProperty xmi:id="_UwxG8ApKEeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
             <presentation xmi:id="-A8RSfJMz1VVWmX7QWsellg" href="uma://-A8RSfJMz1VVWmX7QWsellg#-A8RSfJMz1VVWmX7QWsellg"/>
           </contentElements>
@@ -570,7 +637,7 @@
               <methodElementProperty xmi:id="_Yy-goP7wEeWZBN8BGKJ1FQ" name="me_edited" value="true"/>
               <presentation xmi:id="-5F-A0YpfQU3C5W1C7-IYDg" href="uma://-5F-A0YpfQU3C5W1C7-IYDg#-5F-A0YpfQU3C5W1C7-IYDg"/>
             </contentElements>
-            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_3uFqUAkqEeaZBN8BGKJ1FQ" name="define_product_vision" guid="_3uFqUAkqEeaZBN8BGKJ1FQ" presentationName="Definir la visión del producto" briefDescription="La Visión del Producto contiene la primera aproximación de Qué se quiere obtener, de las metas a medio&#xD;&#xA;y largo plazo a las que se quiere llegar" guidelines="_bS7hsP48EeWZBN8BGKJ1FQ" performedBy="_0Xz88PzzEeWZBN8BGKJ1FQ" mandatoryInput="_Wi2FgAi-EeaZBN8BGKJ1FQ _yGS2oAjCEeaZBN8BGKJ1FQ _H4wA4AjEEeaZBN8BGKJ1FQ _NXMmkAjEEeaZBN8BGKJ1FQ _Qm1AwAjDEeaZBN8BGKJ1FQ" output="_nUKUUAjDEeaZBN8BGKJ1FQ" additionallyPerformedBy="_CJNTcPz4EeWZBN8BGKJ1FQ _FvoAgPz4EeWZBN8BGKJ1FQ" optionalInput="_H0W7EP46EeWZBN8BGKJ1FQ">
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_3uFqUAkqEeaZBN8BGKJ1FQ" name="define_product_vision" guid="_3uFqUAkqEeaZBN8BGKJ1FQ" presentationName="Definir la vision del producto" briefDescription="La Visión del Producto contiene la primera aproximación de Qué se quiere obtener, de las metas a medio&#xD;&#xA;y largo plazo a las que se quiere llegar" guidelines="_bS7hsP48EeWZBN8BGKJ1FQ" performedBy="_0Xz88PzzEeWZBN8BGKJ1FQ" mandatoryInput="_Wi2FgAi-EeaZBN8BGKJ1FQ _yGS2oAjCEeaZBN8BGKJ1FQ _H4wA4AjEEeaZBN8BGKJ1FQ _NXMmkAjEEeaZBN8BGKJ1FQ _Qm1AwAjDEeaZBN8BGKJ1FQ" output="_nUKUUAjDEeaZBN8BGKJ1FQ" additionallyPerformedBy="_CJNTcPz4EeWZBN8BGKJ1FQ _FvoAgPz4EeWZBN8BGKJ1FQ" optionalInput="_H0W7EP46EeWZBN8BGKJ1FQ">
               <methodElementProperty xmi:id="_dyJ3UAkrEeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
               <presentation xmi:id="-kpKb_bLPeatBc9g5qTbzOw" href="uma://-kpKb_bLPeatBc9g5qTbzOw#-kpKb_bLPeatBc9g5qTbzOw"/>
             </contentElements>
