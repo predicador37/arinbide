@@ -12,14 +12,16 @@
       </processElements>
     </childPackages>
     <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_o0d_oApnEeaZBN8BGKJ1FQ" name="Reunión de planificación del Sprint (Sprint Planning)" guid="_o0d_oApnEeaZBN8BGKJ1FQ">
-      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_o0emsApnEeaZBN8BGKJ1FQ" name="Reunión de planificación del Sprint (Sprint Planning)" guid="_o0emsApnEeaZBN8BGKJ1FQ" presentationName="Reunión de planificación del Sprint (Sprint Planning)" superActivities="_HCDOAQpnEeaZBN8BGKJ1FQ" variabilityType="extends">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_o0emsApnEeaZBN8BGKJ1FQ" name="Reunión de planificación del Sprint (Sprint Planning)" guid="_o0emsApnEeaZBN8BGKJ1FQ" presentationName="Reunión de planificación del Sprint (Sprint Planning)" superActivities="_HCDOAQpnEeaZBN8BGKJ1FQ" linkToPredecessor="_AJjQkAvlEealtoOQre6j1Q" variabilityType="extends">
         <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_9-SoIApeEeaZBN8BGKJ1FQ#_9-SoIQpeEeaZBN8BGKJ1FQ"/>
       </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_AJjQkAvlEealtoOQre6j1Q" guid="_AJjQkAvlEealtoOQre6j1Q" pred="_f9zg8QpnEeaZBN8BGKJ1FQ"/>
     </childPackages>
     <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_wfVZkApnEeaZBN8BGKJ1FQ" name="Reunión de planificación detallada del Sprint" guid="_wfVZkApnEeaZBN8BGKJ1FQ">
-      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_wfVZkQpnEeaZBN8BGKJ1FQ" name="Reunión de planificación detallada del Sprint" guid="_wfVZkQpnEeaZBN8BGKJ1FQ" presentationName="Reunión de planificación detallada del Sprint" superActivities="_HCDOAQpnEeaZBN8BGKJ1FQ" variabilityType="extends">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_wfVZkQpnEeaZBN8BGKJ1FQ" name="Reunión de planificación detallada del Sprint" guid="_wfVZkQpnEeaZBN8BGKJ1FQ" presentationName="Reunión de planificación detallada del Sprint" superActivities="_HCDOAQpnEeaZBN8BGKJ1FQ" linkToPredecessor="_AcxHgAvlEealtoOQre6j1Q" variabilityType="extends">
         <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_bS81AApfEeaZBN8BGKJ1FQ#_bS81AQpfEeaZBN8BGKJ1FQ"/>
       </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_AcxHgAvlEealtoOQre6j1Q" guid="_AcxHgAvlEealtoOQre6j1Q" pred="_o0emsApnEeaZBN8BGKJ1FQ"/>
     </childPackages>
     <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_1rmqIApnEeaZBN8BGKJ1FQ" name="Desarrollo" guid="_1rmqIApnEeaZBN8BGKJ1FQ">
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_52WzUApnEeaZBN8BGKJ1FQ" name="Actividades comprometidas para el desarrollo" guid="_52WzUApnEeaZBN8BGKJ1FQ">
@@ -28,24 +30,31 @@
           <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_-sFFwApfEeaZBN8BGKJ1FQ#_-sFFwQpfEeaZBN8BGKJ1FQ"/>
         </processElements>
       </childPackages>
-      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_1rmqIQpnEeaZBN8BGKJ1FQ" name="Desarrollo" guid="_1rmqIQpnEeaZBN8BGKJ1FQ" presentationName="Desarrollo" superActivities="_HCDOAQpnEeaZBN8BGKJ1FQ" variabilityType="extends" breakdownElements="_52WzUQpnEeaZBN8BGKJ1FQ">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_1rmqIQpnEeaZBN8BGKJ1FQ" name="Desarrollo" guid="_1rmqIQpnEeaZBN8BGKJ1FQ" presentationName="Desarrollo" superActivities="_HCDOAQpnEeaZBN8BGKJ1FQ" linkToPredecessor="_AyOaIAvlEealtoOQre6j1Q" variabilityType="extends" breakdownElements="_52WzUQpnEeaZBN8BGKJ1FQ">
         <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_jyXb4ApgEeaZBN8BGKJ1FQ#_jyXb4QpgEeaZBN8BGKJ1FQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_AyOaIAvlEealtoOQre6j1Q" guid="_AyOaIAvlEealtoOQre6j1Q" pred="_wfVZkQpnEeaZBN8BGKJ1FQ"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_fqSWoAvpEealtoOQre6j1Q" guid="_fqSWoAvpEealtoOQre6j1Q" pred="_52WzUQpnEeaZBN8BGKJ1FQ">
+        <methodElementProperty xmi:id="_fqSWoQvpEealtoOQre6j1Q" name="successor" value="_sKN3oQpgEeaZBN8BGKJ1FQ"/>
       </processElements>
     </childPackages>
     <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_o_OosApoEeaZBN8BGKJ1FQ" name="Reunión diaria (Daily Scrum)" guid="_o_OosApoEeaZBN8BGKJ1FQ">
-      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_o_OosQpoEeaZBN8BGKJ1FQ" name="Reunión diaria (Daily Scrum)" guid="_o_OosQpoEeaZBN8BGKJ1FQ" presentationName="Reunión diaria (Daily Scrum)" superActivities="_HCDOAQpnEeaZBN8BGKJ1FQ" variabilityType="extends">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_o_OosQpoEeaZBN8BGKJ1FQ" name="Reunión diaria (Daily Scrum)" guid="_o_OosQpoEeaZBN8BGKJ1FQ" presentationName="Reunión diaria (Daily Scrum)" superActivities="_HCDOAQpnEeaZBN8BGKJ1FQ" linkToPredecessor="_S-J_EAvlEealtoOQre6j1Q" variabilityType="extends">
         <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_FVemMAphEeaZBN8BGKJ1FQ#_FVemMQphEeaZBN8BGKJ1FQ"/>
       </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_S-J_EAvlEealtoOQre6j1Q" guid="_S-J_EAvlEealtoOQre6j1Q" pred="_1rmqIQpnEeaZBN8BGKJ1FQ"/>
     </childPackages>
     <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_yAAFoApoEeaZBN8BGKJ1FQ" name="Reunión de revisión del Sprint (Sprint Review Meeting)" guid="_yAAFoApoEeaZBN8BGKJ1FQ">
-      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_yAAFoQpoEeaZBN8BGKJ1FQ" name="Reunión de revisión del Sprint (Sprint Review Meeting)" guid="_yAAFoQpoEeaZBN8BGKJ1FQ" presentationName="Reunión de revisión del Sprint (Sprint Review Meeting)" superActivities="_HCDOAQpnEeaZBN8BGKJ1FQ" variabilityType="extends">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_yAAFoQpoEeaZBN8BGKJ1FQ" name="Reunión de revisión del Sprint (Sprint Review Meeting)" guid="_yAAFoQpoEeaZBN8BGKJ1FQ" presentationName="Reunión de revisión del Sprint (Sprint Review Meeting)" superActivities="_HCDOAQpnEeaZBN8BGKJ1FQ" linkToPredecessor="_TaeHoAvlEealtoOQre6j1Q" variabilityType="extends">
         <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_aR1rYAphEeaZBN8BGKJ1FQ#_aR1rYQphEeaZBN8BGKJ1FQ"/>
       </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_TaeHoAvlEealtoOQre6j1Q" guid="_TaeHoAvlEealtoOQre6j1Q" pred="_o_OosQpoEeaZBN8BGKJ1FQ"/>
     </childPackages>
     <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_1v2bgApoEeaZBN8BGKJ1FQ" name="Reunión de retrospectiva del Sprint (Sprint Retrospective)" guid="_1v2bgApoEeaZBN8BGKJ1FQ">
-      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_1v2bgQpoEeaZBN8BGKJ1FQ" name="Reunión de retrospectiva del Sprint (Sprint Retrospective)" guid="_1v2bgQpoEeaZBN8BGKJ1FQ" presentationName="Reunión de retrospectiva del Sprint (Sprint Retrospective)" superActivities="_HCDOAQpnEeaZBN8BGKJ1FQ" variabilityType="extends">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_1v2bgQpoEeaZBN8BGKJ1FQ" name="Reunión de retrospectiva del Sprint (Sprint Retrospective)" guid="_1v2bgQpoEeaZBN8BGKJ1FQ" presentationName="Reunión de retrospectiva del Sprint (Sprint Retrospective)" superActivities="_HCDOAQpnEeaZBN8BGKJ1FQ" linkToPredecessor="_T7ZqcAvlEealtoOQre6j1Q" variabilityType="extends">
         <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_t2R7YAphEeaZBN8BGKJ1FQ#_t2R7YQphEeaZBN8BGKJ1FQ"/>
       </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_T7ZqcAvlEealtoOQre6j1Q" guid="_T7ZqcAvlEealtoOQre6j1Q" pred="_yAAFoQpoEeaZBN8BGKJ1FQ"/>
     </childPackages>
     <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_HCDOAQpnEeaZBN8BGKJ1FQ" name="sprint" guid="_HCDOAQpnEeaZBN8BGKJ1FQ" presentationName="Sprint (iteración)" briefDescription="Iteraciones incrementales y evolutivas que tienen por objeto conseguir un incremento funcional del producto hasta su finalización." hasMultipleOccurrences="true" isRepeatable="true" breakdownElements="_f9zg8QpnEeaZBN8BGKJ1FQ _o0emsApnEeaZBN8BGKJ1FQ _wfVZkQpnEeaZBN8BGKJ1FQ _1rmqIQpnEeaZBN8BGKJ1FQ _o_OosQpoEeaZBN8BGKJ1FQ _yAAFoQpoEeaZBN8BGKJ1FQ _1v2bgQpoEeaZBN8BGKJ1FQ">
       <presentation xmi:id="-HcRBM0GR2iwPJ3ybC7MglA" href="uma://-HcRBM0GR2iwPJ3ybC7MglA#-HcRBM0GR2iwPJ3ybC7MglA"/>

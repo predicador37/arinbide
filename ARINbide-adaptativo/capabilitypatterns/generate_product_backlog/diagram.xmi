@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML">
+  <uml:Activity xmi:id="_E_vuAAvmEealtoOQre6j1Q" name="generate_product_backlog">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_E_vuAQvmEealtoOQre6j1Q" source="uma_element">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_E_vuAgvmEealtoOQre6j1Q" key="uri" value="uma://_N256kAk2EeaZBN8BGKJ1FQ#_N256kQk2EeaZBN8BGKJ1FQ"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_E_vuAwvmEealtoOQre6j1Q" key="type" value="Activity"/>
+    </eAnnotations>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_FACo8AvmEealtoOQre6j1Q" name="Definir elementos" outgoing="_FACpAQvmEealtoOQre6j1Q">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_FACo8QvmEealtoOQre6j1Q" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_FACo8gvmEealtoOQre6j1Q" key="uri" value="uma://_N256kAk2EeaZBN8BGKJ1FQ#_dmQ58Ak3EeaZBN8BGKJ1FQ"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_FACo8wvmEealtoOQre6j1Q" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_FACo9AvmEealtoOQre6j1Q" name="Establecer criterios de aceptación" outgoing="_FACpAAvmEealtoOQre6j1Q" incoming="_FACpAQvmEealtoOQre6j1Q">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_FACo9QvmEealtoOQre6j1Q" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_FACo9gvmEealtoOQre6j1Q" key="uri" value="uma://_N256kAk2EeaZBN8BGKJ1FQ#_dmQ58Qk3EeaZBN8BGKJ1FQ"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_FACo9wvmEealtoOQre6j1Q" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_FACo-AvmEealtoOQre6j1Q" name="Priorizar historias y requisitos no funcionales" outgoing="_FACpAgvmEealtoOQre6j1Q" incoming="_FACpAAvmEealtoOQre6j1Q">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_FACo-QvmEealtoOQre6j1Q" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_FACo-gvmEealtoOQre6j1Q" key="uri" value="uma://_N256kAk2EeaZBN8BGKJ1FQ#_dmQ58gk3EeaZBN8BGKJ1FQ"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_FACo-wvmEealtoOQre6j1Q" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_FACo_AvmEealtoOQre6j1Q" name="Estimar tamaño" incoming="_FACpAgvmEealtoOQre6j1Q">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_FACo_QvmEealtoOQre6j1Q" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_FACo_gvmEealtoOQre6j1Q" key="uri" value="uma://_N256kAk2EeaZBN8BGKJ1FQ#_dmQ58wk3EeaZBN8BGKJ1FQ"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_FACo_wvmEealtoOQre6j1Q" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_FACpAAvmEealtoOQre6j1Q" source="_FACo9AvmEealtoOQre6j1Q" target="_FACo-AvmEealtoOQre6j1Q"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_FACpAQvmEealtoOQre6j1Q" source="_FACo8AvmEealtoOQre6j1Q" target="_FACo9AvmEealtoOQre6j1Q"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_FACpAgvmEealtoOQre6j1Q" source="_FACo-AvmEealtoOQre6j1Q" target="_FACo_AvmEealtoOQre6j1Q"/>
+  </uml:Activity>
+  <notation:Diagram xmi:id="_E_vuBAvmEealtoOQre6j1Q" type="AD" element="_E_vuAAvmEealtoOQre6j1Q" name="generate_product_backlog" measurementUnit="Pixel">
+    <styles xmi:type="notation:PageStyle" xmi:id="_E_vuBQvmEealtoOQre6j1Q"/>
+    <styles xmi:type="notation:GuideStyle" xmi:id="_E_vuBgvmEealtoOQre6j1Q"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_E_vuBwvmEealtoOQre6j1Q"/>
+  </notation:Diagram>
+</xmi:XMI>

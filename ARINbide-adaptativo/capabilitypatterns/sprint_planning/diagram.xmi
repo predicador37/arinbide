@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML">
+  <uml:Activity xmi:id="_TCvHoAvmEealtoOQre6j1Q" name="sprint_planning">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_TCvHoQvmEealtoOQre6j1Q" source="uma_element">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_TCvHogvmEealtoOQre6j1Q" key="uri" value="uma://_9-SoIApeEeaZBN8BGKJ1FQ#_9-SoIQpeEeaZBN8BGKJ1FQ"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_TCvHowvmEealtoOQre6j1Q" key="type" value="Activity"/>
+    </eAnnotations>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_TDLzkAvmEealtoOQre6j1Q" name="Establecer objetivo para el sprint" outgoing="_TDLzpQvmEealtoOQre6j1Q">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_TDLzkQvmEealtoOQre6j1Q" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_TDLzkgvmEealtoOQre6j1Q" key="uri" value="uma://_9-SoIApeEeaZBN8BGKJ1FQ#_SRFL4QpfEeaZBN8BGKJ1FQ"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_TDLzkwvmEealtoOQre6j1Q" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_TDLzlAvmEealtoOQre6j1Q" name="Descomponsición de las historias de usuario" outgoing="_TDLzpwvmEealtoOQre6j1Q" incoming="_TDLzpQvmEealtoOQre6j1Q">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_TDLzlQvmEealtoOQre6j1Q" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_TDLzlgvmEealtoOQre6j1Q" key="uri" value="uma://_9-SoIApeEeaZBN8BGKJ1FQ#_SRFL5ApfEeaZBN8BGKJ1FQ"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_TDLzlwvmEealtoOQre6j1Q" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_TDLzmAvmEealtoOQre6j1Q" name="Refinamiento de elementos de la pila de producto" outgoing="_TDLzpAvmEealtoOQre6j1Q" incoming="_TDLzpwvmEealtoOQre6j1Q">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_TDLzmQvmEealtoOQre6j1Q" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_TDLzmgvmEealtoOQre6j1Q" key="uri" value="uma://_9-SoIApeEeaZBN8BGKJ1FQ#_SRFL4gpfEeaZBN8BGKJ1FQ"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_TDLzmwvmEealtoOQre6j1Q" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_TDLznAvmEealtoOQre6j1Q" name="Calcular velocidad prevista para sprint" outgoing="_TDLzpgvmEealtoOQre6j1Q" incoming="_TDLzpAvmEealtoOQre6j1Q">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_TDLznQvmEealtoOQre6j1Q" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_TDLzngvmEealtoOQre6j1Q" key="uri" value="uma://_9-SoIApeEeaZBN8BGKJ1FQ#_SRFL4ApfEeaZBN8BGKJ1FQ"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_TDLznwvmEealtoOQre6j1Q" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_TDLzoAvmEealtoOQre6j1Q" name="Seleccionar historias a desarrollar en el sprint" incoming="_TDLzpgvmEealtoOQre6j1Q">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_TDLzoQvmEealtoOQre6j1Q" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_TDLzogvmEealtoOQre6j1Q" key="uri" value="uma://_9-SoIApeEeaZBN8BGKJ1FQ#_SRFL4wpfEeaZBN8BGKJ1FQ"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_TDLzowvmEealtoOQre6j1Q" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_TDLzpAvmEealtoOQre6j1Q" source="_TDLzmAvmEealtoOQre6j1Q" target="_TDLznAvmEealtoOQre6j1Q"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_TDLzpQvmEealtoOQre6j1Q" source="_TDLzkAvmEealtoOQre6j1Q" target="_TDLzlAvmEealtoOQre6j1Q"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_TDLzpgvmEealtoOQre6j1Q" source="_TDLznAvmEealtoOQre6j1Q" target="_TDLzoAvmEealtoOQre6j1Q"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_TDLzpwvmEealtoOQre6j1Q" source="_TDLzlAvmEealtoOQre6j1Q" target="_TDLzmAvmEealtoOQre6j1Q"/>
+  </uml:Activity>
+  <notation:Diagram xmi:id="_TCvHpAvmEealtoOQre6j1Q" type="AD" element="_TCvHoAvmEealtoOQre6j1Q" name="sprint_planning" measurementUnit="Pixel">
+    <styles xmi:type="notation:PageStyle" xmi:id="_TCvHpQvmEealtoOQre6j1Q"/>
+    <styles xmi:type="notation:GuideStyle" xmi:id="_TCvHpgvmEealtoOQre6j1Q"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_TCvHpwvmEealtoOQre6j1Q"/>
+  </notation:Diagram>
+</xmi:XMI>

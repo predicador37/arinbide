@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML">
+  <uml:Activity xmi:id="_GjlfUAvmEealtoOQre6j1Q" name="identify_participants">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_GjlfUQvmEealtoOQre6j1Q" source="uma_element">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_GjlfUgvmEealtoOQre6j1Q" key="uri" value="uma://_-jPjQAk1EeaZBN8BGKJ1FQ#_-jPjQQk1EeaZBN8BGKJ1FQ"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_GjlfUwvmEealtoOQre6j1Q" key="type" value="Activity"/>
+    </eAnnotations>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_Gj4aQAvmEealtoOQre6j1Q" name="Identificar a los participantes">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Gj4aQQvmEealtoOQre6j1Q" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Gj4aQgvmEealtoOQre6j1Q" key="uri" value="uma://_-jPjQAk1EeaZBN8BGKJ1FQ#_RpIZkAk3EeaZBN8BGKJ1FQ"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Gj4aQwvmEealtoOQre6j1Q" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+  </uml:Activity>
+  <notation:Diagram xmi:id="_GjlfVAvmEealtoOQre6j1Q" type="AD" element="_GjlfUAvmEealtoOQre6j1Q" name="identify_participants" measurementUnit="Pixel">
+    <styles xmi:type="notation:PageStyle" xmi:id="_GjlfVQvmEealtoOQre6j1Q"/>
+    <styles xmi:type="notation:GuideStyle" xmi:id="_GjlfVgvmEealtoOQre6j1Q"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_GjlfVwvmEealtoOQre6j1Q"/>
+  </notation:Diagram>
+</xmi:XMI>

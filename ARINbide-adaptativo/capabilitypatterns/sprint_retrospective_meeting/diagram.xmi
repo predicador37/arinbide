@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML">
+  <uml:Activity xmi:id="_UWoYcAvmEealtoOQre6j1Q" name="sprint_retrospective_meeting">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_UWoYcQvmEealtoOQre6j1Q" source="uma_element">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_UWoYcgvmEealtoOQre6j1Q" key="uri" value="uma://_t2R7YAphEeaZBN8BGKJ1FQ#_t2R7YQphEeaZBN8BGKJ1FQ"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_UWoYcwvmEealtoOQre6j1Q" key="type" value="Activity"/>
+    </eAnnotations>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_UW7TYAvmEealtoOQre6j1Q" name="Revisar retrospectiva anterior" outgoing="_UW7TcAvmEealtoOQre6j1Q">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_UW7TYQvmEealtoOQre6j1Q" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_UW7TYgvmEealtoOQre6j1Q" key="uri" value="uma://_t2R7YAphEeaZBN8BGKJ1FQ#_45CeMQphEeaZBN8BGKJ1FQ"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_UW7TYwvmEealtoOQre6j1Q" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_UW7TZAvmEealtoOQre6j1Q" name="Revisar riesgos e impedimentos" outgoing="_UW7TcgvmEealtoOQre6j1Q" incoming="_UW7TcAvmEealtoOQre6j1Q">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_UW7TZQvmEealtoOQre6j1Q" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_UW7TZgvmEealtoOQre6j1Q" key="uri" value="uma://_t2R7YAphEeaZBN8BGKJ1FQ#_45CeMAphEeaZBN8BGKJ1FQ"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_UW7TZwvmEealtoOQre6j1Q" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_UW7TaAvmEealtoOQre6j1Q" name="Determinar problemas y acciones a implementar" outgoing="_UW7TcQvmEealtoOQre6j1Q" incoming="_UW7TcgvmEealtoOQre6j1Q">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_UW7TaQvmEealtoOQre6j1Q" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_UW7TagvmEealtoOQre6j1Q" key="uri" value="uma://_t2R7YAphEeaZBN8BGKJ1FQ#_45CeMgphEeaZBN8BGKJ1FQ"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_UW7TawvmEealtoOQre6j1Q" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_UW7TbAvmEealtoOQre6j1Q" name="Realizar comprobaciones varias" incoming="_UW7TcQvmEealtoOQre6j1Q">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_UW7TbQvmEealtoOQre6j1Q" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_UW7TbgvmEealtoOQre6j1Q" key="uri" value="uma://_t2R7YAphEeaZBN8BGKJ1FQ#_45CeMwphEeaZBN8BGKJ1FQ"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_UW7TbwvmEealtoOQre6j1Q" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_UW7TcAvmEealtoOQre6j1Q" source="_UW7TYAvmEealtoOQre6j1Q" target="_UW7TZAvmEealtoOQre6j1Q"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_UW7TcQvmEealtoOQre6j1Q" source="_UW7TaAvmEealtoOQre6j1Q" target="_UW7TbAvmEealtoOQre6j1Q"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_UW7TcgvmEealtoOQre6j1Q" source="_UW7TZAvmEealtoOQre6j1Q" target="_UW7TaAvmEealtoOQre6j1Q"/>
+  </uml:Activity>
+  <notation:Diagram xmi:id="_UWoYdAvmEealtoOQre6j1Q" type="AD" element="_UWoYcAvmEealtoOQre6j1Q" name="sprint_retrospective_meeting" measurementUnit="Pixel">
+    <styles xmi:type="notation:PageStyle" xmi:id="_UWoYdQvmEealtoOQre6j1Q"/>
+    <styles xmi:type="notation:GuideStyle" xmi:id="_UWoYdgvmEealtoOQre6j1Q"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_UWoYdwvmEealtoOQre6j1Q"/>
+  </notation:Diagram>
+</xmi:XMI>

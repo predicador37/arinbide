@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML">
+  <uml:Activity xmi:id="_OfatcAvmEealtoOQre6j1Q" name="daily_scrum">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_OfatcQvmEealtoOQre6j1Q" source="uma_element">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_OfatcgvmEealtoOQre6j1Q" key="uri" value="uma://_FVemMAphEeaZBN8BGKJ1FQ#_FVemMQphEeaZBN8BGKJ1FQ"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_OfatcwvmEealtoOQre6j1Q" key="type" value="Activity"/>
+    </eAnnotations>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_OftoYAvmEealtoOQre6j1Q" name="Comunicación de cada miembro del equipo" outgoing="_OftocgvmEealtoOQre6j1Q">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_OftoYQvmEealtoOQre6j1Q" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_OftoYgvmEealtoOQre6j1Q" key="uri" value="uma://_FVemMAphEeaZBN8BGKJ1FQ#_OVQkowphEeaZBN8BGKJ1FQ"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_OftoYwvmEealtoOQre6j1Q" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_OftoZAvmEealtoOQre6j1Q" name="Revisión de impedimentos" outgoing="_OftocAvmEealtoOQre6j1Q" incoming="_OftocgvmEealtoOQre6j1Q">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_OftoZQvmEealtoOQre6j1Q" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_OftoZgvmEealtoOQre6j1Q" key="uri" value="uma://_FVemMAphEeaZBN8BGKJ1FQ#_OVQkoAphEeaZBN8BGKJ1FQ"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_OftoZwvmEealtoOQre6j1Q" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_OftoaAvmEealtoOQre6j1Q" name="Propuestas de mejora" outgoing="_OftocQvmEealtoOQre6j1Q" incoming="_OftocAvmEealtoOQre6j1Q">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_OftoaQvmEealtoOQre6j1Q" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_OftoagvmEealtoOQre6j1Q" key="uri" value="uma://_FVemMAphEeaZBN8BGKJ1FQ#_OVQkoQphEeaZBN8BGKJ1FQ"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_OftoawvmEealtoOQre6j1Q" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_OftobAvmEealtoOQre6j1Q" name="Actualizar monitorización" incoming="_OftocQvmEealtoOQre6j1Q">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_OftobQvmEealtoOQre6j1Q" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_OftobgvmEealtoOQre6j1Q" key="uri" value="uma://_FVemMAphEeaZBN8BGKJ1FQ#_UAQYkAphEeaZBN8BGKJ1FQ"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_OftobwvmEealtoOQre6j1Q" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_OftocAvmEealtoOQre6j1Q" source="_OftoZAvmEealtoOQre6j1Q" target="_OftoaAvmEealtoOQre6j1Q"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_OftocQvmEealtoOQre6j1Q" source="_OftoaAvmEealtoOQre6j1Q" target="_OftobAvmEealtoOQre6j1Q"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_OftocgvmEealtoOQre6j1Q" source="_OftoYAvmEealtoOQre6j1Q" target="_OftoZAvmEealtoOQre6j1Q"/>
+  </uml:Activity>
+  <notation:Diagram xmi:id="_OfatdAvmEealtoOQre6j1Q" type="AD" element="_OfatcAvmEealtoOQre6j1Q" name="daily_scrum" measurementUnit="Pixel">
+    <styles xmi:type="notation:PageStyle" xmi:id="_OfatdQvmEealtoOQre6j1Q"/>
+    <styles xmi:type="notation:GuideStyle" xmi:id="_OfatdgvmEealtoOQre6j1Q"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_OfatdwvmEealtoOQre6j1Q"/>
+  </notation:Diagram>
+</xmi:XMI>

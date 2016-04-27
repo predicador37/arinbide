@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML">
+  <uml:Activity xmi:id="_VsA3AAvmEealtoOQre6j1Q" name="sprint_review_meeting">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_VsA3AQvmEealtoOQre6j1Q" source="uma_element">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_VsA3AgvmEealtoOQre6j1Q" key="uri" value="uma://_aR1rYAphEeaZBN8BGKJ1FQ#_aR1rYQphEeaZBN8BGKJ1FQ"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_VsA3AwvmEealtoOQre6j1Q" key="type" value="Activity"/>
+    </eAnnotations>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_Vsdi8AvmEealtoOQre6j1Q" name="Demostración del producto" outgoing="_VsdjBAvmEealtoOQre6j1Q">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Vsdi8QvmEealtoOQre6j1Q" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Vsdi8gvmEealtoOQre6j1Q" key="uri" value="uma://_aR1rYAphEeaZBN8BGKJ1FQ#_kyVOoQphEeaZBN8BGKJ1FQ"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Vsdi8wvmEealtoOQre6j1Q" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_Vsdi9AvmEealtoOQre6j1Q" name="Validación de resultados" outgoing="_VsdjBgvmEealtoOQre6j1Q" incoming="_VsdjBAvmEealtoOQre6j1Q">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Vsdi9QvmEealtoOQre6j1Q" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Vsdi9gvmEealtoOQre6j1Q" key="uri" value="uma://_aR1rYAphEeaZBN8BGKJ1FQ#_kyVOowphEeaZBN8BGKJ1FQ"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Vsdi9wvmEealtoOQre6j1Q" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_Vsdi-AvmEealtoOQre6j1Q" name="Actualización del documento de monitorización" outgoing="_VsdjBwvmEealtoOQre6j1Q" incoming="_VsdjBgvmEealtoOQre6j1Q">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Vsdi-QvmEealtoOQre6j1Q" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Vsdi-gvmEealtoOQre6j1Q" key="uri" value="uma://_aR1rYAphEeaZBN8BGKJ1FQ#_kyVOogphEeaZBN8BGKJ1FQ"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Vsdi-wvmEealtoOQre6j1Q" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_Vsdi_AvmEealtoOQre6j1Q" name="Actualización de la visión, plan de entregas o pila de producto" outgoing="_VsdjBQvmEealtoOQre6j1Q" incoming="_VsdjBwvmEealtoOQre6j1Q">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Vsdi_QvmEealtoOQre6j1Q" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Vsdi_gvmEealtoOQre6j1Q" key="uri" value="uma://_aR1rYAphEeaZBN8BGKJ1FQ#_kyVOpAphEeaZBN8BGKJ1FQ"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Vsdi_wvmEealtoOQre6j1Q" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_VsdjAAvmEealtoOQre6j1Q" name="Actualización de lista de defectos" incoming="_VsdjBQvmEealtoOQre6j1Q">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_VsdjAQvmEealtoOQre6j1Q" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_VsdjAgvmEealtoOQre6j1Q" key="uri" value="uma://_aR1rYAphEeaZBN8BGKJ1FQ#_kyVOoAphEeaZBN8BGKJ1FQ"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_VsdjAwvmEealtoOQre6j1Q" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_VsdjBAvmEealtoOQre6j1Q" source="_Vsdi8AvmEealtoOQre6j1Q" target="_Vsdi9AvmEealtoOQre6j1Q"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_VsdjBQvmEealtoOQre6j1Q" source="_Vsdi_AvmEealtoOQre6j1Q" target="_VsdjAAvmEealtoOQre6j1Q"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_VsdjBgvmEealtoOQre6j1Q" source="_Vsdi9AvmEealtoOQre6j1Q" target="_Vsdi-AvmEealtoOQre6j1Q"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_VsdjBwvmEealtoOQre6j1Q" source="_Vsdi-AvmEealtoOQre6j1Q" target="_Vsdi_AvmEealtoOQre6j1Q"/>
+  </uml:Activity>
+  <notation:Diagram xmi:id="_VsA3BAvmEealtoOQre6j1Q" type="AD" element="_VsA3AAvmEealtoOQre6j1Q" name="sprint_review_meeting" measurementUnit="Pixel">
+    <styles xmi:type="notation:PageStyle" xmi:id="_VsA3BQvmEealtoOQre6j1Q"/>
+    <styles xmi:type="notation:GuideStyle" xmi:id="_VsA3BgvmEealtoOQre6j1Q"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_VsA3BwvmEealtoOQre6j1Q"/>
+  </notation:Diagram>
+</xmi:XMI>

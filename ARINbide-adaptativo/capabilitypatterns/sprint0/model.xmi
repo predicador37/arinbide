@@ -12,34 +12,40 @@
       </processElements>
     </childPackages>
     <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_3k2VoAplEeaZBN8BGKJ1FQ" name="Establecer el entorno tecnológico y los estándares" guid="_3k2VoAplEeaZBN8BGKJ1FQ">
-      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_3k28sAplEeaZBN8BGKJ1FQ" name="Establecer el entorno tecnológico y los estándares" guid="_3k28sAplEeaZBN8BGKJ1FQ" presentationName="Establecer el entorno tecnológico y los estándares" superActivities="_KCNeMf70EeWZBN8BGKJ1FQ" variabilityType="extends">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_3k28sAplEeaZBN8BGKJ1FQ" name="Establecer el entorno tecnológico y los estándares" guid="_3k28sAplEeaZBN8BGKJ1FQ" presentationName="Establecer el entorno tecnológico y los estándares" superActivities="_KCNeMf70EeWZBN8BGKJ1FQ" linkToPredecessor="_5sV8kAvkEealtoOQre6j1Q" variabilityType="extends">
         <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_Oi4SYP8HEeWZBN8BGKJ1FQ#_Oi4SYf8HEeWZBN8BGKJ1FQ"/>
       </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_5sV8kAvkEealtoOQre6j1Q" guid="_5sV8kAvkEealtoOQre6j1Q" pred="_hN_Zkf76EeWZBN8BGKJ1FQ"/>
     </childPackages>
     <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_ltzmIApmEeaZBN8BGKJ1FQ" name="Identificar participantes" guid="_ltzmIApmEeaZBN8BGKJ1FQ">
-      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_lt0NMApmEeaZBN8BGKJ1FQ" name="Identificar participantes" guid="_lt0NMApmEeaZBN8BGKJ1FQ" presentationName="Identificar participantes" superActivities="_KCNeMf70EeWZBN8BGKJ1FQ" variabilityType="extends">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_lt0NMApmEeaZBN8BGKJ1FQ" name="Identificar participantes" guid="_lt0NMApmEeaZBN8BGKJ1FQ" presentationName="Identificar participantes" superActivities="_KCNeMf70EeWZBN8BGKJ1FQ" linkToPredecessor="_6PNZEAvkEealtoOQre6j1Q" variabilityType="extends">
         <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_-jPjQAk1EeaZBN8BGKJ1FQ#_-jPjQQk1EeaZBN8BGKJ1FQ"/>
       </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_6PNZEAvkEealtoOQre6j1Q" guid="_6PNZEAvkEealtoOQre6j1Q" pred="_3k28sAplEeaZBN8BGKJ1FQ"/>
     </childPackages>
     <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_r36X8ApmEeaZBN8BGKJ1FQ" name="Definir procedimientos de trabajo" guid="_r36X8ApmEeaZBN8BGKJ1FQ">
-      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_r36X8QpmEeaZBN8BGKJ1FQ" name="Definir procedimientos de trabajo" guid="_r36X8QpmEeaZBN8BGKJ1FQ" presentationName="Definir procedimientos de trabajo" superActivities="_KCNeMf70EeWZBN8BGKJ1FQ" variabilityType="extends">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_r36X8QpmEeaZBN8BGKJ1FQ" name="Definir procedimientos de trabajo" guid="_r36X8QpmEeaZBN8BGKJ1FQ" presentationName="Definir procedimientos de trabajo" superActivities="_KCNeMf70EeWZBN8BGKJ1FQ" linkToPredecessor="_7KEe0AvkEealtoOQre6j1Q" variabilityType="extends">
         <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_F7nfAAk2EeaZBN8BGKJ1FQ#_F7nfAQk2EeaZBN8BGKJ1FQ"/>
       </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_7KEe0AvkEealtoOQre6j1Q" guid="_7KEe0AvkEealtoOQre6j1Q" pred="_lt0NMApmEeaZBN8BGKJ1FQ"/>
     </childPackages>
     <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_zG8xgApmEeaZBN8BGKJ1FQ" name="Preparar la logística" guid="_zG8xgApmEeaZBN8BGKJ1FQ">
-      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_zG8xgQpmEeaZBN8BGKJ1FQ" name="Preparar la logística" guid="_zG8xgQpmEeaZBN8BGKJ1FQ" presentationName="Preparar la logística" superActivities="_KCNeMf70EeWZBN8BGKJ1FQ" variabilityType="extends">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_zG8xgQpmEeaZBN8BGKJ1FQ" name="Preparar la logística" guid="_zG8xgQpmEeaZBN8BGKJ1FQ" presentationName="Preparar la logística" superActivities="_KCNeMf70EeWZBN8BGKJ1FQ" linkToPredecessor="_8tdkMAvkEealtoOQre6j1Q" variabilityType="extends">
         <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_KVJrEAk2EeaZBN8BGKJ1FQ#_KVJrEQk2EeaZBN8BGKJ1FQ"/>
       </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_8tdkMAvkEealtoOQre6j1Q" guid="_8tdkMAvkEealtoOQre6j1Q" pred="_r36X8QpmEeaZBN8BGKJ1FQ"/>
     </childPackages>
     <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_4xbBAApmEeaZBN8BGKJ1FQ" name="Generar la Pila de Producto (Product Backlog)" guid="_4xbBAApmEeaZBN8BGKJ1FQ">
-      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_4xbBAQpmEeaZBN8BGKJ1FQ" name="Generar la Pila de Producto (Product Backlog)" guid="_4xbBAQpmEeaZBN8BGKJ1FQ" presentationName="Generar la Pila de Producto (Product Backlog)" superActivities="_KCNeMf70EeWZBN8BGKJ1FQ" variabilityType="extends">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_4xbBAQpmEeaZBN8BGKJ1FQ" name="Generar la Pila de Producto (Product Backlog)" guid="_4xbBAQpmEeaZBN8BGKJ1FQ" presentationName="Generar la Pila de Producto (Product Backlog)" superActivities="_KCNeMf70EeWZBN8BGKJ1FQ" linkToPredecessor="_9BbCAAvkEealtoOQre6j1Q" variabilityType="extends">
         <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_N256kAk2EeaZBN8BGKJ1FQ#_N256kQk2EeaZBN8BGKJ1FQ"/>
       </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_9BbCAAvkEealtoOQre6j1Q" guid="_9BbCAAvkEealtoOQre6j1Q" pred="_zG8xgQpmEeaZBN8BGKJ1FQ"/>
     </childPackages>
     <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_9VfCEApmEeaZBN8BGKJ1FQ" name="Elaborar el Plan de Entregas (Release Plan)" guid="_9VfCEApmEeaZBN8BGKJ1FQ">
-      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_9VfCEQpmEeaZBN8BGKJ1FQ" name="Elaborar el Plan de Entregas (Release Plan)" guid="_9VfCEQpmEeaZBN8BGKJ1FQ" presentationName="Elaborar el Plan de Entregas (Release Plan)" superActivities="_KCNeMf70EeWZBN8BGKJ1FQ" variabilityType="extends">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_9VfCEQpmEeaZBN8BGKJ1FQ" name="Elaborar el Plan de Entregas (Release Plan)" guid="_9VfCEQpmEeaZBN8BGKJ1FQ" presentationName="Elaborar el Plan de Entregas (Release Plan)" superActivities="_KCNeMf70EeWZBN8BGKJ1FQ" linkToPredecessor="_9W4UoAvkEealtoOQre6j1Q" variabilityType="extends">
         <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_SThP0Ak2EeaZBN8BGKJ1FQ#_SThP0Qk2EeaZBN8BGKJ1FQ"/>
       </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_9W4UoAvkEealtoOQre6j1Q" guid="_9W4UoAvkEealtoOQre6j1Q" pred="_4xbBAQpmEeaZBN8BGKJ1FQ"/>
     </childPackages>
     <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_KCNeMf70EeWZBN8BGKJ1FQ" name="sprint0" guid="_KCNeMf70EeWZBN8BGKJ1FQ" presentationName="Sprint 0" briefDescription="Fase inicial de preparación del proyecto." breakdownElements="_hN_Zkf76EeWZBN8BGKJ1FQ _3k28sAplEeaZBN8BGKJ1FQ _lt0NMApmEeaZBN8BGKJ1FQ _r36X8QpmEeaZBN8BGKJ1FQ _zG8xgQpmEeaZBN8BGKJ1FQ _4xbBAQpmEeaZBN8BGKJ1FQ _9VfCEQpmEeaZBN8BGKJ1FQ">
       <presentation xmi:id="-qbmDFS9jVaFPve-0IaA7Cw" href="uma://-qbmDFS9jVaFPve-0IaA7Cw#-qbmDFS9jVaFPve-0IaA7Cw"/>

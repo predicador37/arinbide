@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML">
+  <uml:Activity xmi:id="_M9EJ4AvmEealtoOQre6j1Q" name="development">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_M9EJ4QvmEealtoOQre6j1Q" source="uma_element">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_M9EJ4gvmEealtoOQre6j1Q" key="uri" value="uma://_jyXb4ApgEeaZBN8BGKJ1FQ#_jyXb4QpgEeaZBN8BGKJ1FQ"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_M9EJ4wvmEealtoOQre6j1Q" key="type" value="Activity"/>
+    </eAnnotations>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_M9Xr4AvmEealtoOQre6j1Q" name="Completar los elementos de la pila del sprint" outgoing="_M9Xr7QvmEealtoOQre6j1Q">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_M9Xr4QvmEealtoOQre6j1Q" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_M9Xr4gvmEealtoOQre6j1Q" key="uri" value="uma://_jyXb4ApgEeaZBN8BGKJ1FQ#_sKN3oQpgEeaZBN8BGKJ1FQ"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_M9Xr4wvmEealtoOQre6j1Q" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_M9Xr5AvmEealtoOQre6j1Q" name="Inclusión de defectos en elementos ya construidos de pila de producto" outgoing="_M9Xr7AvmEealtoOQre6j1Q" incoming="_M9Xr7QvmEealtoOQre6j1Q">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_M9Xr5QvmEealtoOQre6j1Q" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_M9Xr5gvmEealtoOQre6j1Q" key="uri" value="uma://_jyXb4ApgEeaZBN8BGKJ1FQ#_sKN3oApgEeaZBN8BGKJ1FQ"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_M9Xr5wvmEealtoOQre6j1Q" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_M9Xr6AvmEealtoOQre6j1Q" name="Actualizar estado de tareas e historias del sprint" incoming="_M9Xr7AvmEealtoOQre6j1Q">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_M9Xr6QvmEealtoOQre6j1Q" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_M9Xr6gvmEealtoOQre6j1Q" key="uri" value="uma://_jyXb4ApgEeaZBN8BGKJ1FQ#_sKN3ogpgEeaZBN8BGKJ1FQ"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_M9Xr6wvmEealtoOQre6j1Q" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_M9Xr7AvmEealtoOQre6j1Q" source="_M9Xr5AvmEealtoOQre6j1Q" target="_M9Xr6AvmEealtoOQre6j1Q"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_M9Xr7QvmEealtoOQre6j1Q" source="_M9Xr4AvmEealtoOQre6j1Q" target="_M9Xr5AvmEealtoOQre6j1Q"/>
+  </uml:Activity>
+  <notation:Diagram xmi:id="_M9EJ5AvmEealtoOQre6j1Q" type="AD" element="_M9EJ4AvmEealtoOQre6j1Q" name="development" measurementUnit="Pixel">
+    <styles xmi:type="notation:PageStyle" xmi:id="_M9EJ5QvmEealtoOQre6j1Q"/>
+    <styles xmi:type="notation:GuideStyle" xmi:id="_M9EJ5gvmEealtoOQre6j1Q"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_M9EJ5wvmEealtoOQre6j1Q"/>
+  </notation:Diagram>
+</xmi:XMI>

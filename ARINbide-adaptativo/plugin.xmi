@@ -39,7 +39,6 @@
     <resourceDescriptors xmi:id="_m1FTcP6CEeWZBN8BGKJ1FQ" id="-R2rWt5RG-gr3HjWSCgh--A" uri="guidances/guidelines/tdd.xmi"/>
     <resourceDescriptors xmi:id="_uIumkv6KEeWZBN8BGKJ1FQ" id="-PBluRcg9xkLN2nYBd7NZ7A" uri="guidances/guidelines/continuous_integration.xmi"/>
     <resourceDescriptors xmi:id="_KY5Qkv6LEeWZBN8BGKJ1FQ" id="-Ak1_Z6lIDECN18TPlboK8g" uri="guidances/guidelines/spikes.xmi"/>
-    <resourceDescriptors xmi:id="_x3kk8f6MEeWZBN8BGKJ1FQ" id="-JE6s49DSI2_o2CX9TJ1CbA" uri="tasks/new_task.xmi"/>
     <resourceDescriptors xmi:id="_28Eigv7tEeWZBN8BGKJ1FQ" id="-8DJaTUDgEvvBW8CoHY7zhg" uri="tasks/identify_clients_users.xmi"/>
     <resourceDescriptors xmi:id="_tgbckP7vEeWZBN8BGKJ1FQ" id="-ao_VSNG-dF8KSZA0si3sXg" uri="tasks/define_needs_expectations.xmi"/>
     <resourceDescriptors xmi:id="_Yy-gov7wEeWZBN8BGKJ1FQ" id="-5F-A0YpfQU3C5W1C7-IYDg" uri="tasks/describe_critical_attributes.xmi"/>
@@ -147,6 +146,16 @@
     <resourceDescriptors xmi:id="_t2R7ZAphEeaZBN8BGKJ1FQ" id="_t2R7YAphEeaZBN8BGKJ1FQ" uri="capabilitypatterns/sprint_retrospective_meeting/model.xmi"/>
     <resourceDescriptors xmi:id="_HCO0MApnEeaZBN8BGKJ1FQ" id="_HCDOAApnEeaZBN8BGKJ1FQ" uri="capabilitypatterns/sprint/model.xmi"/>
     <resourceDescriptors xmi:id="_7toBgApoEeaZBN8BGKJ1FQ" id="_7tjwEApoEeaZBN8BGKJ1FQ" uri="capabilitypatterns/ARINbide-adaptativo/model.xmi"/>
+    <resourceDescriptors xmi:id="_VfofgAv0EealtoOQre6j1Q" id="-IQHQpsTQRFxXjhHcxry5HA" uri="guidances/templates/backlog_template.xmi"/>
+    <resourceDescriptors xmi:id="_frHcEgv0EealtoOQre6j1Q" id="-jqdftiJCXryJ2jRw29l0wA" uri="guidances/templates/release_plan_template.xmi"/>
+    <resourceDescriptors xmi:id="_pJlhoAv0EealtoOQre6j1Q" id="-pg_A2GL1wSoXWUYZw7LzRA" uri="guidances/templates/sprint_backlog_template.xmi"/>
+    <resourceDescriptors xmi:id="_4lFmUAv0EealtoOQre6j1Q" id="-MfQr2tgi8W_sdJMCQo2Vvg" uri="guidances/templates/impediments_backlog_template.xmi"/>
+    <resourceDescriptors xmi:id="_A045UAv1EealtoOQre6j1Q" id="-FNGlEXjoV91g5n61JR90kg" uri="guidances/templates/monitoring_template.xmi"/>
+    <resourceDescriptors xmi:id="_JYzbIAv1EealtoOQre6j1Q" id="-ntu9kgg4NLkQhp2njvlCZg" uri="guidances/templates/retrospective_template.xmi"/>
+    <resourceDescriptors xmi:id="_WL7IUAv1EealtoOQre6j1Q" id="-jzGj8X9hIzbKvFM8fXAv4w" uri="guidances/templates/user_guide_template.xmi"/>
+    <resourceDescriptors xmi:id="_dHYekAv1EealtoOQre6j1Q" id="-bAyvMk4qP9Qy7O-EAm7c4g" uri="guidances/templates/minutes_template.xmi"/>
+    <resourceDescriptors xmi:id="_lpgQoAv1EealtoOQre6j1Q" id="-uLpE7TOYYjQ0CgApaMpL1g" uri="guidances/templates/technical_design_template.xmi"/>
+    <resourceDescriptors xmi:id="_txHQ8gv1EealtoOQre6j1Q" id="-n9wosiJJDRoFQ17VOCrtDw" uri="guidances/templates/plantilla_de_defectos_y_errores.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_m6mJ4PzzEeWZBN8BGKJ1FQ" name="ARINbide-adaptativo" guid="_m6mJ4PzzEeWZBN8BGKJ1FQ" briefDescription="ARINbide-Adaptativo se concibe como una propuesta de uso de la fusión de dos de las metodologías o marcos de trabajo ágiles más utilizados actualmente en el proceso de desarrollo del software, Scrum y Extreme Programming (XP), sin por ello marcar su obligatoriedad de aplicación, ni total ni parcialmente en el ámbito de GV-EJIE." authors="Miguel Expósito Martín">
     <methodElementProperty xmi:id="_awynQAscEeaTy_UxFbzk6w" name="me_edited" value="true"/>
@@ -315,10 +324,6 @@
             <methodElementProperty xmi:id="_KY5QkP6LEeWZBN8BGKJ1FQ" name="me_edited" value="true"/>
             <presentation xmi:id="-Ak1_Z6lIDECN18TPlboK8g" href="uma://-Ak1_Z6lIDECN18TPlboK8g#-Ak1_Z6lIDECN18TPlboK8g"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_GciTQP6MEeWZBN8BGKJ1FQ" name="new_task" guid="_GciTQP6MEeWZBN8BGKJ1FQ" presentationName="New Task">
-            <methodElementProperty xmi:id="_XJYHMP6QEeWZBN8BGKJ1FQ" name="me_edited" value="true"/>
-            <presentation xmi:id="-JE6s49DSI2_o2CX9TJ1CbA" href="uma://-JE6s49DSI2_o2CX9TJ1CbA#-JE6s49DSI2_o2CX9TJ1CbA"/>
-          </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_P-RmQP7vEeWZBN8BGKJ1FQ" name="team" guid="_P-RmQP7vEeWZBN8BGKJ1FQ" presentationName="Equipo de desarrollo" briefDescription="El equipo tiene la responsabilidad de entregar el producto. Un pequeño equipo de 3 a 9 personas, auto-organizado y con las habilidades transversales necesarias para realizar el trabajo (análisis, diseño, desarrollo, pruebas, documentación, etc.)">
             <methodElementProperty xmi:id="_SIuroP7vEeWZBN8BGKJ1FQ" name="me_edited" value="true"/>
           </contentElements>
@@ -465,6 +470,46 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_4qS4kApWEeaZBN8BGKJ1FQ" name="retrospective" guid="_4qS4kApWEeaZBN8BGKJ1FQ" presentationName="Retrospectiva" briefDescription="Documento que recoge la reunión en la que el equipo analiza cómo ha sido su manera de trabajar durante la iteración, por qué está consiguiendo o no los objetivos a que se compremetió al inicio de la iteración y por qué el incremento de producto que acaba de demostrar al cliente era lo que él esperaba o no.">
             <methodElementProperty xmi:id="_EW0xIApXEeaZBN8BGKJ1FQ" name="me_edited" value="true"/>
             <presentation xmi:id="-kCYaObvUJyO_fcu4Va-fjQ" href="uma://-kCYaObvUJyO_fcu4Va-fjQ#-kCYaObvUJyO_fcu4Va-fjQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_9Uvo0AvzEealtoOQre6j1Q" name="backlog_template" guid="_9Uvo0AvzEealtoOQre6j1Q" presentationName="Pîla de producto" briefDescription="Plantillas LibreOffice y Microsoft Word para la redacción del documento &quot;Pila de producto&quot;.">
+            <methodElementProperty xmi:id="_VffVkAv0EealtoOQre6j1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-IQHQpsTQRFxXjhHcxry5HA" href="uma://-IQHQpsTQRFxXjhHcxry5HA#-IQHQpsTQRFxXjhHcxry5HA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_XWi90Av0EealtoOQre6j1Q" name="release_plan_template" guid="_XWi90Av0EealtoOQre6j1Q" presentationName="Plantilla de plan de entregas" briefDescription="Plantillas Libreoffice y Microsoft Word para la redacción del documento &quot;Plan de entregas&quot;">
+            <methodElementProperty xmi:id="_frHcEAv0EealtoOQre6j1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-jqdftiJCXryJ2jRw29l0wA" href="uma://-jqdftiJCXryJ2jRw29l0wA#-jqdftiJCXryJ2jRw29l0wA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_i6Y0cAv0EealtoOQre6j1Q" name="sprint_backlog_template" guid="_i6Y0cAv0EealtoOQre6j1Q" presentationName="Plantilla de pila de sprint" briefDescription="Plantillas Libreoffice y Microsoft Word para la redacción del documento &quot;Pila de Sprint&quot;">
+            <methodElementProperty xmi:id="_pJcXsAv0EealtoOQre6j1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-pg_A2GL1wSoXWUYZw7LzRA" href="uma://-pg_A2GL1wSoXWUYZw7LzRA#-pg_A2GL1wSoXWUYZw7LzRA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_uu6ycAv0EealtoOQre6j1Q" name="impediments_backlog_template" guid="_uu6ycAv0EealtoOQre6j1Q" presentationName="Plantilla de pila de impedimentos" briefDescription="Plantillas Libreoffice y Microsoft Word para la redacción del documento &quot;Pila de impedimentos&quot;">
+            <methodElementProperty xmi:id="_4k8cYAv0EealtoOQre6j1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-MfQr2tgi8W_sdJMCQo2Vvg" href="uma://-MfQr2tgi8W_sdJMCQo2Vvg#-MfQr2tgi8W_sdJMCQo2Vvg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_5_ZBIAv0EealtoOQre6j1Q" name="monitoring_template" guid="_5_ZBIAv0EealtoOQre6j1Q" presentationName="Plantilla de documento de monitorización" briefDescription="Plantillas Libreoffice y Microsoft Word para la redacción del documento de &quot;Monitorización&quot;">
+            <methodElementProperty xmi:id="_JYqRMAv1EealtoOQre6j1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-FNGlEXjoV91g5n61JR90kg" href="uma://-FNGlEXjoV91g5n61JR90kg#-FNGlEXjoV91g5n61JR90kg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_A0vIUAv1EealtoOQre6j1Q" name="retrospective_template" guid="_A0vIUAv1EealtoOQre6j1Q" presentationName="Plantilla de Retrospectiva" briefDescription="Plantillas Libreoffice y Microsoft Word para la redacción del documento &quot;Retrospectiva&quot;">
+            <methodElementProperty xmi:id="_JZQHEAv1EealtoOQre6j1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-ntu9kgg4NLkQhp2njvlCZg" href="uma://-ntu9kgg4NLkQhp2njvlCZg#-ntu9kgg4NLkQhp2njvlCZg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_KVJuoAv1EealtoOQre6j1Q" name="user_guide_template" guid="_KVJuoAv1EealtoOQre6j1Q" presentationName="Plantilla de manual de usuario" briefDescription="Plantillas Libreoffice y Microsoft Word para la redacción del documento &quot;Manual de Usuario&quot;">
+            <methodElementProperty xmi:id="_WLxXUAv1EealtoOQre6j1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-jzGj8X9hIzbKvFM8fXAv4w" href="uma://-jzGj8X9hIzbKvFM8fXAv4w#-jzGj8X9hIzbKvFM8fXAv4w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_YNQt8Av1EealtoOQre6j1Q" name="minutes_template" guid="_YNQt8Av1EealtoOQre6j1Q" presentationName="Plantilla de acta de reunión" briefDescription="Plantillas Libreoffice y Microsoft Word para la redacción del documento &quot;Acta de reunión&quot;">
+            <methodElementProperty xmi:id="_dHOtkAv1EealtoOQre6j1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-bAyvMk4qP9Qy7O-EAm7c4g" href="uma://-bAyvMk4qP9Qy7O-EAm7c4g#-bAyvMk4qP9Qy7O-EAm7c4g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_fHYncAv1EealtoOQre6j1Q" name="technical_design_template" guid="_fHYncAv1EealtoOQre6j1Q" presentationName="Plantilla de Diseño Técnico" briefDescription="Plantillas Libreoffice y Microsoft Word para la redacción del documento &quot;Diseño Técnico&quot;">
+            <methodElementProperty xmi:id="_lpXGsAv1EealtoOQre6j1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-uLpE7TOYYjQ0CgApaMpL1g" href="uma://-uLpE7TOYYjQ0CgApaMpL1g#-uLpE7TOYYjQ0CgApaMpL1g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_nmYNAAv1EealtoOQre6j1Q" name="plantilla_de_defectos_y_errores" guid="_nmYNAAv1EealtoOQre6j1Q" presentationName="Plantilla de Defectos y errores" briefDescription="Plantillas Libreoffice y Microsoft Word para la redacción del documento &quot;Defectos y errores&quot;">
+            <methodElementProperty xmi:id="_txHQ8Av1EealtoOQre6j1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-n9wosiJJDRoFQ17VOCrtDw" href="uma://-n9wosiJJDRoFQ17VOCrtDw#-n9wosiJJDRoFQ17VOCrtDw"/>
           </contentElements>
         </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="__OKLkP6MEeWZBN8BGKJ1FQ" name="sprint_0" guid="__OKLkP6MEeWZBN8BGKJ1FQ" presentationName="Preparación o Sprint 0" briefDescription="Su principal objetivo es definir las condiciones y el contenido del trabajo a realizar:&#xD;&#xA;Las condiciones determinan el alcance del proyecto, e incluyen los recursos necesarios para desarrollarlo, así como la distribución temporal de entrega de resultados.&#xD;&#xA;El contenido del trabajo se recoge en la primera versión de la Pila de Producto, que contiene la visión de los requisitos principales del proyecto, es decir, las funcionalidades o resultados deseados (detallados en términos de negocio) que resolverá el sistema a construir, y los&#xD;&#xA;productos a generar.">

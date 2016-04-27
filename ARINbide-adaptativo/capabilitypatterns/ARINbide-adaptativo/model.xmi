@@ -12,9 +12,10 @@
       </processElements>
     </childPackages>
     <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_CILqIAppEeaZBN8BGKJ1FQ" name="Sprint (iteración)" guid="_CILqIAppEeaZBN8BGKJ1FQ">
-      <processElements xsi:type="org.eclipse.epf.uma:Iteration" xmi:id="_CILqIQppEeaZBN8BGKJ1FQ" name="Sprint (iteración)" guid="_CILqIQppEeaZBN8BGKJ1FQ" presentationName="Sprint (iteración)" superActivities="_7tjwEQpoEeaZBN8BGKJ1FQ" isRepeatable="true" variabilityType="extends">
+      <processElements xsi:type="org.eclipse.epf.uma:Iteration" xmi:id="_CILqIQppEeaZBN8BGKJ1FQ" name="Sprint (iteración)" guid="_CILqIQppEeaZBN8BGKJ1FQ" presentationName="Sprint (iteración)" superActivities="_7tjwEQpoEeaZBN8BGKJ1FQ" isRepeatable="true" linkToPredecessor="_WZp1kAvlEealtoOQre6j1Q" variabilityType="extends">
         <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_HCDOAApnEeaZBN8BGKJ1FQ#_HCDOAQpnEeaZBN8BGKJ1FQ"/>
       </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_WZp1kAvlEealtoOQre6j1Q" guid="_WZp1kAvlEealtoOQre6j1Q" pred="_8z9XcQpoEeaZBN8BGKJ1FQ"/>
     </childPackages>
     <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_7tjwEQpoEeaZBN8BGKJ1FQ" name="ARINbide-adaptativo" guid="_7tjwEQpoEeaZBN8BGKJ1FQ" presentationName="ARINbide-adaptativo" breakdownElements="_8z9XcQpoEeaZBN8BGKJ1FQ _CILqIQppEeaZBN8BGKJ1FQ">
       <presentation xmi:id="-4DQT-noD3_dGzeP7IVodQw" href="uma://-4DQT-noD3_dGzeP7IVodQw#-4DQT-noD3_dGzeP7IVodQw"/>

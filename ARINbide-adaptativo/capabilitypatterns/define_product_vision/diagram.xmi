@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML">
+  <uml:Activity xmi:id="_h23fwAvlEealtoOQre6j1Q" name="define_product_vision">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_h23fwQvlEealtoOQre6j1Q" source="uma_element">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_h23fwgvlEealtoOQre6j1Q" key="uri" value="uma://_5IuDcP7xEeWZBN8BGKJ1FQ#_5IuDcf7xEeWZBN8BGKJ1FQ"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_h23fwwvlEealtoOQre6j1Q" key="type" value="Activity"/>
+    </eAnnotations>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_h3TkoAvlEealtoOQre6j1Q" name="Identificar clientes y usuarios" outgoing="_h3TksQvlEealtoOQre6j1Q">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_h3TkoQvlEealtoOQre6j1Q" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_h3TkogvlEealtoOQre6j1Q" key="uri" value="uma://_5IuDcP7xEeWZBN8BGKJ1FQ#_ERtxIf7yEeWZBN8BGKJ1FQ"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_h3TkowvlEealtoOQre6j1Q" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_h3TkpAvlEealtoOQre6j1Q" name="Definir necesidades y expectativas" outgoing="_h3TksAvlEealtoOQre6j1Q" incoming="_h3TksQvlEealtoOQre6j1Q">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_h3TkpQvlEealtoOQre6j1Q" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_h3TkpgvlEealtoOQre6j1Q" key="uri" value="uma://_5IuDcP7xEeWZBN8BGKJ1FQ#_ERknMP7yEeWZBN8BGKJ1FQ"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_h3TkpwvlEealtoOQre6j1Q" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_h3TkqAvlEealtoOQre6j1Q" name="Describir atributos críticos" outgoing="_h3TksgvlEealtoOQre6j1Q" incoming="_h3TksAvlEealtoOQre6j1Q">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_h3TkqQvlEealtoOQre6j1Q" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_h3TkqgvlEealtoOQre6j1Q" key="uri" value="uma://_5IuDcP7xEeWZBN8BGKJ1FQ#_ERtxIP7yEeWZBN8BGKJ1FQ"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_h3TkqwvlEealtoOQre6j1Q" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_h3TkrAvlEealtoOQre6j1Q" name="Definir la visión del producto" incoming="_h3TksgvlEealtoOQre6j1Q">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_h3TkrQvlEealtoOQre6j1Q" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_h3TkrgvlEealtoOQre6j1Q" key="uri" value="uma://_5IuDcP7xEeWZBN8BGKJ1FQ#_tY_z4AksEeaZBN8BGKJ1FQ"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_h3TkrwvlEealtoOQre6j1Q" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_h3TksAvlEealtoOQre6j1Q" source="_h3TkpAvlEealtoOQre6j1Q" target="_h3TkqAvlEealtoOQre6j1Q"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_h3TksQvlEealtoOQre6j1Q" source="_h3TkoAvlEealtoOQre6j1Q" target="_h3TkpAvlEealtoOQre6j1Q"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_h3TksgvlEealtoOQre6j1Q" source="_h3TkqAvlEealtoOQre6j1Q" target="_h3TkrAvlEealtoOQre6j1Q"/>
+  </uml:Activity>
+  <notation:Diagram xmi:id="_h23fxAvlEealtoOQre6j1Q" type="AD" element="_h23fwAvlEealtoOQre6j1Q" name="define_product_vision" measurementUnit="Pixel">
+    <styles xmi:type="notation:PageStyle" xmi:id="_h23fxQvlEealtoOQre6j1Q"/>
+    <styles xmi:type="notation:GuideStyle" xmi:id="_h23fxgvlEealtoOQre6j1Q"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_h23fxwvlEealtoOQre6j1Q"/>
+  </notation:Diagram>
+</xmi:XMI>
