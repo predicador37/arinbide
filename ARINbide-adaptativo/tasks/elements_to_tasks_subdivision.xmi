@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-X0ysMWQDiNcsdr8zl08Beg" name=",_mqvU0AosEeaZBN8BGKJ1FQ" guid="-X0ysMWQDiNcsdr8zl08Beg" changeDate="2016-04-24T16:56:23.649+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
   <mainDescription>Las tareas podrán ser de análisis, de diseño, de codificación, de pruebas, de diseño de interfaz, de documentación técnica&#xD;
 y del producto, etc. &lt;br align=&quot;left&quot; />&#xD;
 &lt;br />&#xD;

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-2oh3v48bQTxwrGlAp_2HGw" name="identify_participants,_k7ejEAkuEeaZBN8BGKJ1FQ" guid="-2oh3v48bQTxwrGlAp_2HGw" changeDate="2016-04-23T10:38:02.438+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
   <mainDescription>- Facilitador&lt;br />&#xD;
 - Interesados, en especial a los clientes y usuarios, pues son la fuente principal de requisitos del sistema&lt;br />&#xD;
 - Equipo. Equipo multidisciplinar con los conocimientos necesarios para el desarrollo del proyecto. Se recomienda que esté&#xD;

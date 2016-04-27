@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-0IrhGcfD3HfXm2RscRVjxQ" name=",_JxKFIApSEeaZBN8BGKJ1FQ" guid="-0IrhGcfD3HfXm2RscRVjxQ" changeDate="2016-04-24T21:24:57.394+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
   <purpose>Proponer y, en su caso, aplicar mejoras sobre el proceso de desarrollo.</purpose>
 </org.eclipse.epf.uma:TaskDescription>

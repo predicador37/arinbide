@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Qu9sy9v7fCSTWHO4wRnaoQ" name="new_guideline,_j3cZEP4_EeWZBN8BGKJ1FQ" guid="-Qu9sy9v7fCSTWHO4wRnaoQ" changeDate="2016-04-09T12:44:31.326+0200" version="1.0">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
   <mainDescription>&lt;p>&#xD;
     Una historia de usuario es una promesa de conversación entre el equipo de desarrollo y el product owner. Su estructura&#xD;
     más básica comprende un identificador y la sintaxis:&amp;nbsp;COMO (ROL)&amp;nbsp;- QUIERO (CARACTERÍSTICA)- PARA (VALOR&#xD;

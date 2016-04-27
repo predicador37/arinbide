@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-iCxo2OoRAWlU60WQV-N8Ww" name="new_guideline,_v-RiAP6BEeWZBN8BGKJ1FQ" guid="-iCxo2OoRAWlU60WQV-N8Ww" changeDate="2016-04-09T20:36:00.254+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
   <mainDescription>&lt;p>&#xD;
     Un tablero de tareas puede representarse en una pared en blanco, en una pizarra, en una hoja de cálculo o en alguna&#xD;
     herramienta informática específica.&#xD;

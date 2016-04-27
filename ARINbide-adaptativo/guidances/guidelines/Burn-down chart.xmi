@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-2uG9T0f1-Ga5PqGxFySPkQ" name="new_guideline,_TRPwwApREeaZBN8BGKJ1FQ" guid="-2uG9T0f1-Ga5PqGxFySPkQ" changeDate="2016-04-24T21:20:21.581+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
   <mainDescription>Usualmente el trabajo remanente (o backlog) se muestra en el eje vertical y el tiempo en el eje horizontal. Es decir, el&#xD;
 diagrama representa una serie temporal del trabajo pendiente. Este diagrama es útil para predecir cuándo se completará todo&#xD;
 el trabajo.</mainDescription>

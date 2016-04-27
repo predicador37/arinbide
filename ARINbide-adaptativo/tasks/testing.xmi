@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-VuOA467QXIkh4sUe6qhJYA" name=",_ec8EkAo6EeaZBN8BGKJ1FQ" guid="-VuOA467QXIkh4sUe6qhJYA" changeDate="2016-04-24T18:35:36.218+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
   <purpose>Realizar las pruebas unitarias, de integración, de sistema, etc. que se consideren necesarias para obtener una cobertura de&#xD;
 tests adecuada.</purpose>
 </org.eclipse.epf.uma:TaskDescription>

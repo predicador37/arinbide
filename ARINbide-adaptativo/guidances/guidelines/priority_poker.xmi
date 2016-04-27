@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-rvthdFCbMAehiHMGZxgs5w" name="new_guideline,_JpmEwP5CEeWZBN8BGKJ1FQ" guid="-rvthdFCbMAehiHMGZxgs5w" changeDate="2016-04-09T20:25:52.274+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
   <mainDescription>&lt;p>&#xD;
     Para aplicarlo es necesario además de, evidentemente, una lista de elementos para priorizar, decidir el número de&#xD;
     niveles que se va utilizar. Estos niveles se trasladarán a las cartas de una baraja, que serán las que utilizará cada&#xD;

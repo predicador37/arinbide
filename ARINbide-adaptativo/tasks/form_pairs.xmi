@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-wyb_F9kfgUIpq_pDOf1UfA" name=",_Vn9-EAoxEeaZBN8BGKJ1FQ" guid="-wyb_F9kfgUIpq_pDOf1UfA" changeDate="2016-04-24T17:30:25.256+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
   <purpose>Formar las parejas para el desarrollo.</purpose>
 </org.eclipse.epf.uma:TaskDescription>

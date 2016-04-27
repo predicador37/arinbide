@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-1WpzkBKXiMHrnc3PUHAsZg" name="new_guideline,_fNNwgP49EeWZBN8BGKJ1FQ" guid="-1WpzkBKXiMHrnc3PUHAsZg" changeDate="2016-04-09T12:28:24.493+0200" version="1.0">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
   <mainDescription>&lt;p>&#xD;
     Las Personas representan patrones de conducta, objetivos y necesidades de grupos de personas, que si bien son&#xD;
     ficticios, tienen características comunes basadas en el análisis sobre la audiencia real. Todos los atributos y&#xD;

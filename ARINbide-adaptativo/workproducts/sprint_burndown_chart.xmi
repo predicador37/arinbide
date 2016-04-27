@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-8DPfCXCiN5pnxfjqkzvhnQ" name="new_artifact,_Pn9LUApQEeaZBN8BGKJ1FQ" guid="-8DPfCXCiN5pnxfjqkzvhnQ" changeDate="2016-04-24T21:12:57.388+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
   <mainDescription>Permite visualizar fácilmente si el ritmo de trabajo del equipo es adecuado para cumplir el compromiso adquirido para el&#xD;
 Sprint.&lt;br />&#xD;
 En el eje vertical se representa el número de horas ideales que quedan por resolver en el proyecto, mientras que en el eje&#xD;

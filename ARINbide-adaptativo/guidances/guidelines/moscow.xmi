@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-8n4224C7UM6KKAaEcM5FfA" name="new_guideline,_xn5AoP6AEeWZBN8BGKJ1FQ" guid="-8n4224C7UM6KKAaEcM5FfA" changeDate="2016-04-09T20:30:32.927+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
   <mainDescription>&lt;ul class=&quot;noindent&quot;>&#xD;
     &lt;li>&#xD;
         Debe tener (Must Have). Se trata de un elemento clave y esencial, que si no se entrega, los interesados no estarán&#xD;

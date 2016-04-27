@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-PDf1r2aZlhibaNVdiwQ7dA" name="new_role,_0Xz88PzzEeWZBN8BGKJ1FQ" guid="-PDf1r2aZlhibaNVdiwQ7dA" changeDate="2016-04-07T21:09:37.950+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
   <mainDescription>&lt;p>&#xD;
     Responsabilidades: La pila de producto.&#xD;
 &lt;/p>&#xD;

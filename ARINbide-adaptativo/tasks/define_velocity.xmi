@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-RcFgYCtoF2YpwlA3e66AJw" name=",_tjlEgAkyEeaZBN8BGKJ1FQ" guid="-RcFgYCtoF2YpwlA3e66AJw" changeDate="2016-04-23T11:07:50.833+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
   <mainDescription>Estimar la velocidad del equipo. La velocidad del equipo es el número de Puntos de Historia que este es capaz de resolver&#xD;
 en un Sprint. Si el equipo no va a contar con todos sus miembros de manera continuada durante todo el tiempo&lt;br />&#xD;
 que dure el proyecto, se deberían estimar las distintas velocidades posibles por cada Sprint.</mainDescription>

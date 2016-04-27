@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Gy2KpPqP-FXOfyOXWc3jGg" name="new_artifact,_PdrqkAjHEeaZBN8BGKJ1FQ" guid="-Gy2KpPqP-FXOfyOXWc3jGg" changeDate="2016-04-22T22:21:33.046+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
   <mainDescription>&lt;p>&#xD;
     Cada historia de usuario / requisito no funcional contendrá los siguientes atributos:&#xD;
 &lt;/p>&#xD;

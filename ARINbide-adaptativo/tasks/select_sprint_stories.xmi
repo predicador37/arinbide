@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-vsrGj1aq3dsTfwsTxlAmAw" name=",_I59JcAooEeaZBN8BGKJ1FQ" guid="-vsrGj1aq3dsTfwsTxlAmAw" changeDate="2016-04-24T16:24:17.477+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
   <mainDescription>&lt;p>&#xD;
     &lt;font size=&quot;2&quot;>La suma de Puntos de Historia de los elementos seleccionados coincidirá aproximadamente con la velocidad&#xD;
     estimada de la iteración, pero se deberá considerar cierta holgura por si surgen imprevistos.&lt;/font>&#xD;

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-kVyoZxMlEv5uh6OZIZf7MA" name="standards,_VqpJIAAhEeaZBN8BGKJ1FQ" guid="-kVyoZxMlEv5uh6OZIZf7MA" changeDate="2016-04-20T19:31:17.984+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
   <mainDescription>Normativas y estándares de desarrollo, de albergue, de implantación, de uso de productos, etc. que son de aplicación.&#xD;
 También se incluirán las normas y estándares legales y funcionales que debe cumplir tanto el proyecto como el producto a&#xD;
 generar.</mainDescription>

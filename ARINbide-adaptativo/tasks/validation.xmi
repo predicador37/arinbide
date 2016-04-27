@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-z5tVcXnMPBVfFLkwm0deMQ" name=",_KlZTkApUEeaZBN8BGKJ1FQ" guid="-z5tVcXnMPBVfFLkwm0deMQ" changeDate="2016-04-24T21:39:29.052+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
   <mainDescription>&lt;p>&#xD;
     &lt;font size=&quot;2&quot;>Se identifican aquellos que no se han conseguido, para ser incluidos en el siguiente Sprint.&lt;/font>&#xD;
 &lt;/p>&#xD;

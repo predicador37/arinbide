@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-PS52GTESqUqaWoHBeQ-aig" name="reference_doc,_H0W7EP46EeWZBN8BGKJ1FQ" guid="-PS52GTESqUqaWoHBeQ-aig" changeDate="2016-04-27T17:26:52.212+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
+  <purpose>Ofrecer información adicional de utilidad para el desarrollo del proyecto.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

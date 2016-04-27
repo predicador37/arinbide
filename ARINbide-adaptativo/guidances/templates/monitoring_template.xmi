@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-FNGlEXjoV91g5n61JR90kg" name="new_template,_5_ZBIAv0EealtoOQre6j1Q" guid="-FNGlEXjoV91g5n61JR90kg">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
   <attachments>&lt;a href=&quot;http://www.ejie.eus/contenidos/informacion/metodologia_desarrollo_ejie/es_0212/adjuntos/ARINbide-Adaptativo.v1.0.Plantillas.zip&quot;>Plantillas ARINbide-adaptativo&lt;/a></attachments>
 </org.eclipse.epf.uma:GuidanceDescription>

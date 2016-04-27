@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-stRZ-KjhUMGfveZxEYwRYw" name="new_artifact,_fE1owAceEeaZBN8BGKJ1FQ" guid="-stRZ-KjhUMGfveZxEYwRYw" changeDate="2016-04-25T00:22:08.151+0200">
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-stRZ-KjhUMGfveZxEYwRYw" name="new_artifact,_fE1owAceEeaZBN8BGKJ1FQ" guid="-stRZ-KjhUMGfveZxEYwRYw" changeDate="2016-04-27T17:23:41.462+0200">
   <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
   <mainDescription>Definir, a alto nivel, el entorno tecnológico requerido para dar respuesta a las necesidades de información del sistema a&#xD;
 construir: aplicación con cliente ligero o cliente pesado, arquitectura en n-niveles o no, entorno de desarrollo (PC,&#xD;
 servidor de gestión de la configuración, servidor de integración, etc.), uso de sistemas corporativos, etc.</mainDescription>
+  <purpose>Definir, a alto nivel, el entorno tecnológico</purpose>
 </org.eclipse.epf.uma:ArtifactDescription>

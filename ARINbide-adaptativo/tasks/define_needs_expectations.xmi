@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ao_VSNG-dF8KSZA0si3sXg" name=",_eG9_QP7vEeWZBN8BGKJ1FQ" guid="-ao_VSNG-dF8KSZA0si3sXg" changeDate="2016-04-10T09:41:22.008+0200">
+  <copyrightStatement href="uma://_m6mJ4PzzEeWZBN8BGKJ1FQ#_ZK7v4P47EeWZBN8BGKJ1FQ"/>
   <sections xmi:id="_n8ZMQP7vEeWZBN8BGKJ1FQ" name="Definir necesidades y expectativas para el tipo de cliente" guid="_n8ZMQP7vEeWZBN8BGKJ1FQ">
     <sectionDescription>Definir necesidades y expectativas para el tipo de cliente en cuestión en relación al sistema de información.</sectionDescription>
   </sections>
